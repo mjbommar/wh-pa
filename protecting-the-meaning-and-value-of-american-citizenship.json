@@ -14,33 +14,34 @@
   "og:image:width": "1200",
   "og:image:height": "628",
   "og:image:type": "image/png",
-  "summary": "This Executive Order modifies the interpretation of birthright citizenship under the 14th Amendment. It directs federal agencies to deny recognition of U.S. citizenship to children born in the United States when: 1) their mother was unlawfully present and their father was not a U.S. citizen or permanent resident, or 2) their mother was temporarily legally present and their father was not a U.S. citizen or permanent resident. The order applies only to births occurring 30 days after its issuance and requires federal agencies to issue implementation guidance within that timeframe. It defines parents strictly as biological progenitors and includes standard provisions about implementation and enforcement.",
-  "eli5": "This order changes who gets to be an American citizen when they're born in America. If a baby's mom is visiting or not legally allowed to be in America, and their dad isn't an American citizen or permanent resident, the baby won't automatically become an American citizen anymore.",
+  "summary": "This Executive Order aims to redefine and limit birthright citizenship under the 14th Amendment. It establishes that children born in the US to mothers who are either unlawfully present or temporarily legally present (e.g., on tourist/student visas) AND whose fathers are not US citizens or permanent residents will not automatically receive US citizenship. The order directs federal agencies to stop issuing citizenship documents to such individuals born 30 days after the order's date. It includes specific definitions of 'mother' and 'father' as biological progenitors and requires agencies to update their policies accordingly within 30 days.",
+  "eli5": "This order changes who gets to be an American citizen when they're born in America. If someone's mom isn't allowed to be in America or is just visiting temporarily, and their dad isn't an American citizen or permanent resident, their baby won't automatically become an American citizen anymore.",
   "keywords": [
     "citizenship",
-    "immigration",
     "birthright citizenship",
+    "immigration",
     "14th Amendment",
     "constitutional law",
     "federal agencies",
-    "immigration enforcement",
-    "citizenship documentation",
-    "executive power"
+    "immigration policy",
+    "national security",
+    "constitutional rights",
+    "administrative law"
   ],
   "issues": [
     "Potential constitutional challenges under the 14th Amendment",
-    "Possible discrimination concerns based on parental status",
-    "Administrative burden of verifying parental status at birth",
-    "Impact on healthcare providers and birth registration processes",
-    "Verification challenges for biological parentage",
-    "Potential conflicts with existing citizenship laws and court precedents",
-    "International law and human rights implications",
-    "Enforcement mechanisms unclear"
+    "Possible gender discrimination concerns in differentiating between mother's and father's status",
+    "Implementation challenges in verifying parental status",
+    "Impact on mixed-status families",
+    "Retroactive effects on existing citizenship claims",
+    "Enforceability of biological progenitor definitions",
+    "International law and treaty obligations regarding statelessness"
   ],
   "citations": [
-    "14th Amendment to the U.S. Constitution",
+    "14th Amendment to the US Constitution",
     "Dred Scott v. Sandford, 60 U.S. (19 How.) 393 (1857)",
     "8 U.S.C. 1401"
   ],
+  "action_type": "Executive Order",
   "file_name": "protecting-the-meaning-and-value-of-american-citizenship"
 }

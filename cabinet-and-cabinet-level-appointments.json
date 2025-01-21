@@ -14,27 +14,30 @@
   "og:image:width": "1200",
   "og:image:height": "628",
   "og:image:type": "image/png",
-  "summary": "This document contains President Trump's nominations for his Cabinet and Cabinet-level positions for what appears to be a future administration beginning January 20, 2025. The nominations include all 15 executive department heads (Secretary positions) and several other key administrative positions including Director of National Intelligence, U.S. Trade Representative, SBA Administrator, CIA Director, UN Ambassador, OMB Director, and EPA Administrator. Notable nominations include Marco Rubio for Secretary of State, Robert F. Kennedy Jr. for HHS Secretary, and former Representative Tulsi Gabbard for Director of National Intelligence.",
-  "eli5": "The President picked people to help run different parts of the government, like a team of helpers. Each person would be in charge of something important, like schools, roads, or talking to other countries.",
+  "summary": "This document represents President Trump's Cabinet and Cabinet-level nominations announced on January 20, 2025. The nominations include all fifteen executive department heads (Secretary positions) and seven additional Cabinet-level positions. Notable nominations include Marco Rubio for Secretary of State, Robert F. Kennedy Jr. for Health and Human Services, and former Representative Tulsi Gabbard for Director of National Intelligence. The nominations require Senate confirmation as per Constitutional requirements.",
+  "eli5": "The President has picked new leaders to help run different parts of the government, like someone picking team captains. Each person will be in charge of important things like schools, roads, or keeping the country safe, but they need the Senate to say 'yes' first.",
   "keywords": [
-    "Presidential appointments",
-    "Cabinet nominations",
+    "Cabinet appointments",
+    "Presidential nominations",
     "Executive branch",
-    "Federal government",
     "Senate confirmation",
-    "Trump administration",
-    "Cabinet secretaries",
-    "Political appointments",
-    "Federal departments",
-    "Executive leadership"
+    "Federal government",
+    "Department heads",
+    "Cabinet-level positions",
+    "Administrative appointments"
   ],
   "issues": [
-    "This document appears to be from the future (dated 2025)",
-    "Some nominees may face confirmation challenges due to controversial backgrounds",
-    "Several nominees have previously been political opponents or critics of Trump",
-    "Multiple nominees from same states may raise geographic diversity concerns",
-    "Verification of qualifications and experience for specific roles needed"
+    "Some nominees may face significant confirmation challenges due to controversial backgrounds or positions",
+    "Multiple nominees have previously run against Trump in political races",
+    "Several nominees lack traditional experience in their nominated departments",
+    "Potential conflicts of interest may need to be addressed during confirmation",
+    "Unusual selection of former critics and opponents for cabinet positions"
   ],
-  "citations": [],
+  "citations": [
+    "U.S. Constitution, Article II, Section 2, Clause 2 (Appointments Clause)",
+    "5 U.S.C. \u00a7 3110 (Anti-nepotism statute)",
+    "28 U.S.C. \u00a7 532 (Qualification requirements for certain positions)"
+  ],
+  "action_type": "Presidential Action",
   "file_name": "cabinet-and-cabinet-level-appointments"
 }

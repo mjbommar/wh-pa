@@ -14,36 +14,33 @@
   "og:image:width": "1200",
   "og:image:height": "628",
   "og:image:type": "image/png",
-  "summary": "This Executive Order, dated January 20, 2025, establishes a policy to reinstate and strengthen federal capital punishment. The order directly challenges President Biden's prior moratorium on federal executions and his December 2024 commutation of 37 death row inmates. The order directs the Attorney General to aggressively pursue death penalty cases, particularly for crimes involving law enforcement officers or illegal aliens. It mandates reviewing imprisonment conditions for previously commuted inmates and facilitating states' access to lethal injection drugs. The AG is also directed to challenge Supreme Court precedents limiting capital punishment and coordinate with state/local law enforcement to prioritize violent crime prosecution.",
-  "eli5": "This is a rule that says the government wants to bring back and use the death penalty (putting criminals to death as punishment) more often, especially for people who commit really bad crimes. It changes some earlier rules that had made it harder to use the death penalty.",
+  "summary": "This Executive Order aims to reinstate and strengthen federal death penalty enforcement. It directs the Attorney General to aggressively pursue capital punishment, particularly for crimes against law enforcement and those committed by illegal aliens. The order responds to previous administration actions that limited federal executions and commuted death sentences. It mandates review of imprisonment conditions for commuted sentences, requires support for state-level capital punishment implementation, and directs the DOJ to challenge Supreme Court precedents limiting capital punishment. The order emphasizes public safety and coordination between federal and state law enforcement.",
+  "eli5": "The President signed a paper saying that when someone commits a very terrible crime, the government should be allowed to use the death penalty as punishment. The order tries to make it easier for both the federal government and states to use this punishment.",
   "keywords": [
-    "Capital Punishment",
-    "Death Penalty",
-    "Criminal Justice",
-    "Law Enforcement",
-    "Federal Executions",
-    "Lethal Injection",
-    "Prison Reform",
-    "Immigration",
-    "Public Safety",
-    "Violent Crime"
+    "death penalty",
+    "capital punishment",
+    "criminal justice",
+    "law enforcement",
+    "public safety",
+    "immigration",
+    "federal executions",
+    "state rights",
+    "lethal injection",
+    "sentencing"
   ],
   "issues": [
     "Potential constitutional challenges regarding cruel and unusual punishment",
-    "Federal overreach into state criminal justice systems",
-    "Concerns about racial and socioeconomic bias in capital punishment",
-    "International law and human rights implications",
-    "Ethical concerns regarding lethal injection drug procurement",
-    "Possible conflicts with state laws and policies",
-    "Due process concerns regarding expedited capital cases",
-    "Separation of powers issues in challenging Supreme Court precedents"
+    "Separation of powers concerns regarding directive to challenge Supreme Court precedents",
+    "Federalism issues in directing state-level prosecution priorities",
+    "Ethical concerns regarding expanded use of capital punishment",
+    "Implementation challenges regarding lethal injection drug supplies",
+    "Potential legal challenges to retroactive prosecution of commuted sentences"
   ],
   "citations": [
     "28 U.S.C. 2265",
     "Constitution of the United States",
-    "Justice Manual",
-    "Presidential commutation orders of December 23, 2024",
-    "Biden Administration moratorium on Federal executions (2021)"
+    "Justice Manual"
   ],
+  "action_type": "Executive Order",
   "file_name": "restoring-the-death-penalty-and-protecting-public-safety"
 }

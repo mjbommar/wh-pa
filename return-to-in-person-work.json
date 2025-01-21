@@ -13,32 +13,31 @@
   "og:image:width": "1200",
   "og:image:height": "628",
   "og:image:type": "image/png",
-  "summary": "This presidential memorandum directs all executive branch department and agency heads to end remote work arrangements and require employees to return to in-person work at their designated duty stations on a full-time basis. Department and agency heads retain discretionary authority to grant exemptions as they deem necessary. The memorandum includes a standard implementation clause requiring consistency with applicable law.",
-  "eli5": "The President is telling all government workers that they need to stop working from home and come back to their offices to work. Some workers might still be allowed to work from home if their bosses say it's okay.",
+  "summary": "This Presidential Memorandum directs all executive branch department and agency heads to end remote work policies and require federal employees to return to in-person work at their designated duty stations on a full-time basis. Department and agency heads retain discretion to make necessary exemptions. The memorandum requires implementation to be consistent with applicable law.",
+  "eli5": "The President is telling all government workers that they need to stop working from home and come back to their regular offices to work. Some workers might still be allowed to work from home if their bosses think it's necessary.",
   "keywords": [
     "remote work",
-    "telework",
     "federal employees",
-    "workplace policy",
     "return to office",
     "duty station",
-    "executive branch",
-    "government agencies",
-    "workplace management",
-    "administrative policy"
+    "workplace policy",
+    "federal workforce",
+    "telework",
+    "in-person work",
+    "agency operations"
   ],
   "issues": [
-    "No specific timeline provided beyond 'as soon as practicable'",
-    "No criteria specified for granting exemptions",
-    "Potential impact on employee morale and retention",
-    "Possible conflicts with existing union agreements",
-    "Accommodation requirements under ADA not specifically addressed",
-    "No mention of continuity of operations planning",
-    "Impact on agency productivity and cost savings not addressed",
-    "No transition period specified"
+    "No specific timeline provided for implementation beyond 'as soon as practicable'",
+    "No criteria specified for determining necessary exemptions",
+    "Potential impact on federal workers with disabilities or medical accommodations",
+    "Possible conflicts with existing telework agreements or union contracts",
+    "No mention of COVID-19 or public health considerations",
+    "Impact on agency productivity and employee retention",
+    "Potential office space and facility readiness concerns"
   ],
   "citations": [
-    "No specific citations to laws, rules, or authorities are provided in the text"
+    "No specific citations to laws or regulations provided in the text"
   ],
+  "action_type": "Presidential Memorandum",
   "file_name": "return-to-in-person-work"
 }

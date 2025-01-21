@@ -14,30 +14,30 @@
   "og:image:width": "1200",
   "og:image:height": "628",
   "og:image:type": "image/png",
-  "summary": "This document appears to be a list of sub-cabinet level presidential appointments dated January 20, 2025, submitted to the Senate for confirmation. The appointments cover numerous high-level positions across multiple federal agencies including the Departments of Defense, Health and Human Services, State, Treasury, and various independent agencies. Each nomination includes the appointee's name, state of residence, designated position, and often notes who they are replacing. Many of the positions are replacing officials who have resigned from the Biden administration, suggesting this represents a transition to a new administration.",
-  "eli5": "The President is picking new people to help run different parts of the government, like someone who will be in charge of NASA, someone to run the FBI, and lots of other important jobs. These people need the Senate to say 'yes' before they can start their new jobs.",
+  "summary": "This document contains President Trump's nominations for various sub-cabinet level and other senior executive branch positions in 2025. The nominations include key positions across multiple departments including Defense, Treasury, State, Justice, Health and Human Services, and various independent agencies. Notable appointments include Kashyap Patel as FBI Director, Mehmet Oz as CMS Administrator, and Jayanta Bhattacharya as NIH Director. The nominations are being submitted to the Senate for confirmation as required by the Constitution's Appointments Clause.",
+  "eli5": "The President is picking new people to help run different parts of the government, like someone to be in charge of the FBI and someone to run the space agency NASA. These people need the Senate to say 'yes' before they can start their new jobs.",
   "keywords": [
-    "Presidential Appointments",
-    "Senate Confirmation",
-    "Sub-Cabinet Positions",
-    "Federal Agencies",
-    "Executive Branch",
-    "Political Transition",
-    "Government Administration",
-    "Federal Leadership",
-    "Political Nominations"
+    "appointments",
+    "nominations",
+    "sub-cabinet",
+    "executive branch",
+    "federal agencies",
+    "Senate confirmation",
+    "presidential appointments",
+    "federal leadership",
+    "administration officials"
   ],
   "issues": [
-    "The date (January 20, 2025) suggests this is a future document",
-    "Some positions appear to be duplicated in the list",
-    "There's a mix of new positions and replacements for resignations",
-    "Significant number of resignations noted could indicate a major administration change",
-    "Some positions may require specific qualifications or experience that should be verified",
-    "Potential conflicts of interest may need to be evaluated for nominees"
+    "Several positions appear to be replacements for resignations, suggesting significant turnover",
+    "Some nominees may face confirmation challenges due to controversial backgrounds",
+    "Multiple key national security positions being filled simultaneously",
+    "Creation of new position noted for CDC Director",
+    "Some nominations appear duplicated in the list"
   ],
   "citations": [
-    "No specific legal citations are present in the text",
-    "References to various federal agencies and positions are made but without specific statutory citations"
+    "U.S. Constitution, Article II, Section 2, Clause 2 (Appointments Clause)",
+    "Various agency organic statutes defining positions and terms"
   ],
+  "action_type": "Presidential Action",
   "file_name": "sub-cabinet-appointments"
 }

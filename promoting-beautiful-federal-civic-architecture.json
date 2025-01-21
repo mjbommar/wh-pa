@@ -13,30 +13,30 @@
   "og:image:width": "1200",
   "og:image:height": "628",
   "og:image:type": "image/png",
-  "summary": "This Presidential Memorandum directs the GSA Administrator to provide recommendations within 60 days regarding Federal building architecture. The directive emphasizes that Federal buildings should be visually recognizable as civic structures and reflect regional, traditional, and classical architectural styles. The memorandum requires reviewing and potentially revising the Guiding Principles for Federal Architecture and establishing procedures for community input in design selection. Additionally, it institutes a notification requirement if the GSA Administrator intends to approve designs that deviate from these principles, requiring 30-day advance notice through the Assistant to the President for Domestic Policy.",
-  "eli5": "The President wants government buildings to look nice and special, like important buildings should look. Before building new government buildings, they need to check with local people and make sure the buildings look like they belong in that area.",
+  "summary": "This Presidential Memorandum directs the GSA Administrator to develop recommendations within 60 days for ensuring Federal public buildings embody civic architecture that reflects traditional and classical design elements while respecting regional architectural heritage. The directive aims to make government buildings clearly identifiable and enhance public spaces. The memorandum requires the GSA to consult with the Assistant to the President for Domestic Policy and other agency heads as needed. Additionally, it establishes a notification requirement if the GSA plans to approve designs that deviate from these principles, mandating 30-day advance notice through the Assistant to the President for Domestic Policy before rejecting alternative designs that would incur substantial costs.",
+  "eli5": "The President wants government buildings to look nice and special, like important buildings from history. He's asking people to make rules about how to design new government buildings so they look more beautiful and make people proud of their country.",
   "keywords": [
-    "Federal architecture",
+    "architecture",
+    "civic buildings",
+    "classical design",
+    "federal buildings",
     "GSA",
-    "Civic buildings",
-    "Classical architecture",
-    "Community input",
-    "Design approval",
-    "Public spaces",
-    "Traditional architecture",
-    "Administrative procedure",
-    "Government buildings"
+    "public spaces",
+    "traditional design",
+    "urban planning",
+    "architectural heritage",
+    "government facilities"
   ],
   "issues": [
-    "No specific criteria for what constitutes 'beautiful' architecture",
-    "Potential conflict between traditional/classical styles and modern architectural innovations",
-    "Unclear standards for measuring community input effectiveness",
-    "Possible increased costs for implementing classical architectural features",
-    "Potential delays in construction due to additional approval requirements",
-    "Subjective nature of architectural beauty and style preferences"
+    "No specific definition of 'beautiful' or 'classical' architecture is provided",
+    "Potential conflict between regional architectural styles and classical design requirements",
+    "Cost implications of implementing stricter design requirements not addressed",
+    "No clear metrics for measuring success or compliance",
+    "Potential limitation on architectural innovation and contemporary design"
   ],
   "citations": [
     "Guiding Principles for Federal Architecture"
   ],
+  "action_type": "Presidential Memorandum",
   "file_name": "promoting-beautiful-federal-civic-architecture"
 }

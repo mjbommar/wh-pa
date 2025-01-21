@@ -14,32 +14,33 @@
   "og:image:width": "1200",
   "og:image:height": "628",
   "og:image:type": "image/png",
-  "summary": "This Executive Order, dated January 20, 2025, establishes a new policy direction regarding U.S. participation in international environmental agreements. The order prioritizes American economic interests and jobs while maintaining environmental leadership. Its primary action is to withdraw the United States from the Paris Agreement and other related UN climate commitments. The order directs immediate cessation of U.S. financial commitments under these agreements and revokes the U.S. International Climate Finance Plan. It requires multiple federal agencies to report on actions taken to rescind related policies within 30 days. The order emphasizes economic efficiency, American prosperity, consumer choice, and fiscal restraint in future international energy engagements.",
-  "eli5": "The President signed a paper saying America will leave some big world agreements about protecting the environment because they cost too much money and might hurt American jobs. Instead, America will make its own choices about how to help the environment while keeping the economy strong.",
+  "summary": "This Executive Order directs the immediate withdrawal of the United States from the Paris Agreement and other international climate agreements under the United Nations Framework Convention on Climate Change. It revokes the U.S. International Climate Finance Plan and requires multiple federal agencies to rescind related policies. The order emphasizes prioritizing American economic interests over international environmental commitments, arguing that the U.S. has successfully balanced economic growth with environmental protection through market-driven approaches. The order mandates specific actions from the U.S. Ambassador to the UN, including formal withdrawal notifications and cessation of financial commitments. It also requires various agency heads to report on their actions to implement these changes within 30 days.",
+  "eli5": "The President signed a paper saying America will leave special agreements with other countries about helping the environment. Instead of following other countries' rules about pollution and climate change, America will make its own decisions that put American jobs and money first.",
   "keywords": [
     "Paris Agreement",
     "Climate Change",
-    "International Environmental Policy",
+    "International Agreements",
+    "Environmental Policy",
     "Economic Policy",
     "United Nations",
-    "Environmental Protection",
     "Foreign Relations",
-    "Energy Policy",
-    "Federal Agencies",
+    "America First",
+    "Environmental Protection",
     "Financial Commitments"
   ],
   "issues": [
-    "No specific metrics or standards defined for evaluating economic impact",
-    "Potential diplomatic consequences of immediate withdrawal from international agreements",
-    "Lack of alternative framework for international environmental cooperation",
-    "Unclear impact on existing environmental protection measures",
-    "No transition period specified for policy changes",
-    "Potential conflict with existing treaty obligations"
+    "Potential diplomatic consequences of withdrawing from international climate agreements",
+    "Impact on global climate change mitigation efforts",
+    "Lack of specific alternative environmental protection measures",
+    "Possible economic implications of isolation from international climate initiatives",
+    "Legal implications of immediate withdrawal versus required notice periods",
+    "Impact on existing international environmental commitments and partnerships"
   ],
   "citations": [
     "United Nations Framework Convention on Climate Change",
     "Paris Agreement",
     "U.S. International Climate Finance Plan"
   ],
+  "action_type": "Executive Order",
   "file_name": "putting-america-first-in-international-environmental-agreements"
 }

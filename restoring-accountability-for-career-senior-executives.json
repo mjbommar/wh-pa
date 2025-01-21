@@ -14,32 +14,33 @@
   "og:image:width": "1200",
   "og:image:height": "628",
   "og:image:type": "image/png",
-  "summary": "This Presidential Memorandum addresses accountability measures for career Senior Executive Service (SES) officials. It asserts the President's constitutional authority over executive branch employees and establishes new requirements for managing SES performance. The memo directs agency heads to implement specific changes, including adopting new SES Performance Plans, reconstituting Executive Resources Boards with noncareer officials as majority members, revising Performance Review Board membership, and taking immediate action against underperforming SES officials. The memo emphasizes the President's removal power as essential to ensuring faithful execution of laws and policies.",
-  "eli5": "The President wants to make sure important government workers called Senior Executives do their jobs properly and follow the rules. If they don't do a good job, the President wants to be able to replace them with someone who will.",
+  "summary": "This Presidential Memorandum aims to increase accountability among Career Senior Executive Service (SES) officials by reinforcing presidential authority over their performance and retention. The memo asserts the President's constitutional power to remove subordinates as essential to executing laws faithfully. It directs specific actions including: requiring OPM to issue new SES Performance Plans, mandating agency heads to reassign SES members as needed, reconstituting Executive Resources Boards with majority non-career officials, reforming Performance Review Boards, and requiring immediate action against underperforming SES officials. The memo emphasizes direct presidential control over the executive branch workforce through enhanced oversight and removal powers.",
+  "eli5": "The President wants to make sure important government workers called Senior Executives do their jobs properly and follow instructions. If they don't do a good job or don't follow the rules, they can be moved to different jobs or even fired.",
   "keywords": [
     "Senior Executive Service",
     "Executive Branch",
-    "Presidential Authority",
-    "Government Accountability",
+    "Accountability",
     "Performance Management",
-    "Federal Employment",
+    "Presidential Authority",
+    "Federal Workforce",
+    "Government Reform",
     "Executive Power",
-    "Constitutional Authority",
-    "Personnel Reform"
+    "Personnel Management",
+    "Administrative Law"
   ],
   "issues": [
     "Potential politicization of career civil service positions",
-    "Question of balance between political accountability and civil service protection",
-    "Possible impact on institutional knowledge and continuity",
-    "Concerns about arbitrary removal of career officials",
-    "Implementation timeline feasibility",
-    "Legal challenges to expanded removal authority"
+    "Possible reduction in SES independence and professional judgment",
+    "Questions about due process protections for career executives",
+    "Balance between political control and merit-based civil service",
+    "Impact on institutional knowledge and continuity of government operations"
   ],
   "citations": [
     "5 U.S.C. \u00a7 3131",
     "5 U.S.C. \u00a7 3395",
-    "Seila Law LLC v. Consumer Financial Protection Bureau, 591 U.S. 197 (2020)",
-    "Article II of the Constitution"
+    "Article II of the Constitution",
+    "Seila Law LLC v. Consumer Financial Protection Bureau, 591 U.S. 197 (2020)"
   ],
+  "action_type": "Presidential Memorandum",
   "file_name": "restoring-accountability-for-career-senior-executives"
 }

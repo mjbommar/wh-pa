@@ -14,35 +14,36 @@
   "og:image:width": "1200",
   "og:image:height": "628",
   "og:image:type": "image/png",
-  "summary": "This Presidential Memorandum, dated January 20, 2025, implements a temporary moratorium on offshore wind energy leasing and initiates a comprehensive review of federal wind energy practices. The order withdraws all areas of the Outer Continental Shelf from wind energy leasing, effective January 21, 2025, until revoked. It halts new approvals for both onshore and offshore wind projects pending a multi-agency review of environmental impacts, economic costs, and legal compliance. The memorandum specifically addresses the Lava Ridge Wind Project, requiring a review of its Record of Decision and implementing a temporary moratorium on related activities. Additionally, it mandates an assessment of environmental impacts and community costs related to defunct windmills.",
-  "eli5": "The President signed a paper that says we need to pause building new wind farms in the ocean and on land. This is like taking a timeout to make sure these wind farms are safe for animals, won't cost too much money, and won't cause problems for boats and fishing.",
+  "summary": "This Presidential Memorandum orders a temporary withdrawal of all areas on the Outer Continental Shelf (OCS) from offshore wind energy leasing and initiates a comprehensive review of federal wind leasing and permitting practices. The memorandum has two major components: 1) It withdraws all OCS areas from wind energy leasing starting January 21, 2025, until revoked, though existing leases remain in effect but subject to review; 2) It halts new approvals for both onshore and offshore wind projects pending a comprehensive assessment of environmental impacts, economic costs, and legal adequacy of current practices. The memorandum specifically addresses the Lava Ridge Wind Project, placing a moratorium on activities and requiring review of its Record of Decision. It also calls for assessment of environmental impacts and removal costs of defunct windmills.",
+  "eli5": "The President is pressing pause on building new wind farms in the ocean and on land. The government wants to study if these wind farms might hurt animals, cost too much money, or cause other problems before letting companies build more of them.",
   "keywords": [
-    "offshore wind",
-    "renewable energy",
-    "environmental review",
-    "marine protection",
-    "energy policy",
-    "Outer Continental Shelf",
-    "Lava Ridge Wind Project",
-    "wind energy leasing",
+    "wind energy",
+    "offshore leasing",
     "environmental impact",
-    "federal permitting"
+    "Outer Continental Shelf",
+    "renewable energy",
+    "marine conservation",
+    "economic assessment",
+    "regulatory review",
+    "Lava Ridge Wind Project",
+    "environmental protection"
   ],
   "issues": [
     "Potential economic impact on existing wind energy projects and investments",
-    "Duration of moratorium is indefinite ('until revoked')",
-    "Impact on state and national renewable energy goals",
-    "Potential legal challenges from affected parties",
-    "Environmental review process timeline not specified",
-    "Balance between environmental protection and energy development",
-    "Effect on job market in renewable energy sector"
+    "Legal implications for current lease holders",
+    "Environmental protection vs renewable energy development balance",
+    "Impact on U.S. clean energy goals and commitments",
+    "Jurisdiction and authority questions over existing projects",
+    "Timeline uncertainty for the temporary withdrawal",
+    "Implementation costs and resource allocation for reviews"
   ],
   "citations": [
     "Outer Continental Shelf Lands Act, 43 U.S.C. 1341(a)",
-    "43 U.S.C. 1331",
+    "Outer Continental Shelf Lands Act, 43 U.S.C. 1331",
     "National Environmental Policy Act",
     "Bureau of Land Management Record of Decision (December 5, 2024)",
     "Lava Ridge Wind Project Final Environmental Impact Statement"
   ],
+  "action_type": "Presidential Memorandum",
   "file_name": "temporary-withdrawal-of-all-areas-on-the-outer-continental-shelf-from-offshore-wind-leasing-and-review-of-the-federal-governments-leasing-and-permitting-practices-for-wind-projects"
 }

@@ -14,29 +14,29 @@
   "og:image:width": "1200",
   "og:image:height": "628",
   "og:image:type": "image/png",
-  "summary": "This Presidential Proclamation orders that the United States flag be flown at full-staff on Inauguration Day 2025 and all future Inauguration Days. The order applies to all federal buildings, military installations, naval vessels, and U.S. facilities abroad. The proclamation specifically notes that after Inauguration Day, the flag should return to half-staff in accordance with Proclamation 10876, which was issued following the death of former President Jimmy Carter, until the 30-day mourning period concludes.",
-  "eli5": "The President said that on Inauguration Day, which is when a new president takes office, the American flag should be raised all the way up to the top of flagpoles everywhere in America and at American buildings around the world. After the day is over, the flag will go back to being halfway up to honor former President Carter who recently passed away.",
+  "summary": "This Presidential Proclamation orders that the United States flag be flown at full-staff on Inauguration Day 2025 and all future Inauguration Days. The order applies to all federal buildings, military installations, naval vessels, and U.S. facilities abroad. The proclamation specifically notes that after Inauguration Day, the flag should return to half-staff in accordance with Proclamation 10876, which honors the death of former President Jimmy Carter until the 30-day mourning period concludes.",
+  "eli5": "The President made a rule that on Inauguration Day, which is when a new president takes office, all American flags should be raised all the way up on their flagpoles to show respect for this special day. After the celebration is over, the flags will go halfway down again to remember former President Carter who recently passed away.",
   "keywords": [
     "Flag",
     "Inauguration Day",
-    "Presidential Proclamation",
-    "Federal Buildings",
-    "Military Installations",
-    "Half-staff",
-    "Full-staff",
-    "Presidential Memorial",
-    "Federal Protocol",
-    "Government Buildings"
+    "Federal buildings",
+    "Military installations",
+    "Naval vessels",
+    "Diplomatic facilities",
+    "Presidential transition",
+    "National symbols",
+    "Presidential memorial",
+    "Half-staff protocol"
   ],
   "issues": [
-    "The proclamation assumes authority for all future Inauguration Days, which could potentially be modified by future presidents",
-    "Potential coordination challenges for implementing the flag status change across all federal facilities globally",
-    "Timing of flag position changes between full-staff and half-staff may need clarification",
-    "Interaction with other flag protocols or proclamations that might be in effect"
+    "The timing of this proclamation coincides with a mourning period for a former president, creating potential protocol questions",
+    "The proclamation creates a permanent change to flag protocol for all future Inauguration Days",
+    "Potential confusion about timing of transition between full-staff and half-staff protocols"
   ],
   "citations": [
     "Constitution of the United States",
     "Proclamation 10876 of December 29, 2024 (Announcing the Death of James Earl Carter, Jr.)"
   ],
+  "action_type": "Proclamation",
   "file_name": "flying-the-flag-of-the-united-states-at-full-staff-on-inauguration-day"
 }

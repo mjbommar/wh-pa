@@ -14,27 +14,26 @@
   "og:image:width": "1200",
   "og:image:height": "628",
   "og:image:type": "image/png",
-  "summary": "This Presidential action from January 20, 2025, designates various individuals as Chairmen, Acting Chairmen, and Chairs of multiple federal regulatory agencies and commissions. The appointments include leadership positions at major regulatory bodies such as the FCC, FERC, FTC, NLRB, SEC, EEOC, FDIC, and others. Several appointments are designated as 'Acting' chairs, suggesting temporary or interim leadership roles. This appears to be a standard organizational action taken at the beginning of a presidential administration to establish leadership at key federal agencies.",
-  "eli5": "The President picked new leaders for different government groups that help run the country. Some people are permanent leaders, while others are temporary leaders until permanent ones are chosen.",
+  "summary": "This Presidential Action designates new Chairmen and Acting Chairmen to various federal agencies and regulatory commissions. The appointments include leadership positions at major regulatory bodies including the FCC, FERC, FTC, NLRB, SEC, EEOC, FDIC, and others. Several appointments are designated as 'Acting' chairs, suggesting these may be temporary appointments pending formal nomination and confirmation processes.",
+  "eli5": "The President picked new leaders for different government groups that help run the country. Some leaders are permanent and some are temporary until new permanent leaders can be chosen.",
   "keywords": [
-    "Presidential Appointments",
-    "Federal Agencies",
-    "Agency Leadership",
-    "Executive Action",
-    "Federal Commissions",
-    "Acting Chairs",
-    "Regulatory Agencies",
-    "Administrative Law",
-    "Federal Government",
-    "Agency Chairs"
+    "federal agencies",
+    "regulatory commissions",
+    "appointments",
+    "chairmen",
+    "acting chairmen",
+    "executive leadership",
+    "federal governance",
+    "administrative appointments"
   ],
   "issues": [
-    "No specification of term lengths for these appointments",
-    "No explanation for why some positions are 'Acting' while others are permanent",
-    "No mention of confirmation requirements or processes",
-    "Unclear if these appointments require Senate confirmation",
-    "No reference to previous chair holders or transition processes"
+    "No specification of terms of service for the appointments",
+    "Unclear what happens to previous chairmen",
+    "No mention of confirmation requirements",
+    "Multiple 'Acting' appointments may indicate temporary leadership transitions",
+    "No explanation of selection criteria or qualifications"
   ],
   "citations": [],
+  "action_type": "Presidential Action",
   "file_name": "designation-of-chairmen-and-acting-chairmen"
 }

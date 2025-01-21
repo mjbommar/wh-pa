@@ -13,34 +13,32 @@
   "og:image:width": "1200",
   "og:image:height": "628",
   "og:image:type": "image/png",
-  "summary": "This Executive Order establishes a new Department of Government Efficiency (DOGE) to modernize federal technology and software systems. The order reorganizes the existing United States Digital Service into the U.S. DOGE Service (USDS), placing it within the Executive Office of the President. It creates a temporary organization within USDS that will operate for 18 months until July 4, 2026. The order mandates each federal agency to create DOGE Teams of at least four employees, including technical and legal expertise. The USDS Administrator is granted broad authority to access unclassified agency records and systems to implement software modernization initiatives, with an emphasis on interoperability and data integrity.",
-  "eli5": "The President is creating a new team of people to help make the government's computers and technology work better and faster. They will help different parts of the government share information and work together more easily.",
+  "summary": "This Executive Order establishes a new Department of Government Efficiency through the reorganization and renaming of the United States Digital Service to the United States DOGE Service (USDS). The order creates a temporary organization within USDS that will operate until July 4, 2026, led by a USDS Administrator reporting to the White House Chief of Staff. It mandates the creation of DOGE Teams within federal agencies, comprising at least four employees including technical, HR, and legal expertise. The order focuses on modernizing federal technology and software systems, promoting interoperability, and ensuring data integrity across agencies. It grants USDS broad access to unclassified agency records and systems while requiring adherence to data protection standards.",
+  "eli5": "The President created a new team called DOGE to help make government computers and software work better together. It's like having a group of tech experts help different government offices share their information and work more smoothly as a team.",
   "keywords": [
-    "Government Efficiency",
-    "Digital Service",
-    "Technology Modernization",
-    "Federal Software",
-    "Interoperability",
-    "Data Management",
-    "Executive Reorganization",
-    "Information Technology",
-    "Agency Coordination",
-    "Government Technology"
+    "government efficiency",
+    "digital service",
+    "DOGE",
+    "technology modernization",
+    "software systems",
+    "interoperability",
+    "data management",
+    "federal agencies",
+    "organizational restructuring",
+    "temporary organization"
   ],
   "issues": [
-    "No specific funding mechanisms or appropriations are outlined",
-    "Potential privacy and security concerns with broad system access",
-    "Short implementation timeline (30 days) for agency DOGE teams",
-    "Unclear relationship with existing IT modernization initiatives",
-    "Vague standards for 'rigorous data protection'",
-    "Potential overlap or conflict with existing agency IT authorities"
+    "Broad authority to access agency records could raise privacy and security concerns",
+    "18-month timeline may be insufficient for significant technological transformation",
+    "Potential overlap with existing agency IT departments and initiatives",
+    "No specific funding mechanisms outlined",
+    "Unclear metrics for measuring success of efficiency improvements",
+    "Question of what happens after the temporary organization terminates"
   ],
   "citations": [
     "5 U.S.C. \u00a7 551",
-    "5 U.S.C. \u00a7 3161",
-    "Constitution of the United States",
-    "Executive Office of the President authority",
-    "White House Chief of Staff authority"
+    "5 U.S.C. \u00a7 3161"
   ],
+  "action_type": "Executive Order",
   "file_name": "establishing-and-implementing-the-presidents-department-of-government-efficiency"
 }

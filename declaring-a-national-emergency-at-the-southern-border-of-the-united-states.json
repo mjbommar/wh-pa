@@ -14,37 +14,36 @@
   "og:image:width": "1200",
   "og:image:height": "628",
   "og:image:type": "image/png",
-  "summary": "This Presidential Proclamation declares a national emergency at the southern border of the United States, citing threats to national security from cartels, criminal gangs, terrorists, human traffickers, and drug smuggling. The proclamation authorizes the deployment of Armed Forces, including the Ready Reserve and National Guard, to support the Department of Homeland Security in achieving operational control of the southern border. It directs the construction of additional physical barriers, permits counter-drone operations, and revokes a previous proclamation that had terminated border wall construction. The order requires reports from Defense and Homeland Security officials within 30 and 90 days, including consideration of invoking the Insurrection Act.",
-  "eli5": "The President is saying there's a big problem at the border between the United States and Mexico, with lots of dangerous people and drugs coming in illegally. He's sending soldiers to help guard the border and ordering more walls to be built to keep people from entering the country without permission.",
+  "summary": "This Presidential Proclamation declares a national emergency at the southern border of the United States, citing threats to national sovereignty from cartels, terrorists, human traffickers, and drug smugglers. The proclamation invokes presidential emergency powers to deploy military forces, including the National Guard and Ready Reserve, to assist the Department of Homeland Security in securing the border. It authorizes construction of additional physical barriers, allows for counter-drone operations near the border, and revokes a previous proclamation that had terminated border wall construction. The document requires reports from Defense and Homeland Security officials on implementation and border conditions, with consideration of invoking the Insurrection Act.",
+  "eli5": "The President is saying there's a big emergency at the border between the United States and Mexico. He's sending soldiers and building walls to help stop people from entering the country illegally and to catch bad people trying to bring drugs or harm Americans.",
   "keywords": [
-    "national emergency",
-    "border security",
-    "immigration",
-    "military deployment",
-    "border wall",
-    "homeland security",
-    "drug trafficking",
-    "national guard",
-    "law enforcement",
-    "executive power"
+    "National Emergency",
+    "Border Security",
+    "Military Deployment",
+    "Immigration",
+    "Border Wall",
+    "National Guard",
+    "Homeland Security",
+    "Drug Trafficking",
+    "Law Enforcement",
+    "National Defense"
   ],
   "issues": [
-    "Potential constitutional concerns regarding use of military forces for domestic law enforcement",
-    "Questions about funding sources for proposed actions",
-    "Lack of specific metrics defining 'operational control'",
+    "Potential constitutional questions regarding use of military for domestic law enforcement",
+    "Broad emergency powers with limited oversight mechanisms",
+    "Fiscal impact of military deployment and construction not addressed",
     "Possible conflicts with state jurisdiction and authority",
-    "International law and treaty implications",
-    "Humanitarian concerns regarding treatment of migrants",
-    "Precedent for future emergency declarations"
+    "Humanitarian concerns regarding detention and use of force",
+    "Verification of claimed threats and statistics"
   ],
   "citations": [
     "National Emergencies Act (50 U.S.C. 1601 et seq.)",
-    "10 U.S.C. 2302",
-    "10 U.S.C. 2214",
     "10 U.S.C. 2808",
-    "Proclamation 10142 of January 20, 2021",
+    "10 U.S.C. 2214",
+    "10 U.S.C. 12302",
     "Insurrection Act of 1807",
-    "50 U.S.C. 1631"
+    "Proclamation 10142 of January 20, 2021"
   ],
+  "action_type": "Presidential Proclamation",
   "file_name": "declaring-a-national-emergency-at-the-southern-border-of-the-united-states"
 }

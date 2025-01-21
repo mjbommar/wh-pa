@@ -14,30 +14,29 @@
   "og:image:width": "1200",
   "og:image:height": "628",
   "og:image:type": "image/png",
-  "summary": "This Executive Order, dated January 20, 2025, focuses on strengthening border security measures and immigration enforcement. The order outlines comprehensive policies to address what it characterizes as an 'unprecedented' border crisis, including:\n\n1. Construction of physical barriers along the southern border\n2. Deployment of additional personnel\n3. Stricter detention policies\n4. Resumption of the Migrant Protection Protocols\n5. Termination of certain parole programs\n6. Enhanced DNA testing and identification requirements\n7. Prioritized prosecution of border-related offenses\n\nThe order directs multiple federal agencies, including the Departments of Defense, Homeland Security, and State, to implement these measures within their respective authorities. It specifically targets the elimination of 'catch-and-release' policies and aims to enhance cooperation between federal and state law enforcement agencies.",
-  "eli5": "The President signed a new rule that tells the government to make the country's borders stronger and safer. This means building more walls, adding more security guards, and making sure people can only enter the country if they have permission.",
+  "summary": "This Executive Order outlines a comprehensive approach to border security and immigration enforcement. It establishes policies to construct physical barriers along the southern border, expand detention capacity, resume the Migrant Protection Protocols (\"Remain in Mexico\"), terminate certain parole programs, and enhance law enforcement efforts. The order directs multiple federal agencies to coordinate on border security, including the Departments of Defense, Homeland Security, State, and Justice. Key provisions include mandating detention of apprehended individuals, ending \"catch-and-release\" practices, implementing DNA testing requirements, and prioritizing prosecution of border-related crimes including human trafficking. The order also calls for new international agreements and cooperation to manage migration flows.",
+  "eli5": "The President wants to make the country's borders more secure by building walls, adding more guards, and making sure people who try to enter the country without permission are sent back home instead of being allowed to stay. It's like making sure your house has strong locks and only letting in people who have permission to visit.",
   "keywords": [
-    "border security",
-    "immigration enforcement",
-    "physical barriers",
-    "detention",
-    "parole",
-    "DNA testing",
-    "law enforcement",
-    "smuggling",
-    "trafficking",
-    "international cooperation",
-    "southern border",
-    "catch and release"
+    "Border Security",
+    "Immigration Enforcement",
+    "Border Wall",
+    "Detention",
+    "Migrant Protection Protocols",
+    "Parole",
+    "Law Enforcement",
+    "International Cooperation",
+    "DNA Testing",
+    "Human Trafficking",
+    "Southern Border"
   ],
   "issues": [
-    "Implementation costs and funding sources not specified",
+    "Implementation costs not addressed",
     "Potential legal challenges to expanded detention policies",
     "International relations impact with Mexico and other countries",
-    "Logistics of mass detention facilities",
     "Humanitarian concerns regarding detention conditions",
-    "Constitutional questions regarding state-federal enforcement partnerships",
-    "Resource allocation between physical barriers and personnel"
+    "Resource allocation challenges for multiple agencies",
+    "Constitutional questions regarding state-federal cooperation",
+    "Practical feasibility of complete operational control"
   ],
   "citations": [
     "Immigration and Nationality Act (INA), 8 U.S.C. 1101 et seq.",
@@ -45,7 +44,8 @@
     "8 U.S.C. 1103(a)(2) and (4)-(6)",
     "8 U.S.C. 1225(b)(2)(C)",
     "8 U.S.C. 1158(a)(2)(A)",
-    "DNA Fingerprint Act of 2005, Title X of Public Law 109-162"
+    "DNA Fingerprint Act of 2005, Public Law 109-162, Title X"
   ],
+  "action_type": "Executive Order",
   "file_name": "securing-our-borders"
 }

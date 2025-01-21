@@ -14,36 +14,34 @@
   "og:image:width": "1200",
   "og:image:height": "628",
   "og:image:type": "image/png",
-  "summary": "This Executive Order, dated January 20, 2025, directs the withdrawal of the United States from the World Health Organization (WHO). The order cites WHO's mishandling of the COVID-19 pandemic, failure to adopt reforms, susceptibility to political influence, and disproportionate payment requirements from the US compared to other nations. Key actions include: revoking the 2021 retraction of withdrawal, pausing US funding to WHO, recalling US personnel, identifying alternative partners, ceasing negotiations on the WHO Pandemic Agreement, and reviewing the 2024 Global Health Security Strategy. The order establishes implementation mechanisms through the National Security Council and directs the Secretary of State to formally notify relevant parties of the withdrawal.",
-  "eli5": "The President decided that America will leave a big world health group called WHO because they think WHO didn't do a good job during COVID-19 and charges America too much money compared to other countries. America will stop giving them money and find new ways to help keep people healthy around the world.",
+  "summary": "This Executive Order directs the withdrawal of the United States from the World Health Organization (WHO). The order cites concerns about WHO's handling of the COVID-19 pandemic, lack of reforms, alleged political influence from member states, and disproportionate financial burden on the US compared to other nations. Key actions include: revoking the 2021 retraction of withdrawal notice, halting fund transfers to WHO, recalling US personnel, identifying alternative partners, reviewing global health security strategy, and ceasing negotiations on the WHO Pandemic Agreement. The order includes standard provisions about implementation within existing legal frameworks and appropriations.",
+  "eli5": "The President decided that America should leave a big international health group called WHO because he thinks they didn't do a good job during COVID-19 and it costs America too much money compared to other countries.",
   "keywords": [
     "WHO",
     "World Health Organization",
     "withdrawal",
     "COVID-19",
     "global health",
-    "public health",
     "international relations",
-    "United Nations",
     "pandemic response",
+    "public health",
     "biosecurity",
-    "funding",
-    "health policy"
+    "United Nations"
   ],
   "issues": [
-    "No specific timeline for withdrawal process is provided",
-    "Potential impact on global health initiatives and international cooperation",
-    "Unclear criteria for selecting alternative international partners",
-    "No detailed transition plan for ongoing WHO-supported programs",
-    "Potential diplomatic implications with WHO member states",
-    "Impact on existing international health agreements and obligations"
+    "Potential impact on global health coordination and pandemic response",
+    "Absence of specific transition plan for US global health initiatives",
+    "No detailed analysis of financial implications",
+    "Unclear timeline for complete withdrawal process",
+    "Potential diplomatic consequences with WHO member states",
+    "Impact on ongoing international health programs and research"
   ],
   "citations": [
     "Executive Order 13987 of January 25, 2021",
     "2024 U.S. Global Health Security Strategy",
     "WHO Pandemic Agreement",
-    "International Health Regulations",
-    "Presidential Letter to UN Secretary-General (January 20, 2021)"
+    "International Health Regulations"
   ],
+  "action_type": "Executive Order",
   "file_name": "withdrawing-the-united-states-from-the-worldhealth-organization"
 }

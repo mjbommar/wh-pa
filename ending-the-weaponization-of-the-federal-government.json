@@ -14,32 +14,32 @@
   "og:image:width": "1200",
   "og:image:height": "628",
   "og:image:type": "image/png",
-  "summary": "This Executive Order, dated January 20, 2025, addresses alleged weaponization of federal government agencies during the previous administration. The Order directs a comprehensive review of law enforcement and intelligence community activities over the preceding 4 years. Specifically, it mandates the Attorney General and Director of National Intelligence to investigate potential misuse of federal powers for political purposes, including investigations, prosecutions, and enforcement actions against perceived political opponents. The Order requires reports with recommendations for remedial actions and emphasizes compliance with document retention policies. While establishing these review mechanisms, the Order includes standard limitations preserving existing agency authorities and specifying it creates no new legal rights.",
-  "eli5": "The President signed a paper that tells government workers to look back at the last 4 years and check if anyone in the government used their power unfairly to hurt people they didn't agree with politically. It's like having a principal check if teachers were treating some students differently because they didn't like them.",
+  "summary": "This Executive Order aims to address alleged weaponization of federal agencies against political opponents during the previous administration. It directs the Attorney General and Director of National Intelligence to review enforcement actions and Intelligence Community activities over the past 4 years to identify potential misconduct. The order requires reports with recommendations for remedial actions and emphasizes compliance with document retention policies. The order specifically references concerns about investigations of parents at school board meetings, January 6 prosecutions versus BLM protest cases, and various federal investigations allegedly targeting political opponents.",
+  "eli5": "The President signed an order telling government agencies to look back at the last 4 years and check if anyone used their power unfairly to hurt people they disagreed with politically. It's like having a referee check if someone broke the rules in a game that already happened.",
   "keywords": [
-    "government oversight",
-    "executive power",
-    "federal investigations",
-    "political prosecution",
-    "law enforcement",
-    "intelligence community",
-    "document retention",
+    "federal enforcement",
+    "weaponization",
+    "political persecution",
+    "Justice Department",
+    "Intelligence Community",
     "accountability",
-    "administrative review",
-    "remedial action"
+    "document retention",
+    "executive oversight",
+    "civil rights",
+    "law enforcement"
   ],
   "issues": [
-    "The Order makes serious allegations without providing specific evidence",
-    "Potential politicization of law enforcement review process",
-    "Unclear standards for determining what constitutes 'weaponization'",
-    "Risk of creating chilling effect on legitimate law enforcement activities",
-    "Potential conflict with agency independence",
-    "No specified timeline for completion of reviews",
-    "Lack of independent oversight mechanism for the review process"
+    "The order assumes misconduct without specific evidence",
+    "Potential politicization of law enforcement reviews",
+    "Unclear standards for determining 'weaponization'",
+    "Question of how remedial actions would be implemented",
+    "Potential conflict with prosecutorial independence",
+    "Vague definition of 'politically motivated' actions"
   ],
   "citations": [
-    "3 U.S.C. \u00a7 301",
-    "50 U.S.C. \u00a7 3003"
+    "3 USC 301",
+    "50 USC 3003"
   ],
+  "action_type": "Executive Order",
   "file_name": "ending-the-weaponization-of-the-federal-government"
 }

@@ -14,36 +14,35 @@
   "og:image:width": "1200",
   "og:image:height": "628",
   "og:image:type": "image/png",
-  "summary": "This presidential memorandum implements a federal civilian hiring freeze across the executive branch effective January 20, 2025. The freeze prohibits filling vacant positions and creating new positions, with specific exemptions for military personnel, immigration enforcement, national security, public safety, and certain benefit programs. The Director of OPM can grant additional exemptions as necessary. Within 90 days, OMB must develop a workforce reduction plan in consultation with OPM and USDS. Once implemented, the freeze expires for all agencies except the IRS, which remains frozen until Treasury determines otherwise. The order prohibits circumvention through outside contracting while allowing for internal reallocations to meet critical needs. It preserves presidential appointments, SES positions, and certain excepted service appointments.",
-  "eli5": "The President told most government offices they can't hire new workers for a while. Some important jobs like soldiers and police are allowed to keep hiring, and the government will make a plan to have fewer workers in the future.",
+  "summary": "This Presidential Memorandum implements an immediate hiring freeze across the federal executive branch effective January 20, 2025. The freeze prohibits filling vacant civilian positions and creating new positions, with specific exceptions. Key exemptions include military personnel, positions related to immigration enforcement, national security, public safety, and those necessary for Social Security, Medicare, and Veterans' benefits administration. The OPM Director may grant additional exemptions as needed. Within 90 days, OMB must develop a workforce reduction plan in consultation with OPM and USDS. Once implemented, the freeze expires for most agencies except the IRS. The memo prohibits circumventing the freeze through outside contracting and allows for internal reallocation of resources for essential services. Presidential appointments, SES positions, and certain excepted service appointments are excluded from the freeze.",
+  "eli5": "The President told most government offices they can't hire new workers for a while, except for important jobs like military and safety workers. It's like pressing a pause button on hiring new people until they can figure out how to make the government smaller and work better.",
   "keywords": [
     "hiring freeze",
     "federal workforce",
+    "government employment",
     "executive branch",
     "workforce reduction",
-    "attrition",
-    "exemptions",
+    "federal personnel",
     "civil service",
-    "federal employment",
     "government reorganization",
-    "IRS",
-    "national security",
-    "public safety"
+    "personnel management",
+    "federal agencies"
   ],
   "issues": [
-    "No specific metrics or targets for workforce reduction are provided",
-    "Unclear criteria for OPM exemptions",
-    "Potential impact on government service delivery and efficiency",
-    "No defined timeline for IRS freeze termination",
-    "Reference to 'DOGE Service' appears to be an error or typo",
-    "Potential conflicts with existing hiring processes and commitments",
-    "Impact on federal contractors not fully addressed"
+    "No specific metrics or targets for workforce reduction provided",
+    "Potential impact on government services and efficiency",
+    "Unclear duration of IRS-specific freeze",
+    "Potential conflict with agency-specific statutory staffing requirements",
+    "Implementation challenges for agencies with critical staffing needs",
+    "Impact on federal contractors and service providers"
   ],
   "citations": [
     "5 U.S.C. \u00a7 3161 (Temporary organization hiring authority)",
     "Constitution of the United States",
-    "Schedule A and C positions in Excepted Service",
+    "Schedule A Excepted Service",
+    "Schedule C Excepted Service",
     "Senior Executive Service regulations"
   ],
+  "action_type": "Presidential Memorandum",
   "file_name": "hiring-freeze"
 }

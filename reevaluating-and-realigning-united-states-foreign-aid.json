@@ -14,33 +14,34 @@
   "og:image:width": "1200",
   "og:image:height": "628",
   "og:image:type": "image/png",
-  "summary": "This Executive Order, dated January 20, 2025, implements a significant pause and review of U.S. foreign aid programs. The order mandates a 90-day suspension of new foreign development assistance disbursements while programs undergo review for efficiency and alignment with U.S. foreign policy objectives. The Secretary of State, in consultation with the OMB Director, will oversee the review process and make determinations about continuing, modifying, or terminating programs. The order provides flexibility through a waiver authority granted to the Secretary of State and allows for early resumption of programs that pass review before the 90-day period ends. The order maintains existing executive authority structures and does not create new legal rights or obligations.",
-  "eli5": "The President is putting a temporary pause on giving money to other countries so that government officials can check if this money is being used in ways that help America. It's like checking your piggy bank to make sure you're spending your allowance on things that are really important to you.",
+  "summary": "This Executive Order implements a significant pause and review of all U.S. foreign aid programs. The order establishes a 90-day pause on new obligations and disbursements of foreign development assistance while requiring comprehensive reviews of existing programs. The Secretary of State, in consultation with OMB, must evaluate each program's efficiency and alignment with U.S. foreign policy. Programs can resume before the 90-day period if reviewed and approved, and the Secretary of State may grant waivers for specific programs. The order emphasizes realigning foreign aid with the President's foreign policy objectives and addresses perceived misalignment between current aid programs and American interests.",
+  "eli5": "The President wants to check if the money America gives to help other countries is being used in the right way. For three months, they're going to stop giving new money and look at all the programs to make sure they're helping America's friendships with other countries.",
   "keywords": [
     "foreign aid",
-    "foreign policy",
     "development assistance",
-    "international relations",
-    "government spending",
+    "foreign policy",
     "program review",
-    "executive authority",
+    "funding pause",
     "State Department",
     "OMB",
-    "foreign assistance"
+    "international relations",
+    "government spending",
+    "executive oversight"
   ],
   "issues": [
-    "No specific criteria provided for evaluating program efficiency",
-    "Potential diplomatic implications of sudden aid suspension",
+    "Potential diplomatic consequences of pausing foreign aid programs",
+    "Lack of specific criteria for evaluating program efficiency",
     "Impact on ongoing humanitarian assistance programs",
-    "Lack of clear definition of 'alignment with U.S. foreign policy'",
-    "Possible disruption of international commitments and agreements",
-    "No explicit provisions for emergency humanitarian aid during review period",
-    "Potential economic impact on aid-dependent regions"
+    "Possible conflicts with existing international commitments",
+    "Administrative burden of reviewing all programs within 90 days",
+    "Unclear definition of 'alignment with U.S. foreign policy'",
+    "Potential impact on NGOs and international organizations depending on U.S. funding"
   ],
   "citations": [
     "Constitution of the United States",
     "Office of Management and Budget (OMB) authority",
-    "Presidential authority under Article II"
+    "General executive department authorities"
   ],
+  "action_type": "Executive Order",
   "file_name": "reevaluating-and-realigning-united-states-foreign-aid"
 }

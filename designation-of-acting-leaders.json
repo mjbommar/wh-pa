@@ -14,32 +14,32 @@
   "og:image:width": "1200",
   "og:image:height": "628",
   "og:image:type": "image/png",
-  "summary": "This Presidential directive, dated January 20, 2025, designates acting officials to temporarily fill Cabinet and Cabinet-level positions in the federal government. Pursuant to constitutional and statutory authority, particularly the Federal Vacancies Reform Act (5 U.S.C. 3345), President Trump has appointed acting officials to serve in key leadership roles across major federal departments and agencies until permanent appointments can be made and confirmed. The directive covers all 15 executive departments plus additional significant agencies and positions including the EPA, CIA, FBI, and NASA among others.",
-  "eli5": "The President picked temporary leaders to run important parts of the government until permanent leaders can be chosen. It's like having substitute teachers run different school departments until the permanent teachers are hired.",
+  "summary": "This presidential action announces appointments of acting officials to Cabinet and Cabinet-level positions for the incoming administration effective January 20, 2025. Pursuant to constitutional and statutory authority, particularly the Federal Vacancies Reform Act (5 U.S.C. 3345), the President has designated various individuals to serve in acting capacities across all major executive departments and agencies until permanent appointments can be made and confirmed. The appointments include all 15 executive departments plus several independent agencies and key administrative positions.",
+  "eli5": "The President picked temporary leaders to run different parts of the government until permanent leaders can be chosen. It's like having substitute teachers run the school until new permanent teachers are hired.",
   "keywords": [
-    "Acting Officials",
-    "Cabinet Appointments",
-    "Executive Branch",
-    "Federal Government",
-    "Presidential Directive",
-    "Temporary Appointments",
-    "Trump Administration",
-    "Federal Agencies",
-    "Government Leadership",
-    "Presidential Transition"
+    "Cabinet appointments",
+    "Acting officials",
+    "Executive departments",
+    "Federal agencies",
+    "Presidential transition",
+    "Temporary appointments",
+    "Government leadership",
+    "Federal administration",
+    "Executive branch",
+    "Interim management"
   ],
   "issues": [
-    "No specified time limits for these acting appointments",
-    "Potential concerns about length of 'temporary' appointments",
-    "Questions about qualification requirements for acting positions",
-    "No mention of the confirmation process timeline",
-    "Unclear why permanent appointments were not ready",
-    "Multiple military branch secretaries being filled by acting officials simultaneously"
+    "No specification of how long these acting appointments will last",
+    "Unclear if any of these individuals are being considered for permanent positions",
+    "Potential concerns about leadership continuity during transition period",
+    "Questions about qualifications of acting appointees",
+    "Possibility of extended temporary leadership affecting agency operations"
   ],
   "citations": [
     "5 U.S.C. 3345 et seq.",
-    "U.S. Constitution",
-    "Federal Vacancies Reform Act"
+    "U.S. Constitution (implied)",
+    "Federal Vacancies Reform Act (implied)"
   ],
+  "action_type": "Presidential Action",
   "file_name": "designation-of-acting-leaders"
 }

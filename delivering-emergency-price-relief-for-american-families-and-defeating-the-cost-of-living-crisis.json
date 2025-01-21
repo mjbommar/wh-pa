@@ -13,34 +13,29 @@
   "og:image:width": "1200",
   "og:image:height": "628",
   "og:image:type": "image/png",
-  "summary": "This executive memorandum, dated January 20, 2025, directs federal agencies to address what it characterizes as an inflation crisis caused by the previous administration's policies. The order claims the Biden Administration's regulatory policies and spending increased costs for American families by approximately $50,000 per household. The memo specifically targets regulations affecting energy production, vehicle manufacturing, housing construction, and climate policies. It directs agency heads to take actions to reduce costs in housing, healthcare, appliances, and energy sectors while promoting employment. The Assistant to the President for Economic Policy must report on implementation progress every 30 days.",
-  "eli5": "The President wrote a letter telling government workers to find ways to make things cost less money for families. Things like houses, cars, and food have gotten too expensive, so the President wants to change some rules to help make everything cheaper.",
+  "summary": "This Presidential Memorandum directs federal agencies to address perceived economic challenges attributed to the Biden Administration's policies. The memorandum claims that Biden-era regulations and spending have caused inflation and increased costs for American families. It specifically targets regulations related to energy, vehicle emissions, and housing construction. The document orders agency heads to pursue actions aimed at reducing costs in housing, healthcare, appliances, and energy sectors, while promoting employment opportunities. The Assistant to the President for Economic Policy must report on implementation progress every 30 days.",
+  "eli5": "The President is telling government workers to find ways to make things cost less money for families. They need to look at making houses, doctor visits, home appliances, and gas cheaper, and help more people get jobs.",
   "keywords": [
     "inflation",
     "price relief",
-    "regulatory reform",
+    "regulation",
     "housing costs",
     "energy policy",
     "healthcare costs",
-    "consumer protection",
-    "economic policy",
     "employment",
-    "climate policy"
+    "economic policy",
+    "consumer protection",
+    "administrative action"
   ],
   "issues": [
-    "No specific metrics or targets for price reduction are provided",
-    "Lacks clear definition of 'emergency price relief'",
-    "No explicit funding mechanisms mentioned",
-    "Potential conflicts with existing environmental regulations",
-    "Vague implementation guidance for agencies",
-    "Claims about cost impacts lack cited sources",
-    "30-day reporting requirement may be unrealistic for major policy changes",
-    "No clear enforcement mechanisms specified"
+    "No specific metrics or targets are provided for cost reduction goals",
+    "Lacks detailed implementation guidance for agencies",
+    "Claims about regulatory costs lack specific citations or documentation",
+    "May conflict with existing environmental protection regulations",
+    "Unclear enforcement mechanisms",
+    "Potential separation of powers concerns regarding executive authority to modify existing regulations"
   ],
-  "citations": [
-    "No specific legal citations provided in the text",
-    "References 'applicable law' without specific citations",
-    "Claims '25 percent' housing cost impact without citation to source"
-  ],
+  "citations": [],
+  "action_type": "Presidential Memorandum",
   "file_name": "delivering-emergency-price-relief-for-american-families-and-defeating-the-cost-of-living-crisis"
 }

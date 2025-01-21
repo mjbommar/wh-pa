@@ -14,30 +14,29 @@
   "og:image:width": "1200",
   "og:image:height": "628",
   "og:image:type": "image/png",
-  "summary": "This Presidential Proclamation, dated January 20, 2025, exercises the President's constitutional pardon power under Article II, Section 2 to address convictions related to the January 6, 2021 Capitol events. The proclamation has two main components: (1) commuting the sentences to time served for 14 specifically named individuals, and (2) granting full, unconditional pardons to all other individuals convicted of January 6-related offenses. The Attorney General is directed to issue pardon certificates, ensure immediate release of imprisoned individuals, and pursue dismissal of pending indictments related to January 6 events.",
-  "eli5": "The President used their special power to forgive people who got in trouble during the events at the Capitol building on January 6, 2021. Some people will be let out of jail early, and others will have their records cleared completely.",
+  "summary": "This presidential proclamation grants pardons and sentence commutations to individuals convicted of offenses related to the January 6, 2021 events at the U.S. Capitol. The proclamation specifically names 14 individuals whose sentences are commuted to time served, and broadly pardons all other individuals convicted of related offenses. It directs the Attorney General to immediately issue pardon certificates, release currently imprisoned individuals, and dismiss pending indictments with prejudice. The authority is derived from Article II, Section 2 of the Constitution, which grants the President pardon powers.",
+  "eli5": "The President used special powers given by the Constitution to forgive people who were in trouble for what happened at the Capitol building on January 6, 2021. Some people who were in jail will be let out, and others won't be in trouble anymore.",
   "keywords": [
-    "Presidential pardon",
-    "Commutation",
+    "pardons",
+    "commutations",
     "January 6",
     "Capitol riot",
-    "Executive clemency",
-    "Constitutional powers",
-    "Criminal justice",
-    "Federal prosecution",
-    "Attorney General",
+    "executive clemency",
+    "criminal justice",
+    "constitutional powers",
+    "Department of Justice",
     "Bureau of Prisons"
   ],
   "issues": [
-    "The proclamation appears to be dated in the future (January 20, 2025)",
-    "Blanket pardons for unspecified individuals may face legal challenges",
-    "No specific criteria provided for determining which cases qualify as 'related to events'",
-    "Potential separation of powers concerns regarding directive to dismiss pending cases",
-    "No provision for victim consultation or impact consideration",
-    "Possible national security implications of pardoning all related offenses"
+    "The broad scope of pardons for unspecified individuals raises implementation concerns",
+    "Potential political and social implications of mass pardons for January 6 events",
+    "Lack of specific criteria or justification for selecting the 14 named individuals",
+    "Questions about the impact on ongoing investigations and prosecutions",
+    "Constitutional implications of dismissing pending indictments"
   ],
   "citations": [
-    "U.S. Constitution Article II, Section 2 (Presidential Pardon Power)"
+    "U.S. Constitution Article II, Section 2"
   ],
+  "action_type": "Proclamation",
   "file_name": "granting-pardons-and-commutation-of-sentences-for-certain-offenses-relating-to-the-events-at-or-near-the-united-states-capitol-on-january-6-2021"
 }

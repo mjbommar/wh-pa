@@ -14,32 +14,32 @@
   "og:image:width": "1200",
   "og:image:height": "628",
   "og:image:type": "image/png",
-  "summary": "This Executive Order, dated January 20, 2025, aims to terminate all Diversity, Equity, and Inclusion (DEI) and related programs across the federal government. The order directs the dismantling of DEI initiatives implemented during the Biden administration, including those established under Executive Order 13985. It requires all federal agencies to terminate DEI offices, positions, and programs within 60 days, subject to legal limitations. The order mandates agencies to provide comprehensive reports on existing DEI programs, contractors, and grantees. It establishes a monitoring system through monthly meetings led by the Assistant to the President for Domestic Policy to track implementation and identify areas needing additional action. The order explicitly emphasizes merit-based employment practices and prohibits consideration of DEI factors in employee performance reviews.",
-  "eli5": "This is a rule that stops the government from having special programs about diversity and inclusion. It's like saying everyone should be treated the same way, without having special groups or offices that focus on differences between people.",
+  "summary": "This Executive Order aims to dismantle and terminate all Diversity, Equity, and Inclusion (DEI) and Diversity, Equity, Inclusion, and Accessibility (DEIA) programs throughout the federal government. The order directs the OMB Director, Attorney General, and OPM Director to coordinate the termination of these programs, requiring agencies to end related positions, committees, and initiatives within 60 days. Agencies must provide comprehensive lists of DEI-related positions and programs existing as of November 2024, identify contractors who provided DEI training, and assess the operational impact of these programs. The order establishes monthly meetings to monitor progress and identify additional actions needed to advance a policy of 'equal dignity and respect.'",
+  "eli5": "This is like a rule that says the government will stop having special programs that focus on making things fair for different groups of people. Instead, the government wants to treat everyone exactly the same way.",
   "keywords": [
-    "Diversity",
-    "Equity",
-    "Inclusion",
+    "DEI",
+    "DEIA",
+    "Environmental Justice",
     "Federal Employment",
-    "Government Programs",
-    "Executive Order",
     "Discrimination",
-    "Merit-based Employment",
-    "Administrative Reform",
-    "Environmental Justice"
+    "Equal Treatment",
+    "Government Reform",
+    "Administrative Policy",
+    "Federal Contractors",
+    "Federal Grants"
   ],
   "issues": [
-    "Potential legal challenges regarding existing contracts and employment agreements",
-    "Impact on federal workplace diversity initiatives and hiring practices",
-    "Possible conflict with existing civil rights laws and regulations",
-    "Implementation challenges within the 60-day timeline",
-    "Definition and scope of 'misleadingly relabeled' programs",
-    "Potential impact on existing federal grants and contracts",
-    "Enforcement mechanism clarity"
+    "Potential legal challenges regarding existing civil rights protections",
+    "Impact on federal workplace diversity initiatives",
+    "Possible resistance from federal employee unions",
+    "Definition and scope of 'equal dignity and respect' is not clearly defined",
+    "Implementation timeline may be challenging for large agencies",
+    "Potential conflict with existing federal contracts and grants"
   ],
   "citations": [
     "Executive Order 13985",
     "28 U.S.C. 530D"
   ],
+  "action_type": "Executive Order",
   "file_name": "ending-radical-and-wasteful-government-dei-programs-and-preferencing"
 }

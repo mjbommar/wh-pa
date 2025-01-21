@@ -14,26 +14,27 @@
   "og:image:width": "1200",
   "og:image:height": "628",
   "og:image:type": "image/png",
-  "summary": "This Executive Order, dated January 20, 2025, suspends the U.S. Refugee Admissions Program (USRAP) due to concerns about the nation's capacity to absorb refugees while maintaining resources for American citizens. The order cites recent migration pressures on various U.S. cities and states, including emergency declarations in New York and Massachusetts. The suspension takes effect on January 27, 2025, with limited exceptions for case-by-case admissions when deemed in the national interest. The order requires the Department of Homeland Security to examine ways to increase state and local involvement in refugee placement decisions and submit reports every 90 days assessing whether USRAP resumption would serve U.S. interests. It explicitly revokes EO 14013 from February 4, 2021, regarding refugee resettlement and climate change migration planning.",
-  "eli5": "The President made a rule that stops letting refugees come into America for a while because some cities are saying they have too many new people arriving and not enough help to take care of everyone. The government will check every few months to see if it's okay to start letting refugees in again.",
+  "summary": "This Executive Order suspends the U.S. Refugee Admissions Program (USRAP) effective January 27, 2025, citing concerns about the nation's capacity to absorb refugees and the impact on local communities. The order requires the Secretary of Homeland Security to halt refugee status applications and submit reports every 90 days assessing whether resuming the program would serve U.S. interests. Limited exceptions are permitted on a case-by-case basis if deemed in the national interest. The order also directs officials to examine ways to increase state and local involvement in refugee placement decisions and revokes a previous 2021 Executive Order on refugee resettlement.",
+  "eli5": "The President is pressing pause on letting refugees come into America because some cities and towns say they're having trouble taking care of all the new people arriving. The government will check every few months to see if it's okay to start letting refugees in again.",
   "keywords": [
     "refugees",
     "immigration",
     "USRAP",
     "national security",
-    "resettlement",
-    "state rights",
     "local government",
+    "resettlement",
     "public safety",
-    "migration",
+    "state involvement",
+    "homeland security",
     "emergency declaration"
   ],
   "issues": [
-    "Potential humanitarian implications of suspending refugee admissions",
-    "Constitutional questions regarding state/local authority over immigration",
-    "Impact on international agreements and obligations regarding refugees",
-    "Lack of specific criteria for determining when to resume USRAP",
-    "Vagueness in defining 'national interest' for case-by-case exceptions"
+    "Potential humanitarian concerns from suspending refugee admissions",
+    "Constitutional questions about state/local authority over immigration",
+    "Impact on international relations and treaty obligations",
+    "Lack of specific criteria for determining when to resume the program",
+    "Definition of 'appropriate assimilation' is not provided",
+    "Vague standards for case-by-case exceptions"
   ],
   "citations": [
     "Immigration and Nationality Act (INA), 8 U.S.C. 1101 et seq.",
@@ -43,5 +44,6 @@
     "8 U.S.C. 1522(a)(2)",
     "Executive Order 14013 of February 4, 2021"
   ],
+  "action_type": "Executive Order",
   "file_name": "realigning-the-united-states-refugee-admissions-program"
 }

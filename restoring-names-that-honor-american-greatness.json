@@ -14,35 +14,34 @@
   "og:image:width": "1200",
   "og:image:height": "628",
   "og:image:type": "image/png",
-  "summary": "This Executive Order focuses on renaming geographic features to 'honor American greatness.' It has two major components: (1) reinstating 'Mount McKinley' as the name of North America's highest peak (currently known as Denali), and (2) renaming the Gulf of Mexico to the 'Gulf of America.' The order directs the U.S. Board on Geographic Names to review and replace appointees within seven days, and requires the Secretary of Interior to implement these changes within 30 days. The order justifies the McKinley renaming by citing President McKinley's leadership during the Spanish-American War and his economic policies. For the Gulf renaming, it emphasizes the water body's importance to American commerce, oil production, fishing, and tourism. The order also allows for additional renamings to be considered, particularly in connection with America's semiquincentennial celebration.",
-  "eli5": "The President wants to change the names of two big places on the map. He wants to change Denali mountain back to Mount McKinley (after an old president), and wants to rename the Gulf of Mexico to the Gulf of America. He thinks these new names will better show how great America is.",
+  "summary": "This Executive Order focuses on restoring and establishing names that honor American figures and achievements. It has three main components: 1) Restructuring the U.S. Board on Geographic Names to prioritize honoring 'visionary and patriotic Americans,' 2) Reversing the 2015 Obama administration's decision by reinstating 'Mount McKinley' as the name for North America's highest peak (while maintaining Denali National Park), and 3) Renaming the Gulf of Mexico to the 'Gulf of America.' The order requires implementation within 30 days and includes provisions for working with Native Alaskan entities on landmark naming. It emphasizes economic and historical justifications for these changes while maintaining standard executive order implementation clauses.",
+  "eli5": "This is a rule that changes the names of some important places in America. It changes a mountain's name back to Mount McKinley and renames the Gulf of Mexico to the Gulf of America because the president wants these places to have names that honor American history.",
   "keywords": [
-    "geographic names",
+    "Geographic Names",
     "Mount McKinley",
     "Denali",
     "Gulf of Mexico",
-    "President McKinley",
-    "American heritage",
-    "national monuments",
-    "geographic renaming",
-    "federal nomenclature",
-    "Alaska",
-    "maritime boundaries"
+    "Presidential Recognition",
+    "Native American Affairs",
+    "Historical Preservation",
+    "National Identity",
+    "Federal Nomenclature",
+    "Territorial Naming"
   ],
   "issues": [
-    "Potential conflict with Native American interests and cultural heritage, particularly regarding Denali",
-    "International implications of renaming the Gulf of Mexico, which borders multiple countries",
-    "Cost and practical challenges of implementing widespread name changes across federal documents",
-    "Possible legal challenges from affected states or international entities",
-    "Political controversy over reversing previous administration's decisions",
-    "Impact on existing maps, documents, and commercial materials",
-    "Consultation requirements with tribal nations and international partners"
+    "Potential diplomatic tensions with Mexico over Gulf renaming",
+    "Cultural sensitivity concerns regarding Native Alaskan naming rights",
+    "Cost and logistical challenges of implementing widespread name changes",
+    "Possible conflict with existing international maritime agreements",
+    "Questions about the necessity and timing of such changes",
+    "Potential political backlash from reversing previous administration's decisions",
+    "Impact on existing maps, documents, and databases"
   ],
   "citations": [
-    "43 U.S.C. 364 through 364f",
     "43 U.S.C. 364a",
-    "Geographic Names Information System (GNIS)",
-    "U.S. Board on Geographic Names"
+    "43 U.S.C. 364 through 364f",
+    "Geographic Names Information System (GNIS)"
   ],
+  "action_type": "Executive Order",
   "file_name": "restoring-names-that-honor-american-greatness"
 }

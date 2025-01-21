@@ -14,37 +14,35 @@
   "og:image:width": "1200",
   "og:image:height": "628",
   "og:image:type": "image/png",
-  "summary": "This Executive Order, dated January 20, 2025, establishes a process for designating international drug cartels and certain transnational criminal organizations as Foreign Terrorist Organizations (FTOs) and/or Specially Designated Global Terrorists (SDGTs). The order declares a national emergency regarding the threat posed by cartels and organizations like Tren de Aragua and MS-13, citing their control over illegal border traffic, violence, and destabilizing influence in the Western Hemisphere. It directs the Secretary of State, in consultation with other agency heads, to make designation recommendations within 14 days. Additionally, it instructs the Attorney General and Secretary of Homeland Security to prepare for possible invocation of the Alien Enemies Act, including facilities preparation for removal of designated individuals.",
-  "eli5": "The President signed a special rule that says dangerous gangs and drug dealers who hurt people near our borders should be treated like terrorists. This will give the government more power to stop them and protect Americans.",
+  "summary": "This Executive Order establishes a process to designate international drug cartels and certain transnational criminal organizations (specifically naming Tren de Aragua and MS-13) as Foreign Terrorist Organizations (FTOs) and/or Specially Designated Global Terrorists (SDGTs). The order declares a national emergency due to these organizations' threats to U.S. national security, particularly highlighting their control over illegal border traffic and quasi-governmental control in parts of Mexico. It directs the Secretary of State to make designation recommendations within 14 days and requires the Attorney General and Secretary of Homeland Security to prepare for potential invocation of the Alien Enemies Act.",
+  "eli5": "The President signed a paper that says dangerous criminal groups called cartels are like terrorists because they hurt people and bring drugs into our country. This lets the government use special laws to stop them and protect our country better.",
   "keywords": [
-    "terrorism",
     "drug cartels",
+    "terrorism",
     "national security",
-    "border security",
-    "immigration",
-    "organized crime",
+    "border control",
     "MS-13",
     "Tren de Aragua",
-    "Western Hemisphere",
+    "foreign terrorist organizations",
     "national emergency",
-    "terrorist organizations"
+    "immigration enforcement",
+    "international crime"
   ],
   "issues": [
-    "Potential human rights concerns regarding detention and removal processes",
-    "Diplomatic implications with Mexico and other affected countries",
-    "Scope of authority under the Alien Enemies Act may be questioned",
-    "Implementation challenges given 14-day timeline",
-    "Possible legal challenges to terrorist organization designations",
-    "Impact on international relations in Western Hemisphere",
-    "Resource requirements for implementation not specified"
+    "Potential diplomatic implications with Mexico and other countries",
+    "Constitutional questions about expanding terrorism definitions to include criminal organizations",
+    "Practical challenges in implementing the Alien Enemies Act",
+    "Impact on international relations in the Western Hemisphere",
+    "Possible human rights concerns regarding detention and removal procedures"
   ],
   "citations": [
-    "Immigration and Nationality Act (INA), 8 U.S.C. 1101 et seq.",
-    "International Emergency Economic Powers Act (IEEPA), 50 U.S.C. 1701 et seq.",
-    "INA Section 219 (8 U.S.C. 1189)",
+    "Immigration and Nationality Act (INA), 8 U.S.C. 1101",
+    "International Emergency Economic Powers Act (IEEPA), 50 U.S.C. 1701",
+    "8 U.S.C. 1189",
+    "50 U.S.C. 1702",
     "Executive Order 13224 (September 23, 2001)",
-    "Alien Enemies Act, 50 U.S.C. 21 et seq.",
-    "50 U.S.C. 1702"
+    "Alien Enemies Act, 50 U.S.C. 21"
   ],
+  "action_type": "Executive Order",
   "file_name": "designating-cartels-and-other-organizations-as-foreign-terrorist-organizations-and-specially-designated-global-terrorists"
 }

@@ -13,30 +13,30 @@
   "og:image:width": "1200",
   "og:image:height": "628",
   "og:image:type": "image/png",
-  "summary": "This document is a Presidential Proclamation designating January 20, 2025 as Martin Luther King Jr. Federal Holiday. The proclamation, issued by President Donald J. Trump, commemorates Dr. King's civil rights legacy, particularly highlighting his 'I Have a Dream' speech and his advocacy for racial equality through nonviolent protest. The proclamation references Trump's first administration's achievements regarding African American employment, historically black colleges and universities funding, criminal justice reform, and school choice. The document emphasizes Dr. King's faith-based approach to civil rights advocacy and connects his legacy to broader American founding principles. The proclamation encourages Americans to honor Dr. King through prayer and community service.",
-  "eli5": "The President made January 20, 2025 a special holiday to remember Dr. Martin Luther King Jr., who worked very hard to make sure everyone in America would be treated fairly and equally, no matter what they looked like. The President wants people to celebrate by helping others and praying for the country.",
+  "summary": "This Proclamation designates January 20, 2025, as the Martin Luther King, Jr., Federal Holiday. President Trump commemorates Dr. King's legacy of civil rights leadership, particularly highlighting his 'I Have a Dream' speech and commitment to nonviolent protest. The proclamation emphasizes Dr. King's faith-based approach to civil rights advocacy and connects his vision to broader American founding principles. The document also references Trump Administration policies claimed to benefit African Americans, including economic metrics and support for historically black colleges and universities. The proclamation encourages Americans to honor Dr. King through prayer and community service.",
+  "eli5": "The President made January 20, 2025, a special day to remember Dr. Martin Luther King, Jr., who worked very hard to make sure everyone in America would be treated fairly and equally, no matter what they looked like.",
   "keywords": [
+    "Martin Luther King Jr",
     "Civil Rights",
-    "MLK Day",
     "Federal Holiday",
-    "Presidential Proclamation",
-    "Racial Equality",
-    "Community Service",
+    "Equality",
     "Faith",
+    "Community Service",
     "American Dream",
-    "Nonviolent Protest",
-    "Social Justice"
+    "Founding Principles",
+    "Social Justice",
+    "Racial Equality"
   ],
   "issues": [
-    "The proclamation appears to focus significantly on the previous administration's achievements rather than solely on Dr. King's legacy",
-    "The timing of the holiday (January 20) coincides with Inauguration Day, which is unusual as MLK Day is typically observed on the third Monday of January",
-    "The document seems to blend political messaging with holiday commemoration",
-    "No specific metrics or data are provided to support claims about historical achievements"
+    "The proclamation appears to blend celebration of Dr. King's legacy with political messaging about the administration's achievements",
+    "No specific mention of ongoing civil rights challenges or work still needed",
+    "Claims about administration achievements are presented without supporting data",
+    "The timing (January 20) differs from the traditional MLK Day observance (third Monday in January)"
   ],
   "citations": [
-    "Constitution of the United States (implied authority)",
-    "Ronald Reagan's original MLK Day proclamation (referenced but not specifically cited)",
-    "'I Have a Dream' speech (referenced but not specifically cited)"
+    "Constitution of the United States",
+    "Reference to President Ronald Reagan's original MLK Day proclamation"
   ],
+  "action_type": "Proclamation",
   "file_name": "martin-luther-king-jr-federal-holiday-2025"
 }

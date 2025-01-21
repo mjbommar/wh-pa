@@ -14,33 +14,36 @@
   "og:image:width": "1200",
   "og:image:height": "628",
   "og:image:type": "image/png",
-  "summary": "This Executive Order, dated January 20, 2025, represents a significant policy shift by revoking numerous Executive Orders and Presidential Memoranda issued during the previous administration (2021-2025). The order specifically targets and rescinds policies related to diversity, equity and inclusion (DEI), climate change, immigration, COVID-19 response, healthcare, education, and various administrative appointments. The stated purpose is to 'restore common sense to the Federal Government' by eliminating what the order characterizes as 'deeply unpopular, inflationary, illegal, and radical practices.' The order directs agency heads to immediately cease DEI implementation and requires reviews by the Domestic Policy Council, National Economic Council, and National Security Advisor to identify additional actions for rescission.",
-  "eli5": "The new President signed a paper that cancels many rules the last President made. It's like erasing everything on a whiteboard to start fresh with new rules that the new President thinks will work better.",
+  "summary": "This Executive Order, dated January 20, 2025, initiates a broad rescission of numerous Executive Orders and Presidential Memoranda issued during the previous administration (2021-2025). The order specifically targets and revokes 61 executive actions related to diversity/equity/inclusion initiatives, climate policy, immigration, COVID-19 response, healthcare, education, and various administrative functions. The order establishes a framework for reviewing and potentially rescinding additional actions through the Domestic Policy Council, National Economic Council, and National Security Advisor, who must submit recommendations within 45 days. The stated purpose is to reverse policies deemed 'deeply unpopular, inflationary, illegal, and radical.'",
+  "eli5": "The new President signed a paper that cancels lots of rules the last President made about things like climate change, immigration, and treating different groups of people fairly. It's like erasing everything from the previous administration's whiteboard to start fresh with new rules.",
   "keywords": [
     "Executive Orders",
     "Rescission",
     "DEI",
     "Climate Policy",
     "Immigration",
-    "Federal Workforce",
-    "Administrative Law",
-    "Policy Change",
-    "Presidential Powers",
-    "Government Reform"
+    "COVID-19",
+    "Healthcare",
+    "Education",
+    "Administrative Review",
+    "Federal Government",
+    "Policy Reform"
   ],
   "issues": [
-    "The broad scope of rescissions may create operational gaps in federal agencies",
-    "No transition plan is provided for ongoing programs affected by the rescissions",
-    "Potential legal challenges to wholesale policy reversals",
-    "Unclear impact on existing contracts and agreements made under previous orders",
-    "Potential conflict with existing statutory obligations",
-    "No cost-benefit analysis provided for the policy changes"
+    "No specific transition plan provided for agencies currently implementing the revoked orders",
+    "Potential legal challenges to wholesale rescission of multiple policies",
+    "Impact on existing programs and initiatives already in progress",
+    "Lack of detailed justification for each individual rescission",
+    "Possible disruption to federal operations and ongoing projects",
+    "Question of immediate vs. phased implementation"
   ],
   "citations": [
     "Executive Orders 13985-14143",
-    "Presidential Memoranda from January 3-14, 2025",
-    "Constitution of the United States (referenced but not specifically cited)",
-    "National Security Memoranda (referenced but not specifically cited)"
+    "National Security Presidential Memorandum 5",
+    "Constitution of the United States",
+    "Infrastructure Investment and Jobs Act",
+    "Inflation Reduction Act of 2022"
   ],
+  "action_type": "Executive Order",
   "file_name": "initial-rescissions-of-harmful-executive-orders-and-actions"
 }

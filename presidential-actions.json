@@ -10,32 +10,29 @@
   "og:image:width": "1200",
   "og:image:height": "628",
   "og:image:type": "image/png",
-  "summary": "This appears to be a list of Presidential Actions from whitehouse.gov, all dated January 20, 2025. The actions cover a wide range of policy areas including immigration enforcement, federal hiring practices, DEI programs, gender policies, government efficiency, foreign policy, and resource management. These appear to be executive orders or presidential memoranda intended to be issued at the start of a new presidential administration.",
-  "eli5": "This is a list of rules that a president wants to make on their first day in office. Just like how a new teacher might make new classroom rules on the first day of school, these are new rules for how the government should work.",
+  "summary": "This appears to be a navigation page from whitehouse.gov listing various Presidential Actions dated January 20, 2025. The page shows 10 different presidential actions covering various topics including state protection, national security, federal hiring reform, DEI programs, gender policy, government efficiency, foreign policy, and resource management. All actions are dated January 20, 2025, suggesting this may be the first day of a new presidential administration.",
+  "eli5": "This is like a table of contents showing different rules and decisions that a president made on their first day in office. These rules cover things like protecting the country, changing how government works, and managing natural resources.",
   "keywords": [
-    "Presidential Actions",
-    "Executive Orders",
-    "Immigration",
-    "Federal Hiring",
+    "presidential actions",
+    "national security",
+    "immigration",
+    "federal hiring",
     "DEI",
-    "Gender Policy",
-    "Government Efficiency",
-    "Foreign Policy",
-    "National Security",
-    "Natural Resources",
-    "Alaska",
-    "Border Protection",
-    "Terrorism"
+    "gender policy",
+    "government efficiency",
+    "foreign policy",
+    "terrorism",
+    "natural resources",
+    "Alaska"
   ],
   "issues": [
-    "The date (January 20, 2025) suggests these are planned/proposed actions for the next presidential term",
-    "No actual text of the orders is provided, only titles",
-    "Some titles suggest significant policy reversals that could face legal challenges",
-    "Creation of new department ('Department of Government Efficiency') may require congressional approval",
-    "Several actions appear to target existing policies without clear replacement frameworks"
+    "All actions are dated January 20, 2025, which is a future date",
+    "Cannot verify if these are actual or proposed actions",
+    "The format suggests these may be planned or anticipated actions rather than enacted ones",
+    "No executive order numbers are provided",
+    "Classification of action types (EO vs Memorandum vs Proclamation) is not specified"
   ],
-  "citations": [
-    "Note: The provided text contains only titles of proposed actions without specific citations to laws or regulations"
-  ],
+  "citations": [],
+  "action_type": "Presidential Actions (multiple, specific types not specified)",
   "file_name": "presidential-actions"
 }

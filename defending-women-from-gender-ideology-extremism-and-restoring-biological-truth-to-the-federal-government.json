@@ -14,28 +14,28 @@
   "og:image:width": "1200",
   "og:image:height": "628",
   "og:image:type": "image/png",
-  "summary": "This Executive Order establishes a significant shift in federal policy regarding sex and gender identity. It defines sex as a binary, biological classification (male/female) and explicitly rejects the concept of gender identity in federal policy. The order requires all federal agencies to: 1) Use only biological sex-based definitions in policies and documents; 2) Remove references to gender ideology; 3) Maintain sex-based distinctions in intimate spaces; 4) Ensure federal funds don't promote gender ideology; and 5) Protect women's single-sex spaces. It rescinds several Obama/Biden-era executive orders and guidance documents related to gender identity protections. The order directs specific actions from various agencies, including HHS, State Department, DOJ, and Department of Education, to implement these changes.",
-  "eli5": "This is a rule that says the government will only recognize people as either boys/men or girls/women based on their biology when they were born. It removes rules that let people choose their gender identity and changes how the government handles things like bathrooms and sports teams.",
+  "summary": "This Executive Order establishes a policy defining sex as a binary biological classification (male/female) and explicitly rejects gender identity concepts in federal policy. It requires federal agencies to: 1) Use only biological sex-based definitions in policies and documents; 2) Remove gender ideology from federal communications; 3) Ensure sex-segregated spaces are based on biological sex; 4) Stop federal funding for gender ideology promotion; and 5) Protect women's rights based on biological sex. The order reverses several Obama/Biden-era policies on gender identity and requires agencies to revise documents, regulations, and guidance to align with the new definitions within 120 days.",
+  "eli5": "This order says that for all government rules, there are only two types of people - boys/men and girls/women - based on how they were born. It changes rules that let people choose which group they belong to.",
   "keywords": [
-    "Sex discrimination",
-    "Gender identity",
-    "Federal policy",
-    "Women's rights",
-    "Title IX",
-    "Civil rights",
-    "Biological sex",
-    "Single-sex facilities",
-    "Federal documentation",
-    "Administrative law"
+    "sex",
+    "gender",
+    "transgender rights",
+    "women's rights",
+    "biological sex",
+    "gender identity",
+    "federal policy",
+    "civil rights",
+    "discrimination",
+    "administrative law"
   ],
   "issues": [
-    "Potential conflict with existing civil rights protections and case law",
-    "Implementation challenges across federal agencies",
-    "Possible legal challenges based on equal protection grounds",
-    "Impact on transgender individuals' access to services and facilities",
-    "Interpretation conflicts with Bostock v. Clayton County precedent",
-    "Administrative burden of revising all relevant documents and policies",
-    "Potential international relations implications regarding passport policies"
+    "Potential conflict with existing civil rights protections under Title VII and Title IX",
+    "Constitutional questions regarding equal protection",
+    "Implementation challenges for federal agencies",
+    "Impact on existing federal programs and policies",
+    "Potential legal challenges from civil rights organizations",
+    "Effects on federal contractors and grant recipients",
+    "Privacy concerns in implementation"
   ],
   "citations": [
     "5 U.S.C. \u00a7 7301",
@@ -45,11 +45,8 @@
     "28 CFR 115.41",
     "Americans with Disabilities Act",
     "81 FR 64763",
-    "Executive Order 13988",
-    "Executive Order 14004",
-    "Executive Order 14020",
-    "Executive Order 14021",
-    "Executive Order 14075"
+    "Executive Orders 13988, 14004, 14020, 14021, and 14075"
   ],
+  "action_type": "Executive Order",
   "file_name": "defending-women-from-gender-ideology-extremism-and-restoring-biological-truth-to-the-federal-government"
 }

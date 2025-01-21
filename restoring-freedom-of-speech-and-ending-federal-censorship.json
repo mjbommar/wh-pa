@@ -14,31 +14,31 @@
   "og:image:width": "1200",
   "og:image:height": "628",
   "og:image:type": "image/png",
-  "summary": "This Executive Order, dated January 20, 2025, addresses perceived violations of First Amendment rights by the previous administration through government-influenced content moderation on social media platforms. The order prohibits federal officers, employees, and agents from engaging in or facilitating any conduct that would unconstitutionally restrict Americans' free speech. It directs the Attorney General to investigate past government activities related to content moderation and censorship over the previous 4 years and prepare a report with recommendations for remedial actions. The order includes standard provisions regarding implementation within existing legal and budgetary constraints, and explicitly states it creates no new legal rights or grounds for litigation.",
-  "eli5": "The President made a rule that says the government cannot tell social media companies to remove or hide people's posts just because they disagree with what people are saying. It's like making sure the government doesn't act like a playground bully who tells other kids what they can and cannot say.",
+  "summary": "This Executive Order, dated January 20, 2025, addresses concerns about federal government interference with free speech rights, particularly regarding online platforms and social media. The order establishes policy prohibiting federal officials from engaging in or facilitating speech censorship, specifically targeting actions taken during the previous administration. It directs the Attorney General to investigate past government activities related to speech suppression and prepare a report with remedial recommendations. The order includes standard provisions limiting its scope and enforcement capabilities while ensuring compliance with existing laws and budget constraints.",
+  "eli5": "This is a rule that says the government can't tell people what they can or can't say on the internet, and they're going to look into times when the government might have done that before.",
   "keywords": [
     "First Amendment",
     "Free Speech",
     "Censorship",
     "Social Media",
-    "Content Moderation",
     "Government Oversight",
+    "Online Platforms",
     "Constitutional Rights",
-    "Executive Power",
-    "Federal Agencies",
-    "Digital Communications"
+    "Misinformation",
+    "Federal Investigation",
+    "Executive Authority"
   ],
   "issues": [
-    "The order doesn't clearly define what constitutes 'unconstitutional' restriction of speech",
-    "Implementation and enforcement mechanisms are not specifically outlined",
-    "Potential conflict with existing content moderation practices for legitimate purposes (e.g., national security)",
-    "Unclear scope of Attorney General's investigative authority",
-    "May create uncertainty for federal agencies involved in any form of content oversight"
+    "The order references actions of the 'previous administration' without specific examples",
+    "Implementation details and scope of investigation not clearly defined",
+    "No specific metrics or standards for identifying speech censorship",
+    "Potential overlap with legitimate government content moderation activities",
+    "Question of how 'protected speech' will be defined in practice"
   ],
   "citations": [
     "First Amendment to the United States Constitution",
-    "3 U.S.C. \u00a7 301",
-    "U.S. Constitution"
+    "Section 301 of title 3, United States Code"
   ],
+  "action_type": "Executive Order",
   "file_name": "restoring-freedom-of-speech-and-ending-federal-censorship"
 }

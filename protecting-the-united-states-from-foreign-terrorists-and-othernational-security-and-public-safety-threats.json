@@ -14,36 +14,35 @@
   "og:image:width": "1200",
   "og:image:height": "628",
   "og:image:type": "image/png",
-  "summary": "This Executive Order establishes enhanced vetting and screening procedures for foreign nationals seeking entry into or already present in the United States. The order directs federal agencies (State, Justice, Homeland Security, and Intelligence) to implement stricter protocols for identifying potential security threats. Key provisions include: (1) establishing baseline screening standards, (2) identifying countries with inadequate vetting procedures, (3) evaluating current visa programs and regulations, (4) strengthening refugee verification processes, and (5) developing programs to ensure proper assimilation of legal immigrants. The order emphasizes protecting American constitutional principles and national security interests from foreign threats.",
-  "eli5": "This is a rule that says the government needs to be extra careful about checking who comes into our country to make sure they won't hurt anyone and that they want to be good Americans. It's like having a really careful guard at the door of your house who makes sure only safe, friendly people can come in.",
+  "summary": "This Executive Order focuses on enhancing national security through stricter immigration controls and vetting procedures. It directs federal agencies to establish comprehensive screening protocols for foreign nationals seeking entry into or already present in the United States. The order mandates a review of existing vetting procedures, requires identification of countries with inadequate security information sharing, and calls for enhanced screening of refugees. Key provisions include creating uniform baseline screening standards, evaluating visa programs for security risks, and developing measures to ensure proper assimilation of legal immigrants. The order emphasizes protecting against terrorism, hostile ideologies, and threats to constitutional principles.",
+  "eli5": "This is a rule that makes sure we carefully check people who want to come into our country to make sure they are safe and won't hurt anyone. It's like having a special door guard who checks everyone's ID and makes sure they're friendly before letting them in.",
   "keywords": [
     "immigration",
     "national security",
-    "vetting",
     "terrorism",
+    "vetting",
     "visa screening",
-    "foreign threats",
-    "refugee policy",
+    "foreign nationals",
+    "refugees",
+    "homeland security",
     "assimilation",
-    "constitutional protection",
-    "homeland security"
+    "constitutional protection"
   ],
   "issues": [
-    "Potential for discriminatory implementation based on national origin or religion",
-    "Lack of specific metrics for determining 'adequate' vetting procedures",
-    "Unclear standards for determining 'hostile attitudes' toward US",
-    "Vague definition of 'proper assimilation'",
-    "Potential conflict with international refugee protection obligations",
-    "Resource allocation and implementation costs not addressed",
-    "Timeline feasibility for agency coordination and reporting"
+    "Potential implementation challenges due to resource constraints",
+    "Possible conflicts with international treaties and obligations",
+    "Risk of discriminatory application",
+    "Vague definition of 'hostile attitudes' and 'hateful ideology'",
+    "Unclear metrics for measuring successful assimilation",
+    "Potential impact on legitimate immigration and refugee programs"
   ],
   "citations": [
-    "Immigration and Nationality Act (INA), 8 U.S.C. 1101 et seq.",
+    "Immigration and Nationality Act (INA), 8 U.S.C. 1101",
     "3 U.S.C. 301",
     "8 U.S.C. 1182(f)",
     "8 U.S.C. 1182(a)(2)-(3)",
-    "8 U.S.C. 1451",
-    "Foreign Service Manual"
+    "8 U.S.C. 1451"
   ],
+  "action_type": "Executive Order",
   "file_name": "protecting-the-united-states-from-foreign-terrorists-and-othernational-security-and-public-safety-threats"
 }

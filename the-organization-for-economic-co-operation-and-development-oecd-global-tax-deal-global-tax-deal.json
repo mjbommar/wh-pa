@@ -13,30 +13,30 @@
   "og:image:width": "1200",
   "og:image:height": "628",
   "og:image:type": "image/png",
-  "summary": "This Presidential memorandum addresses the OECD Global Tax Deal, declaring it has no force or effect in the United States without Congressional approval. The memo directs the Secretary of Treasury and US Representative to OECD to formally notify the OECD that prior commitments regarding the Global Tax Deal are not binding. It also requires the Treasury Secretary and Trade Representative to investigate potential discriminatory foreign tax practices affecting US companies and develop protective response options within 60 days. The memo includes standard provisions preserving existing executive authority and clarifying it creates no new legal rights.",
-  "eli5": "The President is telling other countries that America won't follow their global tax rules unless Congress agrees to them first. The President also wants to check if other countries are treating American companies unfairly with their tax rules and figure out how to protect them.",
+  "summary": "This Presidential Memorandum addresses the OECD Global Tax Deal supported by the previous administration. The memorandum declares that the Deal has no force or effect in the United States without Congressional action. It directs the Secretary of Treasury and US Representative to OECD to formally notify the OECD of this position. Additionally, it requires the Treasury Secretary and Trade Representative to investigate foreign countries' tax practices that may discriminate against or disproportionately affect US companies, and develop protective measures in response. The memo includes standard provisions regarding implementation within existing legal authority and budgetary constraints.",
+  "eli5": "The President wrote a note saying America won't follow other countries' tax rules unless Congress agrees to them. He also asked his team to watch out for other countries trying to be unfair to American companies with their tax rules.",
   "keywords": [
     "OECD",
     "Global Tax",
-    "International Tax",
+    "International taxation",
+    "Tax treaties",
+    "Foreign relations",
+    "Economic policy",
     "Treasury",
-    "Trade Representative",
-    "Foreign Relations",
-    "Economic Policy",
-    "Tax Treaties",
-    "Executive Authority",
-    "Congressional Authority"
+    "Trade",
+    "Sovereignty",
+    "Economic competitiveness"
   ],
   "issues": [
-    "Potential international diplomatic consequences of withdrawing from OECD tax agreement",
-    "Lack of specific criteria for determining 'discriminatory' foreign tax practices",
-    "Unclear implications for existing international tax treaties",
-    "Potential retaliatory measures from other countries",
-    "Timeline feasibility for 60-day investigation and recommendation period"
+    "Potential international backlash from withdrawing from OECD tax agreement",
+    "Possible retaliatory measures from other countries",
+    "Lack of clarity on what constitutes 'discriminatory' foreign tax practices",
+    "Impact on multinational corporations and international trade relations",
+    "Question of whether Congressional action is truly required for international tax agreements"
   ],
   "citations": [
-    "OECD Global Tax Deal",
-    "Office of Management and Budget (OMB) referenced in Section 3"
+    "No specific citations to US Code, CFR, or other authorities are provided in the text"
   ],
+  "action_type": "Presidential Memorandum",
   "file_name": "the-organization-for-economic-co-operation-and-development-oecd-global-tax-deal-global-tax-deal"
 }

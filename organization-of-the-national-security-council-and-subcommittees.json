@@ -14,26 +14,26 @@
   "og:image:width": "1200",
   "og:image:height": "628",
   "og:image:type": "image/png",
-  "summary": "This National Security Presidential Memorandum (NSPM-1) reorganizes the National Security Council (NSC) and its supporting committees. It establishes the structure, membership, and operational procedures for the NSC, Principals Committee (PC), Deputies Committee (DC), and Policy Coordination Committees (PCCs). The memorandum outlines specific roles for the National Security Advisor and Homeland Security Advisor, details voting procedures, and establishes clear reporting relationships. It emphasizes integrated policy development across agencies and comprehensive threat response. The document represents a significant restructuring of national security decision-making processes, replacing previous guidance including NSM-2 from 2021.",
-  "eli5": "This document explains how the President organizes a special team of advisors who help keep America safe. It's like creating a rulebook for how different government leaders work together to protect the country from dangers.",
+  "summary": "This National Security Presidential Memorandum (NSPM-1) establishes the organization and structure of the National Security Council (NSC) and its subcommittees. It outlines the composition, functions, and responsibilities of the NSC, the Principals Committee (PC), the Deputies Committee (DC), and Policy Coordination Committees (PCCs). The memorandum details specific roles for key officials including the National Security Advisor and Homeland Security Advisor, establishes voting procedures, and defines membership and attendance requirements for various committees. It also addresses the integration of homeland security matters when the NSC convenes as the Homeland Security Council (HSC).",
+  "eli5": "This document explains how the President organizes his team of advisors who help keep America safe. It's like creating a special group of experts who meet regularly to discuss important safety issues and make plans to protect the country.",
   "keywords": [
     "National Security Council",
     "Homeland Security",
-    "Presidential Memorandum",
+    "Presidential Administration",
     "Executive Organization",
-    "Interagency Coordination",
-    "Policy Development",
+    "Federal Government",
     "National Defense",
-    "Government Structure",
-    "Federal Administration",
-    "Security Policy"
+    "Policy Coordination",
+    "Security Advisory",
+    "Interagency Cooperation",
+    "Executive Branch"
   ],
   "issues": [
     "Potential overlap between NSC and HSC responsibilities may create confusion",
     "Complex voting and consensus procedures could slow decision-making",
-    "Dispute resolution process timing may be problematic in emergencies",
-    "Multiple layers of committees might lead to bureaucratic inefficiency",
-    "Delegation authority could dilute clear lines of responsibility"
+    "Multiple layers of committees may lead to bureaucratic inefficiency",
+    "Delegation of authority between various advisors needs clear boundaries",
+    "Dispute resolution process timing may be too rigid for emergency situations"
   ],
   "citations": [
     "National Security Act of 1947 (50 U.S.C. 3021)",
@@ -42,9 +42,8 @@
     "Reorganization Plan No. 1 of 1977",
     "National Security Memorandum-2 (NSM-2)",
     "50 U.S.C. 3002",
-    "50 U.S.C. 3021(b)(1)",
-    "50 U.S.C. 3021(c)(1)",
-    "50 U.S.C. 3021(e)(1)"
+    "50 U.S.C. 3021(b)(1)"
   ],
+  "action_type": "National Security Presidential Memorandum",
   "file_name": "organization-of-the-national-security-council-and-subcommittees"
 }

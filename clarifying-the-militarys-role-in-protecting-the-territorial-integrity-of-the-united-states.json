@@ -14,33 +14,34 @@
   "og:image:width": "1200",
   "og:image:height": "628",
   "og:image:type": "image/png",
-  "summary": "This Executive Order, dated January 20, 2025, focuses on expanding and clarifying the military's role in border security operations. The order directs the Secretary of Defense to revise the Unified Command Plan to give USNORTHCOM explicit authority to 'seal the borders' against various threats including unlawful migration and drug trafficking. It establishes new planning requirements for border security operations and requires continuous assessment of options to protect U.S. territory. The order frames border security challenges as threats to national sovereignty and territorial integrity, effectively militarizing aspects of border enforcement while maintaining standard limitations regarding executive authority and appropriations.",
-  "eli5": "The President signed a special order that tells the military to help protect America's borders. It's like asking soldiers to be extra security guards at the country's doorways to stop people from entering illegally or bringing in dangerous things.",
+  "summary": "This Executive Order focuses on expanding and clarifying the military's role in border security operations. It declares a National Emergency at the southern border and directs the Secretary of Defense to revise the Unified Command Plan to give USNORTHCOM explicit authority to 'seal the borders' against various threats including unlawful migration and drug trafficking. The order requires new contingency planning and campaign planning requirements for border security operations. Key provisions include a 10-day deadline for USNORTHCOM mission revision and 30-day deadline for a commander's estimate of border security operations. The order emphasizes presidential authority as Commander in Chief while including standard limitations regarding appropriations and existing legal authorities.",
+  "eli5": "The President is telling the military to help protect America's borders more than before. They're supposed to make new plans to stop people from entering the country illegally and stop bad things like drugs from coming across the border.",
   "keywords": [
+    "Military",
     "Border Security",
-    "Military Authority",
-    "National Defense",
+    "National Emergency",
     "Immigration",
+    "Drug Trafficking",
     "USNORTHCOM",
     "Territorial Integrity",
-    "National Sovereignty",
-    "Drug Trafficking",
-    "Human Smuggling",
-    "National Emergency"
+    "National Security",
+    "Sovereignty",
+    "Command Structure"
   ],
   "issues": [
     "Potential conflicts with Posse Comitatus Act limitations on military involvement in domestic law enforcement",
-    "Unclear delineation between military and civilian law enforcement responsibilities",
-    "Questions about proportionality of military response to civilian border crossings",
-    "Potential international relations impacts from militarizing border enforcement",
+    "Unclear delineation between military and civilian law enforcement roles",
+    "Constitutional questions about military engagement in civilian border operations",
     "Budgetary implications not addressed",
-    "Constitutional questions about military engagement with civilians"
+    "Potential international relations impacts not considered",
+    "Definition of 'seal the borders' is vague and could be interpreted broadly"
   ],
   "citations": [
-    "Constitution of the United States",
+    "Constitution (Commander in Chief powers)",
     "Unified Command Plan",
     "Contingency Planning Guidance",
     "Guidance for the Employment of the Force"
   ],
+  "action_type": "Executive Order",
   "file_name": "clarifying-the-militarys-role-in-protecting-the-territorial-integrity-of-the-united-states"
 }

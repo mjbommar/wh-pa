@@ -14,26 +14,27 @@
   "og:image:width": "1200",
   "og:image:height": "628",
   "og:image:type": "image/png",
-  "summary": "This Executive Order, issued on January 20, 2025, addresses the implementation of the Protecting Americans from Foreign Adversary Controlled Applications Act regarding TikTok. The Order temporarily halts enforcement of the Act's prohibitions for 75 days, allowing the new administration time to assess national security implications and negotiate potential resolutions. The President directs the Attorney General to: (1) refrain from enforcement actions during this period, (2) issue implementing guidance, (3) provide written assurance to providers regarding non-violation, and (4) defend federal exclusivity in enforcement. The Order acknowledges TikTok's widespread use by 170 million Americans while balancing national security concerns regarding ByteDance Ltd.'s control.",
-  "eli5": "The President wants to pause a new law that could shut down TikTok for 75 days. This gives the government time to figure out if TikTok is safe to use while making sure millions of Americans don't suddenly lose access to the app.",
+  "summary": "This Executive Order addresses the implementation of the Protecting Americans from Foreign Adversary Controlled Applications Act regarding TikTok. The Act, which became effective January 19, 2025, prohibits the distribution, maintenance, and updating of applications controlled by ByteDance Ltd. (including TikTok) within the US. The EO orders a 75-day enforcement delay to allow the new administration to assess national security implications and negotiate potential resolutions. The Attorney General is directed not to enforce the Act during this period and to issue guidance protecting entities from liability for actions during the specified timeframe. The order also asserts exclusive federal enforcement authority over state and private parties.",
+  "eli5": "The President signed an order to pause a new law that would shut down TikTok for 75 days. This gives the government time to study if TikTok is safe to use and try to find a way to keep it running while protecting Americans.",
   "keywords": [
     "TikTok",
     "ByteDance",
     "National Security",
-    "Executive Authority",
-    "Foreign Technology",
     "Social Media",
-    "Law Enforcement",
-    "Foreign Adversary",
-    "Communications Platform",
-    "Federal Preemption"
+    "Foreign Technology",
+    "Executive Authority",
+    "Enforcement Delay",
+    "Federal Preemption",
+    "Digital Privacy",
+    "Communications Platform"
   ],
   "issues": [
-    "Tension between national security concerns and widespread public use of the platform",
-    "Question of federal vs. state enforcement authority",
-    "Timing of law's implementation one day before new administration",
-    "Balance between executive authority and legislative intent",
-    "Potential constitutional questions regarding separation of powers"
+    "Tension between national security concerns and popular platform usage",
+    "Timing of law implementation coinciding with presidential transition",
+    "Federal vs state enforcement authority",
+    "Balance between national security and commercial interests",
+    "Potential constitutional issues regarding executive enforcement discretion",
+    "Impact on 170 million American users"
   ],
   "citations": [
     "Protecting Americans from Foreign Adversary Controlled Applications Act (Pub. L. 118-50, div. H)",
@@ -41,5 +42,6 @@
     "Section 2(g) of the Act",
     "Section 2(d) of the Act"
   ],
+  "action_type": "Executive Order",
   "file_name": "application-of-protecting-americans-from-foreign-adversary-controlled-applications-act-to-tiktok"
 }
