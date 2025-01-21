@@ -1,0 +1,26 @@
+{
+  "summary": "This presidential proclamation declares an ongoing 'invasion' at the southern border of the United States under Article IV, Section 4 of the Constitution. The proclamation uses both statutory authority under the Immigration and Nationality Act (INA) and claimed constitutional powers to suspend entry of aliens crossing the southern border illegally. It cites the overwhelming number of border crossings (8+ million over 4 years) and inability to properly screen entrants for health, safety, and security risks as justification. The order directs DHS to take action to repel, repatriate, or remove aliens crossing the border illegally, and suspends access to asylum and other immigration benefits for these individuals until the president declares the 'invasion' has ended.",
+  "eli5": "The President is saying that too many people are crossing the southern border without permission, calling it an 'invasion,' and ordering government workers to stop letting people in and to send back people who try to enter without permission.",
+  "issues": [
+    "The legal basis for declaring illegal immigration an 'invasion' under Article IV Section 4 is unprecedented and likely controversial",
+    "The scope of presidential power being claimed goes beyond traditional interpretations",
+    "The suspension of asylum rights may conflict with international treaty obligations",
+    "The indefinite nature of the suspension ('until invasion has ceased') raises due process concerns",
+    "The proclamation appears to bypass existing immigration law and court precedents",
+    "No clear metrics are provided for determining when the 'invasion' has ceased"
+  ],
+  "citations": [
+    "Article IV, Section 4 of the U.S. Constitution",
+    "Article II of the U.S. Constitution",
+    "Immigration and Nationality Act (INA), 8 U.S.C. 1101 et seq.",
+    "8 U.S.C. 1182(a)(1) - Health-related grounds for inadmissibility",
+    "8 U.S.C. 1182(a)(2) - Criminal and related grounds for inadmissibility",
+    "8 U.S.C. 1182(a)(3) - Security-related grounds for inadmissibility",
+    "8 U.S.C. 1182(f) - Presidential authority to suspend entry",
+    "8 U.S.C. 1185(a)(1) - Travel control of aliens",
+    "8 U.S.C. 1158 - Asylum provisions",
+    "U.S. ex rel. Knauff v. Shaughnessy, 338 U.S. 537 (1950)",
+    "Trump v. Hawaii, 585 U.S. 667 (2018)",
+    "3 U.S.C. 301 - Presidential delegation of functions"
+  ]
+}
