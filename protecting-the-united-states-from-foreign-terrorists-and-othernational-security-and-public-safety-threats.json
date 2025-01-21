@@ -1,0 +1,20 @@
+{
+  "summary": "This Executive Order, dated January 20, 2025, focuses on enhancing national security through stricter immigration controls and vetting procedures. The order directs federal agencies to implement more rigorous screening processes for all foreign nationals seeking entry into or already present in the United States. Key provisions include:\n\n1. Establishing enhanced vetting procedures across agencies\n2. Requiring a 60-day report identifying countries with insufficient vetting capabilities\n3. Mandating immediate action on excluding or removing identified threats\n4. Evaluating and adjusting existing immigration regulations and procedures\n5. Strengthening refugee verification processes\n6. Reviewing visa programs for potential security risks\n7. Ensuring proper allocation of resources for denaturalization cases\n8. Evaluating immigrant assimilation programs",
+  "eli5": "This is a rule that makes it harder for people from other countries to come into the United States if they might want to hurt Americans. It tells government workers to check people more carefully before letting them in and to watch out for anyone who might cause trouble.",
+  "issues": [
+    "The order's broad language regarding 'hostile attitudes' and 'founding principles' could lead to subjective interpretation",
+    "Potential constitutional concerns regarding religious freedom and discrimination",
+    "No specific metrics or criteria defined for 'maximum degree possible' vetting",
+    "Unclear parameters for determining 'proper assimilation'",
+    "Potential impact on processing times and immigration backlogs",
+    "No clear guidance on handling humanitarian cases or exceptions",
+    "Possible conflicts with existing international agreements and treaties"
+  ],
+  "citations": [
+    "Immigration and Nationality Act (INA), 8 U.S.C. 1101 et seq.",
+    "Section 301 of title 3, United States Code",
+    "Section 212(f) of the INA (8 U.S.C. 1182(f))",
+    "Sections 212(a)(2)-(3) of the INA (8 U.S.C. 1182(a)(2)-(3))",
+    "8 U.S.C. 1451"
+  ]
+}

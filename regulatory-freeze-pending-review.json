@@ -1,0 +1,18 @@
+{
+  "summary": "This Presidential memorandum implements a regulatory freeze on pending administrative actions at the start of a new presidential administration (January 20, 2025). It requires all executive departments and agencies to halt the proposal or issuance of new rules until they can be reviewed by new agency heads appointed by the incoming President. The freeze covers three categories of rules: (1) unpublished rules, which must be withdrawn; (2) published but not yet effective rules, which may be postponed for 60 days for review; and (3) future regulatory actions. The memo defines 'rules' broadly to include regulatory actions and guidance documents. The OMB Director is given oversight authority and can grant exceptions for emergencies or urgent circumstances.",
+  "eli5": "When a new President takes office, they want to pause and look at all the rules the old President's team was working on. This is like pressing a pause button on all the government's rule-making so the new team can check everything first.",
+  "issues": [
+    "The broad definition of 'rules' could create uncertainty about which agency actions are covered",
+    "The 60-day review period may not be sufficient for complex regulations",
+    "Potential disruption to ongoing regulatory processes and compliance efforts",
+    "Unclear criteria for what constitutes an 'emergency' or 'urgent circumstance' for exceptions",
+    "Impact on rules required by statutory deadlines or court orders"
+  ],
+  "citations": [
+    "5 U.S.C. \u00a7 551(4)",
+    "Executive Order 12866 \u00a7 3(e) (September 30, 1993)",
+    "Executive Order 13891 \u00a7 2(b) (October 9, 2019)",
+    "Paperwork Reduction Act of 1995 (44 U.S.C. ch. 35)",
+    "Federal Register"
+  ]
+}

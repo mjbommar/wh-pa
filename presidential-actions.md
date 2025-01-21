@@ -1,0 +1,75 @@
+
+
+Presidential Actions
+====================
+
+[Remarks](https://www.whitehouse.gov/remarks/)
+
+[Briefings & Statements](https://www.whitehouse.gov/briefings-statements/)
+
+[Presidential Actions](https://www.whitehouse.gov/presidential-actions/)
+
+[articles](https://www.whitehouse.gov/articles/)
+
+
+
+
+
+
+* [Putting America First In International Environmental Agreements](https://www.whitehouse.gov/presidential-actions/2025/01/putting-america-first-in-international-environmental-agreements/)
+  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  
+  [Presidential Actions](https://www.whitehouse.gov/presidential-actions/)
+  January 20, 2025
+* [Delivering Emergency Price Relief for American Families and Defeating the Cost-of-Living Crisis](https://www.whitehouse.gov/presidential-actions/2025/01/delivering-emergency-price-relief-for-american-families-and-defeating-the-cost-of-living-crisis/)
+  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  
+  [Presidential Actions](https://www.whitehouse.gov/presidential-actions/)
+  January 20, 2025
+* [Hiring Freeze](https://www.whitehouse.gov/presidential-actions/2025/01/hiring-freeze/)
+  ---------------------------------------------------------------------------------------
+  
+  [Presidential Actions](https://www.whitehouse.gov/presidential-actions/)
+  January 20, 2025
+* [Regulatory Freeze Pending Review](https://www.whitehouse.gov/presidential-actions/2025/01/regulatory-freeze-pending-review/)
+  -----------------------------------------------------------------------------------------------------------------------------
+  
+  [Presidential Actions](https://www.whitehouse.gov/presidential-actions/)
+  January 20, 2025
+* [Return to In-Person Work](https://www.whitehouse.gov/presidential-actions/2025/01/return-to-in-person-work/)
+  -------------------------------------------------------------------------------------------------------------
+  
+  [Presidential Actions](https://www.whitehouse.gov/presidential-actions/)
+  January 20, 2025
+* [Ending The Weaponization Of The Federal Government](https://www.whitehouse.gov/presidential-actions/2025/01/ending-the-weaponization-of-the-federal-government/)
+  -----------------------------------------------------------------------------------------------------------------------------------------------------------------
+  
+  [Presidential Actions](https://www.whitehouse.gov/presidential-actions/)
+  January 20, 2025
+* [Restoring Freedom Of Speech And Ending Federal Censorship](https://www.whitehouse.gov/presidential-actions/2025/01/restoring-freedom-of-speech-and-ending-federal-censorship/)
+  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  
+  [Presidential Actions](https://www.whitehouse.gov/presidential-actions/)
+  January 20, 2025
+* [Initial Rescissions Of Harmful Executive Orders And Actions](https://www.whitehouse.gov/presidential-actions/2025/01/initial-rescissions-of-harmful-executive-orders-and-actions/)
+  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  
+  [Presidential Actions](https://www.whitehouse.gov/presidential-actions/)
+  January 20, 2025
+* [Flying The Flag Of The United States At Full-Staff On Inauguration Day](https://www.whitehouse.gov/presidential-actions/2025/01/flying-the-flag-of-the-united-states-at-full-staff-on-inauguration-day/)
+  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  
+  [Presidential Actions](https://www.whitehouse.gov/presidential-actions/)
+  January 20, 2025
+* [President Trump Designates Chairmen and Acting Chairmen](https://www.whitehouse.gov/presidential-actions/2025/01/designation-of-chairmen-and-acting-chairmen/)
+  ---------------------------------------------------------------------------------------------------------------------------------------------------------------
+  
+  [Presidential Actions](https://www.whitehouse.gov/presidential-actions/)
+  January 20, 2025
+
+1
+[2](https://www.whitehouse.gov/presidential-actions/page/2/)
+Next
+
+
+

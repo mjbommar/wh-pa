@@ -1,0 +1,17 @@
+{
+  "summary": "This Executive Order, issued on January 20, 2025, addresses the implementation of the Protecting Americans from Foreign Adversary Controlled Applications Act regarding TikTok. The Order temporarily halts enforcement of the Act for 75 days to allow the new administration to assess national security implications and negotiate potential resolutions. The President directs the Attorney General to: 1) cease enforcement actions during this period, 2) issue guidance implementing the pause, 3) provide written confirmation to providers that no violations occurred during this time, and 4) defend the Executive's exclusive enforcement authority against state or private party attempts at enforcement. The Order emphasizes the President's constitutional authority over national security and foreign policy while acknowledging TikTok's widespread use by 170 million Americans.",
+  "eli5": "The new President is putting a 75-day pause on a law that would shut down TikTok in America. This gives the President time to study if TikTok is safe to use and to try to find a solution that protects both American safety and the app that many people use.",
+  "issues": [
+    "The Order acknowledges potential conflict between national security concerns and widespread public use of the platform",
+    "Timing of the Act's implementation (one day before new administration) raises questions about political motivations",
+    "Question of whether 75 days is sufficient time to properly assess national security implications",
+    "Potential jurisdictional conflicts between federal and state enforcement",
+    "Unclear what happens if no resolution is reached within 75 days"
+  ],
+  "citations": [
+    "Protecting Americans from Foreign Adversary Controlled Applications Act (Pub. L. 118-50, div. H)",
+    "Section 2(a) of the Act - prohibition on distribution and maintenance",
+    "Section 2(g) of the Act - definition of Foreign Adversary Controlled Application",
+    "Section 2(d) of the Act - Attorney General enforcement authority"
+  ]
+}

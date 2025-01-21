@@ -1,0 +1,14 @@
+{
+  "summary": "This Presidential Memorandum directs the GSA Administrator to submit recommendations within 60 days regarding Federal building architecture. The key policy objective is to ensure Federal buildings are visually recognizable as civic structures and reflect regional, traditional, and classical architectural styles. The memo requires reviewing the Guiding Principles for Federal Architecture and developing processes for community input in design selection. Additionally, it establishes a notification requirement where the Administrator must alert the President through the Domestic Policy Assistant if they plan to approve designs that deviate from the stated policy, providing at least 30 days' notice before reaching a point where design rejection would incur substantial costs.",
+  "eli5": "The President wants government buildings to look nice and special, like important buildings from our history. Before building new government buildings, they need to ask local people what they think and make sure the buildings look like they belong in that area.",
+  "issues": [
+    "The memo doesn't define what constitutes 'classical architectural heritage' or 'traditional' styles",
+    "No specific criteria are provided for determining when a design 'diverges' from the policy",
+    "The term 'substantial expenditures' is not quantified",
+    "The relationship between community input and architectural style preferences isn't clearly defined",
+    "No metrics or standards are provided for evaluating 'beautiful' architecture"
+  ],
+  "citations": [
+    "Guiding Principles for Federal Architecture"
+  ]
+}

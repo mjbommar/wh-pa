@@ -1,0 +1,30 @@
+{
+  "summary": "This Presidential Memorandum outlines a comprehensive 'America First' trade policy, directing various executive agencies to review and reform U.S. trade practices. The memorandum establishes multiple initiatives focusing on: addressing trade deficits, investigating unfair trade practices, reviewing existing trade agreements (especially USMCA), addressing currency manipulation, strengthening antidumping measures, reviewing China trade relations, enhancing export controls, and protecting national security interests in trade. Key actions include investigating the creation of an External Revenue Service for trade revenue collection, reviewing the $800 de minimis threshold for imports, and assessing technology transfer risks. The document requires coordinated reports from various agencies by April 2025.",
+  "eli5": "The President wants to make sure other countries trade fairly with America and don't take advantage of us. He's asking different government departments to check if other countries are following the rules and to suggest ways to protect American workers and businesses.",
+  "issues": [
+    "The proposed External Revenue Service (ERS) could create administrative overlap with existing customs collection systems",
+    "Implementation timeline of April 2025 may be ambitious given the scope of reviews required",
+    "Potential international trade partner reactions to increased tariffs and trade restrictions",
+    "Lack of specific metrics for measuring success of trade policy changes",
+    "Potential WTO compliance issues with some proposed measures"
+  ],
+  "citations": [
+    "15 USC \u00a7\u00a771-75",
+    "19 USC \u00a71337",
+    "19 USC \u00a71338",
+    "19 USC \u00a72252",
+    "19 USC \u00a72253",
+    "19 USC \u00a72411",
+    "19 USC \u00a74611(b)",
+    "19 USC \u00a74421",
+    "19 USC \u00a71677m",
+    "19 USC \u00a71321",
+    "19 USC \u00a71862",
+    "22 USC \u00a75305",
+    "26 USC \u00a7891",
+    "50 USC \u00a71701",
+    "Executive Order 13788",
+    "Executive Order 14105",
+    "89 Fed. Reg. 90398"
+  ]
+}

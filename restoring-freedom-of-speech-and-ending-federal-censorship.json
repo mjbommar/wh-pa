@@ -1,0 +1,16 @@
+{
+  "summary": "This Executive Order, dated January 20, 2025, aims to restore freedom of speech and end alleged federal censorship practices. The order asserts that the previous administration violated First Amendment rights by pressuring social media companies and other platforms to censor, moderate, or suppress speech under the pretense of fighting misinformation. The order establishes a policy framework prohibiting federal employees from engaging in or facilitating speech suppression, mandates that taxpayer resources cannot be used for censorship, and directs the Attorney General to investigate past government activities related to censorship over the previous 4 years. The order includes standard provisions about implementation and enforcement limitations.",
+  "eli5": "The President made a new rule that says the government cannot tell social media companies to remove or block people's posts just because they don't like what people are saying. It's like making sure everyone gets to speak their mind without the government trying to stop them.",
+  "issues": [
+    "The order doesn't clearly define what constitutes 'censorship' versus legitimate content moderation",
+    "No specific metrics or standards are provided for identifying censorship activities",
+    "The scope of the Attorney General's investigation is broad and potentially resource-intensive",
+    "The order may conflict with existing government programs designed to combat harmful misinformation",
+    "Implementation could be challenging given the complex relationship between government agencies and social media platforms",
+    "The order doesn't address private companies' rights to moderate content on their platforms"
+  ],
+  "citations": [
+    "First Amendment to the United States Constitution",
+    "Section 301 of title 3, United States Code"
+  ]
+}

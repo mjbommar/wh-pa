@@ -1,0 +1,22 @@
+{
+  "summary": "This National Security Presidential Memorandum (NSPM-1) outlines the organization and functioning of the National Security Council (NSC) and its subcommittees. It establishes the structure for national security policy development, decision-making, implementation, and monitoring. The memorandum details the composition of the NSC, including statutory and designated members, and describes the roles of key officials like the National Security Advisor and Homeland Security Advisor. It establishes three main organizational levels: the NSC itself, the Principals Committee (PC), and the Deputies Committee (DC), along with Policy Coordination Committees (PCCs). Each level has specific functions, membership requirements, and decision-making processes. The document emphasizes integrated approaches to national security challenges and establishes clear chains of command and processes for policy development and implementation.",
+  "eli5": "This is like creating a special team of important government leaders who work together to keep America safe. They have different jobs and responsibilities, but they all meet regularly to make decisions about protecting the country, kind of like how a school's teachers and principal work together to keep students safe.",
+  "issues": [
+    "The document doesn't clearly specify time limits for emergency decisions",
+    "There's potential overlap between NSC and HSC responsibilities that could create confusion",
+    "The dispute resolution process could potentially delay urgent national security decisions",
+    "The relationship between PCCs and existing department-level working groups isn't fully defined",
+    "The delegation of chair authority could lead to accountability issues"
+  ],
+  "citations": [
+    "National Security Act of 1947 (50 U.S.C. 3021)",
+    "Homeland Security Act of 2002 (6 U.S.C. 495)",
+    "Presidential Records Act of 1978",
+    "Reorganization Plan No. 1 of 1977",
+    "50 U.S.C. 3002",
+    "50 U.S.C. 3021(b)(1)",
+    "50 U.S.C. 3021(c)(1)",
+    "50 U.S.C. 3021(e)(1)",
+    "National Security Memorandum-2 (NSM-2) of February 4, 2021"
+  ]
+}

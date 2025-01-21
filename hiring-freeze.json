@@ -1,0 +1,17 @@
+{
+  "summary": "This Presidential memorandum implements an immediate hiring freeze across the federal executive branch effective January 20, 2025. The freeze prohibits filling vacant civilian positions and creating new positions, with specific exemptions for military personnel, immigration enforcement, national security, public safety, and certain benefits programs. The Office of Personnel Management can grant additional exemptions as necessary. Within 90 days, OMB must develop a plan to reduce the federal workforce through attrition and efficiency improvements. Once this plan is issued, the freeze expires for all agencies except the IRS, which remains under the freeze until Treasury determines otherwise. The order prohibits circumventing the freeze through outside contracting but allows internal reallocations for essential services and high-priority needs. It preserves Presidential appointment powers and doesn't affect existing collective bargaining agreements.",
+  "eli5": "The President told most government offices they can't hire new workers for a while. Some important jobs like military and safety workers are allowed to keep hiring. It's like pressing a pause button on government hiring until they figure out how to do things with fewer people.",
+  "issues": [
+    "The creation of a 'DOGE Service' appears to be a typo or error - this likely should be 'Digital Service'",
+    "No specific metrics or criteria are provided for determining when the IRS freeze should be lifted",
+    "Potential impact on government services and efficiency during the freeze period",
+    "Possible constitutional questions about executive authority to impose blanket hiring restrictions",
+    "Lack of clear definition for what constitutes 'essential services' or 'highest priority needs'"
+  ],
+  "citations": [
+    "5 U.S.C. \u00a7 3161 (Temporary organization hiring authority)",
+    "Schedule A positions in Excepted Service",
+    "Schedule C positions in Excepted Service",
+    "Senior Executive Service"
+  ]
+}
