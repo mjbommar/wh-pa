@@ -1,8 +1,8 @@
 
 [Presidential Actions](https://www.whitehouse.gov/presidential-actions/) 
 
-ENDING RADICAL AND WASTEFUL GOVERNMENT DEI PROGRAMSAND PREFERENCING
-===================================================================
+Ending Radical And Wasteful Government DEI Programs And Preferencing
+====================================================================
 
 EXECUTIVE ORDER 
 January 20, 2025 

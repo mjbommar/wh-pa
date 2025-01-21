@@ -1,17 +1,44 @@
 {
-  "summary": "This Executive Order, dated January 20, 2025, aims to restore freedom of speech and end alleged federal censorship practices. The order asserts that the previous administration violated First Amendment rights by pressuring social media companies and other platforms to censor, moderate, or suppress speech under the pretense of fighting misinformation. The order establishes a policy framework prohibiting federal employees from engaging in or facilitating speech suppression, mandates that taxpayer resources cannot be used for censorship, and directs the Attorney General to investigate past government activities related to censorship over the previous 4 years. The order includes standard provisions about implementation and enforcement limitations.",
-  "eli5": "The President made a new rule that says the government cannot tell social media companies to remove or block people's posts just because they don't like what people are saying. It's like making sure everyone gets to speak their mind without the government trying to stop them.",
+  "title": "Restoring Freedom Of Speech And Ending Federal Censorship \u2013 The White House\n",
+  "markdown": "\n[Presidential Actions](https://www.whitehouse.gov/presidential-actions/) \n\nRESTORING FREEDOM OF SPEECH AND ENDING FEDERAL CENSORSHIP\n=========================================================\n\nEXECUTIVE ORDER \nJanuary 20, 2025 \n\n\n\nBy the authority vested in me as President by the Constitution and the laws of the United States of America, and section 301 of title 3, United States Code, it is hereby ordered as follows:\n\nSection 1.\u00a0 Purpose.The First Amendment to the United\u00a0States Constitution, an amendment essential to the success of our Republic, enshrines the right of the American people to speak freely in the public square without Government interference. \u00a0Over the last 4 years, the previous administration trampled free speech rights by censoring Americans\u2019 speech on online platforms, often by exerting substantial coercive pressure on third parties, such as social media companies, to moderate, deplatform, or otherwise suppress speech that the Federal Government did not approve. \u00a0Under the guise of combatting \u201cmisinformation,\u201d \u201cdisinformation,\u201d and \u201cmalinformation,\u201d the Federal Government infringed on the constitutionally protected speech rights of American citizens across the United States in a manner that advanced the Government\u2019s preferred narrative about significant matters of public debate. \u00a0Government censorship of speech is intolerable in a free society.\n\nSec. 2.\u00a0 Policy.\u00a0 It is the policy of the United States to: \u00a0\u00a0\u00a0\u00a0\u00a0 (a) \u00a0secure the right of the American people to engage in constitutionally protected speech;\n\n(b) \u00a0ensure that no Federal Government officer, employee, or agent engages in or facilitates any conduct that would unconstitutionally abridge the free speech of any American citizen;\n\n(c) \u00a0ensure that no taxpayer resources are used to engage in or facilitate any conduct that would unconstitutionally abridge the free speech of any American citizen; and\n\n(d)\u00a0 identify and take appropriate action to correct past misconduct by the Federal Government related to censorship of protected speech.\n\nSec. 3. \u00a0Ending Censorship of Protected Speech. \u00a0(a)\u00a0 No Federal department, agency, entity, officer, employee, or agent may act or use any Federal resources in a manner contrary to section 2 of this order.\n\n(b) \u00a0The Attorney General, in consultation with the heads of executive departments and agencies, shall investigate the activities of the Federal Government over the last 4 years that are inconsistent with the purposes and policies of this order and prepare a report to be submitted to the President, through the Deputy Chief of Staff for Policy, with recommendations for appropriate remedial actions to be taken based on the findings of the report.\n\nSec. 4. \u00a0General Provisions. \u00a0(a) \u00a0Nothing in this order shall be construed to impair or otherwise affect:\n\n(i) \u00a0\u00a0the authority granted by law to an executive department or agency, or the head thereof; or\n\n(ii) \u00a0\u00a0the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.\n\n(b) \u00a0This order shall be implemented consistent with applicable law and subject to the availability of appropriations.\n\n(c) \u00a0This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.\n\nTHE WHITE HOUSE,\n\nJanuary 20, 2025.\n\n\n\n",
+  "og:locale": "en_US",
+  "og:type": "article",
+  "og:title": "Restoring Freedom Of Speech And Ending Federal Censorship \u2013 The White House",
+  "og:description": "\u00a0\u00a0\u00a0\u00a0 By the authority vested in me as President by the Constitution and the laws of the United States of America, and section 301 of title 3, United",
+  "og:url": "https://www.whitehouse.gov/presidential-actions/2025/01/restoring-freedom-of-speech-and-ending-federal-censorship/",
+  "og:site_name": "The White House",
+  "article:publisher": "https://www.facebook.com/WhiteHouse/",
+  "article:published_time": "2025-01-20T23:53:42+00:00",
+  "article:modified_time": "2025-01-21T00:01:32+00:00",
+  "og:image": "https://www.whitehouse.gov/wp-content/uploads/2025/01/WH47-Social-Share-Card-Navy-1200x628-1.png",
+  "og:image:width": "1200",
+  "og:image:height": "628",
+  "og:image:type": "image/png",
+  "summary": "This Executive Order, dated January 20, 2025, addresses perceived violations of First Amendment rights by the previous administration through government-influenced content moderation on social media platforms. The order prohibits federal officers, employees, and agents from engaging in or facilitating any conduct that would unconstitutionally restrict Americans' free speech. It directs the Attorney General to investigate past government activities related to content moderation and censorship over the previous 4 years and prepare a report with recommendations for remedial actions. The order includes standard provisions regarding implementation within existing legal and budgetary constraints, and explicitly states it creates no new legal rights or grounds for litigation.",
+  "eli5": "The President made a rule that says the government cannot tell social media companies to remove or hide people's posts just because they disagree with what people are saying. It's like making sure the government doesn't act like a playground bully who tells other kids what they can and cannot say.",
+  "keywords": [
+    "First Amendment",
+    "Free Speech",
+    "Censorship",
+    "Social Media",
+    "Content Moderation",
+    "Government Oversight",
+    "Constitutional Rights",
+    "Executive Power",
+    "Federal Agencies",
+    "Digital Communications"
+  ],
   "issues": [
-    "The order doesn't clearly define what constitutes 'censorship' versus legitimate content moderation",
-    "No specific metrics or standards are provided for identifying censorship activities",
-    "The scope of the Attorney General's investigation is broad and potentially resource-intensive",
-    "The order may conflict with existing government programs designed to combat harmful misinformation",
-    "Implementation could be challenging given the complex relationship between government agencies and social media platforms",
-    "The order doesn't address private companies' rights to moderate content on their platforms"
+    "The order doesn't clearly define what constitutes 'unconstitutional' restriction of speech",
+    "Implementation and enforcement mechanisms are not specifically outlined",
+    "Potential conflict with existing content moderation practices for legitimate purposes (e.g., national security)",
+    "Unclear scope of Attorney General's investigative authority",
+    "May create uncertainty for federal agencies involved in any form of content oversight"
   ],
   "citations": [
     "First Amendment to the United States Constitution",
-    "Section 301 of title 3, United States Code"
+    "3 U.S.C. \u00a7 301",
+    "U.S. Constitution"
   ],
   "file_name": "restoring-freedom-of-speech-and-ending-federal-censorship"
 }

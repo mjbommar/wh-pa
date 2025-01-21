@@ -1,8 +1,8 @@
 
 [Presidential Actions](https://www.whitehouse.gov/presidential-actions/) 
 
-Temporary Withdrawal of All Areas on the OuterContinental Shelf from Offshore Wind Leasing andReview of the Federal Government’s Leasing andPermitting Practices for Wind Projects
-==================================================================================================================================================================================
+Temporary Withdrawal of All Areas on the Outer Continental Shelf from Offshore Wind Leasing and Review of the Federal Government’s Leasing and Permitting Practices for Wind Projects
+=====================================================================================================================================================================================
 
 January 20, 2025 
 

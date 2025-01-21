@@ -1,7 +1,7 @@
 
 [Presidential Actions](https://www.whitehouse.gov/presidential-actions/) 
 
-DESIGNATING CARTELS AND OTHER ORGANIZATIONS AS FOREIGN TERRORIST ORGANIZATIONS AND SPECIALLY DESIGNATED GLOBAL TERRORISTS
+Designating Cartels And Other Organizations As Foreign Terrorist Organizations And Specially Designated Global Terrorists
 =========================================================================================================================
 
 EXECUTIVE ORDER 

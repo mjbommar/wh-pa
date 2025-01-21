@@ -1,16 +1,45 @@
 {
-  "summary": "This Presidential directive announces the appointment of acting officials to Cabinet and Cabinet-level positions effective January 20, 2025. The President, exercising authority under the Constitution and Federal Vacancies Reform Act, has designated various individuals to temporarily perform the duties of key executive branch positions until permanent appointments are made and confirmed. The directive covers all major Cabinet positions including State, Treasury, Defense, and Justice, as well as important agency heads like the FBI Director, CIA Director, and NASA Administrator. This appears to be a standard transition of power document establishing interim leadership across the federal government.",
-  "eli5": "When a new President takes over, they need people to run different parts of the government right away. This is a list of temporary leaders who will do these important jobs until permanent ones are chosen.",
+  "title": "President Trump Announces Acting Cabinet and Cabinet-Level Positions \u2013 The White House\n",
+  "markdown": "\n[Presidential Actions](https://www.whitehouse.gov/presidential-actions/) \n\nPresident Trump Announces Acting Cabinet and Cabinet-Level Positions\n====================================================================\n\nJanuary 20, 2025 \n\n\n\nPursuant to the Constitution and the laws of the United\u00a0States, including but not limited to 5 U.S.C. 3345 *et\u00a0seq.*, I hereby direct the following individuals to perform the functions and duties of\u00a0the indicated positions in an acting\u00a0capacity until the position is filled by appointment.\n\n| Gary Washington | Secretary of Agriculture |\n| --- | --- |\n| Jeremy Pelter | Secretary of Commerce |\n| Robert Salesses | Secretary of Defense |\n| Mark Averill | Secretary of the Army |\n| Terence Emmert | Secretary of the Navy |\n| Gary Ashworth | Secretary of the Air Force |\n| Denise Carter | Secretary of Education |\n| Ingrid Kolb | Secretary of Energy |\n| Dorothy Fink | Secretary of Health and Human Services |\n| Benjamine Huffman | Secretary of Homeland Security |\n| Matthew Ammon | Secretary of Housing and Urban Development |\n| Walter Cruickshank | Secretary of the Interior |\n| James McHenry | Attorney General |\n| Vincent Micone | Secretary of Labor |\n| Lisa Kenna | Secretary of State |\n| David Lebryk | Secretary of the Treasury |\n| Judith Kaleta | Secretary of Transportation |\n| Todd Hunter | Secretary of Veterans Affairs |\n| James Payne | Administrator of the Environmental Protection Agency |\n| Everett Woodel | Administrator of the Small Business Administration |\n| Matthew Vaeth | Director of the Office of Management and Budget |\n| Stacey Dixon | Director of National Intelligence |\n| Juan Millan | United States Trade Representative |\n| Thomas Sylvester, Jr. | Director of the Central Intelligence Agency |\n| Charles Ezell | Director of the Office of Personnel Management |\n| Stephen Ehikian | Administrator of General Services |\n| Michelle King | Commissioner of Social Security |\n| Brian Driscoll | Director of the Federal Bureau of Investigation |\n| Jason Gray | Administrator of the United States Agency for International Development |\n| Janet Petro | Administrator of the National Aeronautics and Space Administration |\n| Caleb Vitello | Director of U.S. Immigration and Customs Enforcement |\n\nTHE WHITE HOUSE,\n\nJanuary 20, 2025.\n\n\n\n",
+  "og:locale": "en_US",
+  "og:type": "article",
+  "og:title": "President Trump Announces Acting Cabinet and Cabinet-Level Positions \u2013 The White House",
+  "og:description": "Pursuant to the Constitution and the laws of the United\u00a0States, including but not limited to 5 U.S.C. 3345 et\u00a0seq., I hereby direct the",
+  "og:url": "https://www.whitehouse.gov/presidential-actions/2025/01/designation-of-acting-leaders/",
+  "og:site_name": "The White House",
+  "article:publisher": "https://www.facebook.com/WhiteHouse/",
+  "article:published_time": "2025-01-20T19:40:00+00:00",
+  "article:modified_time": "2025-01-20T22:09:39+00:00",
+  "og:image": "https://www.whitehouse.gov/wp-content/uploads/2025/01/WH47-Social-Share-Card-Navy-1200x628-1.png",
+  "og:image:width": "1200",
+  "og:image:height": "628",
+  "og:image:type": "image/png",
+  "summary": "This Presidential directive, dated January 20, 2025, designates acting officials to temporarily fill Cabinet and Cabinet-level positions in the federal government. Pursuant to constitutional and statutory authority, particularly the Federal Vacancies Reform Act (5 U.S.C. 3345), President Trump has appointed acting officials to serve in key leadership roles across major federal departments and agencies until permanent appointments can be made and confirmed. The directive covers all 15 executive departments plus additional significant agencies and positions including the EPA, CIA, FBI, and NASA among others.",
+  "eli5": "The President picked temporary leaders to run important parts of the government until permanent leaders can be chosen. It's like having substitute teachers run different school departments until the permanent teachers are hired.",
+  "keywords": [
+    "Acting Officials",
+    "Cabinet Appointments",
+    "Executive Branch",
+    "Federal Government",
+    "Presidential Directive",
+    "Temporary Appointments",
+    "Trump Administration",
+    "Federal Agencies",
+    "Government Leadership",
+    "Presidential Transition"
+  ],
   "issues": [
-    "The document assumes a Trump presidency in 2025, which is speculative",
-    "No indication of how long these acting appointments will last",
-    "No mention of Senate confirmation requirements for permanent appointments",
-    "Unclear if these acting officials meet all statutory requirements for their positions",
-    "No explanation of why acting appointments are necessary rather than permanent nominations"
+    "No specified time limits for these acting appointments",
+    "Potential concerns about length of 'temporary' appointments",
+    "Questions about qualification requirements for acting positions",
+    "No mention of the confirmation process timeline",
+    "Unclear why permanent appointments were not ready",
+    "Multiple military branch secretaries being filled by acting officials simultaneously"
   ],
   "citations": [
+    "5 U.S.C. 3345 et seq.",
     "U.S. Constitution",
-    "5 U.S.C. 3345 et seq. (Federal Vacancies Reform Act)"
+    "Federal Vacancies Reform Act"
   ],
   "file_name": "designation-of-acting-leaders"
 }

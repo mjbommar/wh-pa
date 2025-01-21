@@ -1,17 +1,40 @@
 {
-  "summary": "This document represents President Trump's Cabinet nominations for his 2025 administration. It lists 23 individuals nominated for key executive positions including all 15 Cabinet Secretary positions and several Cabinet-level appointments. Notable nominations include Marco Rubio for Secretary of State, Pamela Bondi for Attorney General, Robert F. Kennedy Jr. for Health and Human Services, and former Representative Tulsi Gabbard for Director of National Intelligence. The nominations reflect a mix of political allies, former officials, and some unexpected choices like RFK Jr. Each nominee would require Senate confirmation before taking office.",
-  "eli5": "The President picked 23 people to help run different parts of the government, like someone picking team captains for different jobs. Each person needs the Senate to say 'yes' before they can start their new job.",
+  "title": "President Trump Announces Cabinet and Cabinet Level Appointments \u2013 The White House\n",
+  "markdown": "\n[Presidential Actions](https://www.whitehouse.gov/presidential-actions/) \n\nPresident Trump Announces Cabinet and Cabinet-Level Appointments\n================================================================\n\nJanuary 20, 2025 \n\n\n\nTo the Senate of the United States, I nominate\n\nScott Bessent, of South Carolina, to be Secretary of the Treasury.\n\nPamela Bondi, of Florida, to be Attorney General.\n\nDouglas Burgum, of North Dakota, to be Secretary of the Interior.\n\nLori Chavez-DeRemer, of Oregon, to be Secretary of Labor.\n\nDouglas Collins, of Georgia, to be Secretary of Veterans Affairs.\n\nSean Duffy, of Wisconsin, to be Secretary of Transportation.\n\nPeter Hegseth, of Tennessee, to be Secretary of Defense.\n\nRobert F. Kennedy, Jr., of California, to be Secretary of Health and Human Services.\n\nHoward Lutnick, of New York, to be Secretary of Commerce.\n\nLinda McMahon, of Connecticut, to be Secretary of Education.\n\nKristi Noem, of South Dakota, to be Secretary of Homeland Security.\n\nBrooke Rollins, of Texas, to be Secretary of Agriculture.\n\nMarco Rubio, of Florida, to be Secretary of State.\n\nEric Turner, of Texas, to be Secretary of Housing and Urban Development.\n\nChristopher Wright, of Colorado, to be Secretary of Energy.\n\nTulsi Gabbard, of Hawaii, to be Director of National Intelligence.\n\nJamieson Greer, of Maryland, to be United States Trade Representative, with the rank of Ambassador Extraordinary and Plenipotentiary.\n\nKelly Loeffler, of Georgia, to be Administrator of the Small Business Administration.\n\nJohn Ratcliffe, of Texas, to be Director of the Central Intelligence Agency.\n\nElise Stefanik, of New York, to be the Representative of the United States of America to the United Nations, with the rank and status of Ambassador Extraordinary and Plenipotentiary, and the Representative of the United States of America in the Security Council of the United Nations.\n\nElise Stefanik, of New York, to be Representative of the United States of America to the Sessions of the General Assembly of the United Nations during her tenure of service as Representative of the United States of America to the United Nations.\n\nRussell Vought, of Virginia, to be Director of the Office of Management and Budget.\n\nLee Zeldin, of New York, to be Administrator of the Environmental Protection Agency.\n\n\n\n",
+  "og:locale": "en_US",
+  "og:type": "article",
+  "og:title": "President Trump Announces Cabinet and Cabinet Level Appointments \u2013 The White House",
+  "og:description": "To the Senate of the United States, I nominate Scott Bessent, of South Carolina, to be Secretary of the Treasury. Pamela Bondi, of Florida, to be Attorney",
+  "og:url": "https://www.whitehouse.gov/presidential-actions/2025/01/cabinet-and-cabinet-level-appointments/",
+  "og:site_name": "The White House",
+  "article:publisher": "https://www.facebook.com/WhiteHouse/",
+  "article:published_time": "2025-01-20T19:30:00+00:00",
+  "article:modified_time": "2025-01-20T22:07:29+00:00",
+  "og:image": "https://www.whitehouse.gov/wp-content/uploads/2025/01/WH47-Social-Share-Card-Navy-1200x628-1.png",
+  "og:image:width": "1200",
+  "og:image:height": "628",
+  "og:image:type": "image/png",
+  "summary": "This document contains President Trump's nominations for his Cabinet and Cabinet-level positions for what appears to be a future administration beginning January 20, 2025. The nominations include all 15 executive department heads (Secretary positions) and several other key administrative positions including Director of National Intelligence, U.S. Trade Representative, SBA Administrator, CIA Director, UN Ambassador, OMB Director, and EPA Administrator. Notable nominations include Marco Rubio for Secretary of State, Robert F. Kennedy Jr. for HHS Secretary, and former Representative Tulsi Gabbard for Director of National Intelligence.",
+  "eli5": "The President picked people to help run different parts of the government, like a team of helpers. Each person would be in charge of something important, like schools, roads, or talking to other countries.",
+  "keywords": [
+    "Presidential appointments",
+    "Cabinet nominations",
+    "Executive branch",
+    "Federal government",
+    "Senate confirmation",
+    "Trump administration",
+    "Cabinet secretaries",
+    "Political appointments",
+    "Federal departments",
+    "Executive leadership"
+  ],
   "issues": [
-    "Several nominees have previously been political opponents or critics of Trump, raising questions about unity and collaboration",
-    "Some nominees lack traditional experience for their nominated positions",
-    "The document is dated January 20, 2025, which would be Inauguration Day",
-    "Some nominees like Robert F. Kennedy Jr. could face significant confirmation challenges due to controversial positions",
-    "Multiple nominees from same states (NY, TX) could raise geographic diversity concerns"
+    "This document appears to be from the future (dated 2025)",
+    "Some nominees may face confirmation challenges due to controversial backgrounds",
+    "Several nominees have previously been political opponents or critics of Trump",
+    "Multiple nominees from same states may raise geographic diversity concerns",
+    "Verification of qualifications and experience for specific roles needed"
   ],
-  "citations": [
-    "No specific legal citations are present in the document",
-    "Positions reference implicit authorities under Article II of the Constitution",
-    "Cabinet positions established by various organic statutes creating executive departments"
-  ],
+  "citations": [],
   "file_name": "cabinet-and-cabinet-level-appointments"
 }

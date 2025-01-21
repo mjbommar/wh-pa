@@ -16,60 +16,63 @@ Presidential Actions
 
 
 
-* [Putting America First In International Environmental Agreements](https://www.whitehouse.gov/presidential-actions/2025/01/putting-america-first-in-international-environmental-agreements/)
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+* [GUARANTEEING THE STATES PROTECTION AGAINST INVASION](https://www.whitehouse.gov/presidential-actions/2025/01/guaranteeing-the-states-protection-against-invasion/)
+  -------------------------------------------------------------------------------------------------------------------------------------------------------------------
   
   [Presidential Actions](https://www.whitehouse.gov/presidential-actions/)
   January 20, 2025
-* [Delivering Emergency Price Relief for American Families and Defeating the Cost-of-Living Crisis](https://www.whitehouse.gov/presidential-actions/2025/01/delivering-emergency-price-relief-for-american-families-and-defeating-the-cost-of-living-crisis/)
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+* [Restoring Names That Honor American Greatness](https://www.whitehouse.gov/presidential-actions/2025/01/restoring-names-that-honor-american-greatness/)
+  -------------------------------------------------------------------------------------------------------------------------------------------------------
   
   [Presidential Actions](https://www.whitehouse.gov/presidential-actions/)
   January 20, 2025
-* [Hiring Freeze](https://www.whitehouse.gov/presidential-actions/2025/01/hiring-freeze/)
-  ---------------------------------------------------------------------------------------
+* [Designating Cartels And Other Organizations As Foreign Terrorist Organizations And Specially Designated Global Terrorists](https://www.whitehouse.gov/presidential-actions/2025/01/designating-cartels-and-other-organizations-as-foreign-terrorist-organizations-and-specially-designated-global-terrorists/)
+  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   
   [Presidential Actions](https://www.whitehouse.gov/presidential-actions/)
   January 20, 2025
-* [Regulatory Freeze Pending Review](https://www.whitehouse.gov/presidential-actions/2025/01/regulatory-freeze-pending-review/)
-  -----------------------------------------------------------------------------------------------------------------------------
+* [Reforming The Federal Hiring Process And Restoring Merit To Government Service](https://www.whitehouse.gov/presidential-actions/2025/01/reforming-the-federal-hiring-process-and-restoring-merit-to-government-service/)
+  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   
   [Presidential Actions](https://www.whitehouse.gov/presidential-actions/)
   January 20, 2025
-* [Return to In-Person Work](https://www.whitehouse.gov/presidential-actions/2025/01/return-to-in-person-work/)
-  -------------------------------------------------------------------------------------------------------------
+* [Ending Radical And Wasteful Government DEI Programs And Preferencing](https://www.whitehouse.gov/presidential-actions/2025/01/ending-radical-and-wasteful-government-dei-programs-and-preferencing/)
+  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   
   [Presidential Actions](https://www.whitehouse.gov/presidential-actions/)
   January 20, 2025
-* [Ending The Weaponization Of The Federal Government](https://www.whitehouse.gov/presidential-actions/2025/01/ending-the-weaponization-of-the-federal-government/)
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------
+* [Defending Women From Gender Ideology Extremism And Restoring Biological Truth To The Federal Government](https://www.whitehouse.gov/presidential-actions/2025/01/defending-women-from-gender-ideology-extremism-and-restoring-biological-truth-to-the-federal-government/)
+  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   
   [Presidential Actions](https://www.whitehouse.gov/presidential-actions/)
   January 20, 2025
-* [Restoring Freedom Of Speech And Ending Federal Censorship](https://www.whitehouse.gov/presidential-actions/2025/01/restoring-freedom-of-speech-and-ending-federal-censorship/)
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+* [Establishing And Implementing The President’s “Department Of Government Efficiency”](https://www.whitehouse.gov/presidential-actions/2025/01/establishing-and-implementing-the-presidents-department-of-government-efficiency/)
+  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   
   [Presidential Actions](https://www.whitehouse.gov/presidential-actions/)
   January 20, 2025
-* [Initial Rescissions Of Harmful Executive Orders And Actions](https://www.whitehouse.gov/presidential-actions/2025/01/initial-rescissions-of-harmful-executive-orders-and-actions/)
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+* [America First Policy Directive To The Secretary Of State](https://www.whitehouse.gov/presidential-actions/2025/01/america-first-policy-directive-to-the-secretary-of-state/)
+  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   
   [Presidential Actions](https://www.whitehouse.gov/presidential-actions/)
   January 20, 2025
-* [Flying The Flag Of The United States At Full-Staff On Inauguration Day](https://www.whitehouse.gov/presidential-actions/2025/01/flying-the-flag-of-the-united-states-at-full-staff-on-inauguration-day/)
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+* [Protecting The United States From Foreign Terrorists And Other National Security And Public Safety Threats](https://www.whitehouse.gov/presidential-actions/2025/01/protecting-the-united-states-from-foreign-terrorists-and-othernational-security-and-public-safety-threats/)
+  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   
   [Presidential Actions](https://www.whitehouse.gov/presidential-actions/)
   January 20, 2025
-* [President Trump Designates Chairmen and Acting Chairmen](https://www.whitehouse.gov/presidential-actions/2025/01/designation-of-chairmen-and-acting-chairmen/)
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------
+* [Unleashing Alaska’s Extraordinary Resource Potential](https://www.whitehouse.gov/presidential-actions/2025/01/unleashing-alaskas-extraordinary-resource-potential/)
+  --------------------------------------------------------------------------------------------------------------------------------------------------------------------
   
   [Presidential Actions](https://www.whitehouse.gov/presidential-actions/)
   January 20, 2025
 
 1
 [2](https://www.whitehouse.gov/presidential-actions/page/2/)
-Next
+[3](https://www.whitehouse.gov/presidential-actions/page/3/)
+…
+[5](https://www.whitehouse.gov/presidential-actions/page/5/)
+[Next](https://www.whitehouse.gov/presidential-actions/page/2/)
 
 
 

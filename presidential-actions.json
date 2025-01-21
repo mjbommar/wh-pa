@@ -1,15 +1,41 @@
 {
-  "summary": "This appears to be a webpage listing from the White House website showing 10 Presidential Actions all dated January 20, 2025. The actions cover various topics including international environmental agreements, price relief, hiring freezes, regulatory review, return to in-person work, government weaponization, free speech, rescissions of prior orders, flag protocols, and agency leadership designations. This is not a single Executive Order but rather a collection of presidential actions announced on Inauguration Day.",
-  "eli5": "This is a list of new rules that a president wants to make on their first day in office. It's like a to-do list of changes they want to make right away when they become president.",
+  "title": "Presidential Actions \u2013 The White House\n",
+  "markdown": "\n\nPresidential Actions\n====================\n\n[Remarks](https://www.whitehouse.gov/remarks/)\n\n[Briefings & Statements](https://www.whitehouse.gov/briefings-statements/)\n\n[Presidential Actions](https://www.whitehouse.gov/presidential-actions/)\n\n[articles](https://www.whitehouse.gov/articles/)\n\n\n\n\n\n\n* [GUARANTEEING THE STATES PROTECTION AGAINST INVASION](https://www.whitehouse.gov/presidential-actions/2025/01/guaranteeing-the-states-protection-against-invasion/)\n  -------------------------------------------------------------------------------------------------------------------------------------------------------------------\n  \n  [Presidential Actions](https://www.whitehouse.gov/presidential-actions/)\n  January 20, 2025\n* [Restoring Names That Honor American Greatness](https://www.whitehouse.gov/presidential-actions/2025/01/restoring-names-that-honor-american-greatness/)\n  -------------------------------------------------------------------------------------------------------------------------------------------------------\n  \n  [Presidential Actions](https://www.whitehouse.gov/presidential-actions/)\n  January 20, 2025\n* [Designating Cartels And Other Organizations As Foreign Terrorist Organizations And Specially Designated Global Terrorists](https://www.whitehouse.gov/presidential-actions/2025/01/designating-cartels-and-other-organizations-as-foreign-terrorist-organizations-and-specially-designated-global-terrorists/)\n  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n  \n  [Presidential Actions](https://www.whitehouse.gov/presidential-actions/)\n  January 20, 2025\n* [Reforming The Federal Hiring Process And Restoring Merit To Government Service](https://www.whitehouse.gov/presidential-actions/2025/01/reforming-the-federal-hiring-process-and-restoring-merit-to-government-service/)\n  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n  \n  [Presidential Actions](https://www.whitehouse.gov/presidential-actions/)\n  January 20, 2025\n* [Ending Radical And Wasteful Government DEI Programs And Preferencing](https://www.whitehouse.gov/presidential-actions/2025/01/ending-radical-and-wasteful-government-dei-programs-and-preferencing/)\n  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n  \n  [Presidential Actions](https://www.whitehouse.gov/presidential-actions/)\n  January 20, 2025\n* [Defending Women From Gender Ideology Extremism And Restoring Biological Truth To The Federal Government](https://www.whitehouse.gov/presidential-actions/2025/01/defending-women-from-gender-ideology-extremism-and-restoring-biological-truth-to-the-federal-government/)\n  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n  \n  [Presidential Actions](https://www.whitehouse.gov/presidential-actions/)\n  January 20, 2025\n* [Establishing And Implementing The President\u2019s \u201cDepartment Of Government Efficiency\u201d](https://www.whitehouse.gov/presidential-actions/2025/01/establishing-and-implementing-the-presidents-department-of-government-efficiency/)\n  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n  \n  [Presidential Actions](https://www.whitehouse.gov/presidential-actions/)\n  January 20, 2025\n* [America First Policy Directive To The Secretary Of State](https://www.whitehouse.gov/presidential-actions/2025/01/america-first-policy-directive-to-the-secretary-of-state/)\n  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n  \n  [Presidential Actions](https://www.whitehouse.gov/presidential-actions/)\n  January 20, 2025\n* [Protecting The United States From Foreign Terrorists And Other National Security And Public Safety Threats](https://www.whitehouse.gov/presidential-actions/2025/01/protecting-the-united-states-from-foreign-terrorists-and-othernational-security-and-public-safety-threats/)\n  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n  \n  [Presidential Actions](https://www.whitehouse.gov/presidential-actions/)\n  January 20, 2025\n* [Unleashing Alaska\u2019s Extraordinary Resource Potential](https://www.whitehouse.gov/presidential-actions/2025/01/unleashing-alaskas-extraordinary-resource-potential/)\n  --------------------------------------------------------------------------------------------------------------------------------------------------------------------\n  \n  [Presidential Actions](https://www.whitehouse.gov/presidential-actions/)\n  January 20, 2025\n\n1\n[2](https://www.whitehouse.gov/presidential-actions/page/2/)\n[3](https://www.whitehouse.gov/presidential-actions/page/3/)\n\u2026\n[5](https://www.whitehouse.gov/presidential-actions/page/5/)\n[Next](https://www.whitehouse.gov/presidential-actions/page/2/)\n\n\n\n",
+  "og:locale": "en_US",
+  "og:type": "article",
+  "og:title": "Presidential Actions \u2013 The White House",
+  "og:url": "https://www.whitehouse.gov/presidential-actions/",
+  "og:site_name": "The White House",
+  "og:image": "https://www.whitehouse.gov/wp-content/uploads/2025/01/WH47-Social-Share-Card-Navy-1200x628-1.png",
+  "og:image:width": "1200",
+  "og:image:height": "628",
+  "og:image:type": "image/png",
+  "summary": "This appears to be a list of Presidential Actions from whitehouse.gov, all dated January 20, 2025. The actions cover a wide range of policy areas including immigration enforcement, federal hiring practices, DEI programs, gender policies, government efficiency, foreign policy, and resource management. These appear to be executive orders or presidential memoranda intended to be issued at the start of a new presidential administration.",
+  "eli5": "This is a list of rules that a president wants to make on their first day in office. Just like how a new teacher might make new classroom rules on the first day of school, these are new rules for how the government should work.",
+  "keywords": [
+    "Presidential Actions",
+    "Executive Orders",
+    "Immigration",
+    "Federal Hiring",
+    "DEI",
+    "Gender Policy",
+    "Government Efficiency",
+    "Foreign Policy",
+    "National Security",
+    "Natural Resources",
+    "Alaska",
+    "Border Protection",
+    "Terrorism"
+  ],
   "issues": [
-    "The date (January 20, 2025) is in the future, suggesting this may be speculative or placeholder content",
-    "The reference to 'President Trump' in the last item suggests this may be unofficial or speculative content",
-    "Without access to the actual content of each action, cannot analyze specific legal implications",
-    "Some titles suggest potentially controversial policy changes that could face legal challenges",
-    "The format of multiple major policy changes on a single day raises questions about implementation feasibility"
+    "The date (January 20, 2025) suggests these are planned/proposed actions for the next presidential term",
+    "No actual text of the orders is provided, only titles",
+    "Some titles suggest significant policy reversals that could face legal challenges",
+    "Creation of new department ('Department of Government Efficiency') may require congressional approval",
+    "Several actions appear to target existing policies without clear replacement frameworks"
   ],
   "citations": [
-    "No specific legal citations are visible in the provided text, as these appear to be only titles/links to the full documents"
+    "Note: The provided text contains only titles of proposed actions without specific citations to laws or regulations"
   ],
   "file_name": "presidential-actions"
 }

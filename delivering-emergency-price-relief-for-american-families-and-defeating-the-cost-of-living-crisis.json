@@ -1,15 +1,46 @@
 {
-  "summary": "This Executive Order directs federal agencies to take immediate action to address rising costs and inflation affecting American families. The order characterizes the previous administration's policies as causing inflation through increased government spending and regulatory burdens. It specifically targets areas including energy costs, vehicle regulations, housing prices, and what it terms 'coercive climate policies.' The order requires agency heads to pursue actions to lower housing costs, reduce healthcare administrative expenses, eliminate certain appliance regulations, create employment opportunities, and remove climate-related policies affecting food and fuel costs. The Assistant to the President for Economic Policy must report on implementation progress every 30 days.",
-  "eli5": "The President wants to make things cheaper for families by telling government workers to change or remove rules that make everyday items like houses, cars, food, and fuel cost more money.",
-  "issues": [
-    "The order lacks specific metrics or targets for cost reduction",
-    "No clear enforcement mechanism is provided",
-    "The term 'emergency price relief' is not clearly defined",
-    "The order may conflict with existing environmental regulations and laws",
-    "The 30-day reporting requirement may be unrealistic given the scope",
-    "No funding mechanisms are identified for implementation",
-    "The order appears to be more policy directive than specific executable action"
+  "title": "Delivering Emergency Price Relief for American Families and Defeating the Cost-of-Living Crisis \u2013 The White House\n",
+  "markdown": "\n[Presidential Actions](https://www.whitehouse.gov/presidential-actions/) \n\nDelivering Emergency Price Relief for American Families and Defeating the Cost-of-Living Crisis\n===============================================================================================\n\nJanuary 20, 2025 \n\n\n\nOver the past 4 years, the Biden Administration\u2019s destructive policies inflicted an historic inflation crisis on the American people.\u00a0 The Biden Administration not only exploded Government spending, artificially and unsustainably stimulating demand, but it simultaneously made necessary goods and services scarce through a crushing regulatory burden and radical policies designed to weaken American production. \u00a0Hardworking families today are overwhelmed by the cost of fuel, food, housing, automobiles, medical care, utilities, and insurance.\n\nIn particular, the assault on plentiful and reliable American energy through unnecessary and illegal regulatory demands has driven up the cost of transportation and manufacturing.\u00a0 In addition, the unlawful regulatory mandate on companies to effectively eliminate many or most gas-powered vehicles has resulted in artificial price increases on those popular vehicles to subsidize electric vehicles disfavored by consumers.\n\nMoreover, many Americans are unable to purchase homes due to historically high prices, in part due to regulatory requirements that alone account for 25 percent of the cost of constructing a new home according to recent analysis.\n\nIn sum, unprecedented regulatory oppression from the Biden Administration is estimated to have imposed almost $50,000 in costs on the average American household, whereas my first-term agenda reduced regulatory costs by almost $11,000 per household.\u00a0 It is critical to restore purchasing power to the American family and improve our quality of life.\n\nI hereby order the heads of all executive departments and agencies to deliver emergency price relief, consistent with applicable law, to the American people and increase the prosperity of the American worker. \u00a0This shall include pursuing appropriate actions to: \u00a0lower the cost of housing and expand housing supply; eliminate unnecessary administrative expenses and rent-seeking practices that increase healthcare costs; eliminate counterproductive requirements that raise the costs of home appliances; create employment opportunities for American workers, including drawing discouraged workers into the labor force; and eliminate harmful, coercive \u201cclimate\u201d policies that increase the costs of food and fuel. \u00a0Within 30 days of the date of this memorandum, the Assistant to the President for Economic Policy shall report to me and every 30 days thereafter, on the status of the implementation of this memorandum.\n\n\n\n",
+  "og:locale": "en_US",
+  "og:type": "article",
+  "og:title": "Delivering Emergency Price Relief for American Families and Defeating the Cost-of-Living Crisis \u2013 The White House",
+  "og:description": "Over the past 4 years, the Biden Administration's destructive policies inflicted an historic inflation crisis on the American people.\u00a0 The Biden",
+  "og:url": "https://www.whitehouse.gov/presidential-actions/2025/01/delivering-emergency-price-relief-for-american-families-and-defeating-the-cost-of-living-crisis/",
+  "og:site_name": "The White House",
+  "article:publisher": "https://www.facebook.com/WhiteHouse/",
+  "article:published_time": "2025-01-20T23:54:45+00:00",
+  "og:image": "https://www.whitehouse.gov/wp-content/uploads/2025/01/WH47-Social-Share-Card-Navy-1200x628-1.png",
+  "og:image:width": "1200",
+  "og:image:height": "628",
+  "og:image:type": "image/png",
+  "summary": "This executive memorandum, dated January 20, 2025, directs federal agencies to address what it characterizes as an inflation crisis caused by the previous administration's policies. The order claims the Biden Administration's regulatory policies and spending increased costs for American families by approximately $50,000 per household. The memo specifically targets regulations affecting energy production, vehicle manufacturing, housing construction, and climate policies. It directs agency heads to take actions to reduce costs in housing, healthcare, appliances, and energy sectors while promoting employment. The Assistant to the President for Economic Policy must report on implementation progress every 30 days.",
+  "eli5": "The President wrote a letter telling government workers to find ways to make things cost less money for families. Things like houses, cars, and food have gotten too expensive, so the President wants to change some rules to help make everything cheaper.",
+  "keywords": [
+    "inflation",
+    "price relief",
+    "regulatory reform",
+    "housing costs",
+    "energy policy",
+    "healthcare costs",
+    "consumer protection",
+    "economic policy",
+    "employment",
+    "climate policy"
   ],
-  "citations": [],
+  "issues": [
+    "No specific metrics or targets for price reduction are provided",
+    "Lacks clear definition of 'emergency price relief'",
+    "No explicit funding mechanisms mentioned",
+    "Potential conflicts with existing environmental regulations",
+    "Vague implementation guidance for agencies",
+    "Claims about cost impacts lack cited sources",
+    "30-day reporting requirement may be unrealistic for major policy changes",
+    "No clear enforcement mechanisms specified"
+  ],
+  "citations": [
+    "No specific legal citations provided in the text",
+    "References 'applicable law' without specific citations",
+    "Claims '25 percent' housing cost impact without citation to source"
+  ],
   "file_name": "delivering-emergency-price-relief-for-american-families-and-defeating-the-cost-of-living-crisis"
 }
