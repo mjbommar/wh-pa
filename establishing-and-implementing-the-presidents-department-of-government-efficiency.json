@@ -1,0 +1,16 @@
+{
+  "summary": "This Executive Order establishes a new Department of Government Efficiency (DOGE) by reorganizing and renaming the United States Digital Service as the U.S. DOGE Service (USDS). The order creates a temporary organization within USDS lasting until July 4, 2026, led by a USDS Administrator reporting to the White House Chief of Staff. It mandates that federal agencies create DOGE Teams of at least four members to implement the President's efficiency agenda. The order focuses on modernizing federal technology and software systems, promoting interoperability between agencies, and ensuring data integrity. It grants USDS broad access to unclassified agency records and systems while requiring adherence to data protection standards.",
+  "eli5": "The President made a new team called DOGE to help make the government's computers and software work better together. It's like having a group of tech experts help all the different parts of the government share information and work more smoothly.",
+  "issues": [
+    "The order grants broad access to agency records without specifying detailed data protection standards",
+    "The displacement of prior executive orders could create unforeseen conflicts with existing privacy and security protocols",
+    "The 18-month temporary organization timeframe may be insufficient for implementing substantial technological changes",
+    "No specific funding mechanisms or appropriations are mentioned for implementing these changes",
+    "The order doesn't specify qualifications or security clearance requirements for DOGE Team members",
+    "Potential overlap or conflict with existing agency IT departments and Chief Information Officers isn't addressed"
+  ],
+  "citations": [
+    "5 U.S.C. \u00a7 551 (Definition of Agency)",
+    "5 U.S.C. \u00a7 3161 (Employment and compensation of employees in temporary organizations)"
+  ]
+}
