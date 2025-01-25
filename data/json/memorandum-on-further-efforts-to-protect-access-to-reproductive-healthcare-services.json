@@ -1,0 +1,19 @@
+{
+  "title": "Error 404\n\t\t",
+  "markdown": "# 404\n\n## Page Not Found\n\n[Go To Home Page](/)\n",
+  "summary": "**Page Not Found Error**\n\nThe provided text is a typical *404 error page* that users may encounter on a website. This particular message indicates that the requested page does not exist or an error has occurred in the browsing process. These pages are common across the internet when users follow a dead link or when the page they are trying to access has been moved or deleted.\n\nA 404 error page aims to inform users clearly about the non-availability of the content they looked for. Additionally, it often provides navigation options such as a link to the homepage to help users find their way instead of leaving them stranded. In this case, users are encouraged to return to the main page by clicking the provided link.",
+  "eli5": "The web page you tried to open isn't there anymore, like when you look in a book and find an empty page. But don't worry! You can still go back to the main page with a click.",
+  "keywords": [
+    "404 error",
+    "Page Not Found",
+    "website navigation",
+    "link",
+    "homepage"
+  ],
+  "issues": [
+    "The page does not provide information about how to fix the error.",
+    "Potential confusion for users unfamiliar with 404 errors."
+  ],
+  "citations": [],
+  "document_type": "Fact Sheet"
+}

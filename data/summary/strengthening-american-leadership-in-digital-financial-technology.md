@@ -1,0 +1,5 @@
+### Summary
+
+On January 23, 2025, a Presidential Executive Order was issued to bolster American leadership in digital financial technology. This directive seeks to enhance the United States' position in the digital asset industry by enabling lawful access and use of blockchain technologies, promoting stablecoins while safeguarding the sovereignty of the U.S. dollar, ensuring fair access to banking services, and establishing clear regulatory frameworks. It also explicitly prohibits the establishment and use of Central Bank Digital Currencies (CBDCs) in the United States to protect economic privacy and financial system stability.
+
+The order revokes Executive Order 14067 from March 2022 and the Treasury's 2022 framework for digital assets. Furthermore, it creates a President's Working Group on Digital Asset Markets to propose a Federal regulatory strategy for digital assets, evaluate the potential of a national digital asset stockpile, and consult with various federal officials. The group is mandated to submit regulatory recommendations within 180 days, focusing on consumer protection and risk management in the digital asset arena.

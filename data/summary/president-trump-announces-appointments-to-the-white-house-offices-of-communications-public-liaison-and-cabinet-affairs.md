@@ -1,0 +1,5 @@
+### Summary
+
+On January 24, 2025, President Trump announced several key appointments to the White House Offices of Communications, Public Liaison, and Cabinet Affairs. These appointments aim to strengthen the administration's communication efforts and public outreach. Notable appointees in the communications sector include Alex Pfeiffer, Kaelan Dorr, Harrison Fields, Anna Kelly, and others who have previous experience in campaigns and communications roles.
+
+In the Office of Public Liaison, Jim Goyer and Lynne Patton will oversee outreach efforts, with Goyer returning as the Deputy Assistant to the President and Director of the Office of Public Liaison. Lynne Patton is tasked with enhancing outreach to minority communities, leveraging her experience in housing and urban development. Lea Bardon will lead the Cabinet Affairs as Director, ensuring coordinated efforts between the Cabinet and the President’s office. These appointments illustrate a strategic emphasis on leveraging experienced personnel to enhance the administration's effectiveness in communication and public engagement.

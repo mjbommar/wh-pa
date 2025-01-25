@@ -1,0 +1,5 @@
+### Summary
+
+On January 20, 2025, the President of the United States issued a memorandum ordering a regulatory freeze pending review. This directive affects all executive departments and agencies, requiring them not to propose or issue any new rules until they have been reviewed and approved by appointed department or agency heads. The agency head retains the discretion to delegate this review authority, and the Director of the Office of Management and Budget (OMB) may exempt rules necessary for emergencies.
+
+The memorandum instructs agencies to withdraw any unpublished rules from the Federal Register for review and consideration, allowing a 60-day delay for published but not effective rules. This period is to assess any factual, legal, or policy issues, with options to further delay or adjust rules based on received comments. The memorandum emphasizes adherence to existing executive orders on regulatory management, and the OMB Director is tasked with overseeing its implementation and handling communications regarding the review process.

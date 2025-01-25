@@ -1,0 +1,5 @@
+**President Donald J. Trump’s Executive Actions on Abortion Funding**
+
+On January 25, 2025, President Donald J. Trump signed an Executive Order to halt the use of federal taxpayer dollars for elective abortions, reinforcing the Hyde Amendment which restricts federal abortion funding. This order reverses previous executive orders by President Biden that integrated abortion funding into federal programs. Trump's actions included reinstituting the Mexico City Policy, designed to prevent U.S. funds from supporting international organizations that perform or endorse abortions abroad.
+
+The Trump administration emphasizes the return of decision-making to states on abortion issues following the Dobbs v. Jackson Women’s Health Organization decision, which overruled Roe v. Wade. By revoking federal involvement, states regain the authority to regulate such matters through public votes. The administration highlighted its commitment to preventing taxpayer funding of abortion, as well as other measures undertaken during Trump's first term aimed at safeguarding the sanctity of life and supporting conscience rights in the healthcare sector.

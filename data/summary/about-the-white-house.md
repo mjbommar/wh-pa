@@ -1,0 +1,5 @@
+The White House serves as both the residence of the President of the United States and a historic museum, showcasing American culture and history. Its various rooms, from the State Floor to the Ground Floor Corridor, have been utilized for entertaining global leaders and hosting diplomats. Each space has been transformed from early service areas to reflect its role in showcasing the nation's heritage. 
+
+Air Force One is the official designation for any Air Force aircraft carrying the President, although it usually refers to the two specialized planes designed for presidential transportation. These aircraft are equipped to ensure the President's security and efficiency of travel.
+
+Camp David, formally known as the Naval Support Facility Thurmont, is the President's countryside retreat located in Frederick County, Maryland. It provides solitude and a tranquil setting for the President while also serving as an ideal venue for hosting foreign leaders and facilitating important discussions.

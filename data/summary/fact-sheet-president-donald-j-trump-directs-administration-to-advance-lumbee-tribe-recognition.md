@@ -1,0 +1,5 @@
+## Summary
+
+President Donald J. Trump signed a Presidential Memorandum on January 23, 2025, directing the Secretary of the Interior to advance full federal recognition for the Lumbee Tribe of North Carolina. This memorandum establishes a policy supporting federal recognition and full tribal benefits for the Lumbee Tribe, which is the largest tribe east of the Mississippi River. It instructs the Secretary to devise a plan that would assist the tribe in achieving full recognition through legislative actions or other mechanisms.
+
+The Lumbee Tribe has been a subject of recognition processes at both state and federal levels for many decades. Despite state recognition since 1885 and a 1956 act signed by President Eisenhower confirming their status, the Lumbee have been denied some federal benefits. President Trump aims to explore several pathways, including congressional acts or Department of Interior processes, to grant full recognition. This effort is aligned with President Trump's promise to support the tribe, reiterated in a statement on September 23, 2024.

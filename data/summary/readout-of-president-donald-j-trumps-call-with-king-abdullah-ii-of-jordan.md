@@ -1,0 +1,3 @@
+On January 25, 2025, President Donald J. Trump engaged in a telephone conversation with King Abdullah II of Jordan. During this call, King Abdullah congratulated President Trump on his recent inauguration as President of the United States. In response, President Trump expressed his gratitude for King Abdullah's continual friendship. 
+
+The discussion between the two leaders focused on pivotal topics such as regional peace, security, and stability. Both leaders underscored the necessity of maintaining collaboration to ensure a stable and secure regional environment, reflecting a mutual interest in fostering peace and security throughout the region.

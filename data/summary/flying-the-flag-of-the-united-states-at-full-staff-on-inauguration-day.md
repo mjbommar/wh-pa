@@ -1,0 +1,5 @@
+The document is a proclamation by the President of the United States, issued on January 20, 2025, marking Inauguration Day. It orders that the United States flag be flown at full-staff at the White House, all public buildings, military posts, naval stations, and vessels across the U.S. and its territories, as well as at U.S. embassies and other facilities abroad. This action honors the significance of Inauguration Day and the values of the nation.
+
+The proclamation specifies that the flag should be raised for the entire day and subsequently returned to half-staff at the day's end. This return to half-staff follows a previous directive, in memory of former President James Earl Carter, Jr., whose death was announced in Proclamation 10876, with a decree to maintain half-staff flags for 30 days.
+
+The proclamation serves as a directive for flag protocol on Inauguration Days, reflecting respect and continuity in national traditions while also adhering to set precedents in recognizing significant public figures' contributions.

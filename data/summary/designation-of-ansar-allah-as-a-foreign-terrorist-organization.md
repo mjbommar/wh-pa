@@ -1,0 +1,5 @@
+## Summary
+
+On January 22, 2025, a presidential order was issued by Donald J. Trump to consider the designation of Ansar Allah, also known as the Houthis, as a Foreign Terrorist Organization (FTO) under U.S. law. This action comes following the group's actions, which include firing at U.S. Navy warships, attacking civilian infrastructure in the Middle East, and hindering global maritime trade in the Red Sea. The Houthis' activities have been identified as threatening the safety of U.S. personnel and regional stability.
+
+The order sets out a process by which the Secretary of State must consult with relevant departments and submit a report within 30 days concerning the potential FTO designation. Additionally, USAID projects in Yemen will be reviewed to ensure no affiliation with the Houthis. The order highlights the U.S. commitment to work with regional allies to curb threats posed by Ansar Allah, ensuring maritime security and safeguarding U.S. and allied interests.

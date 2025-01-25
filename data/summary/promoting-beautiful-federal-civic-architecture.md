@@ -1,0 +1,5 @@
+**Promoting Beautiful Federal Civic Architecture**
+
+On January 20, 2025, the President issued a memorandum to the Administrator of the General Services Administration (GSA), emphasizing the importance of promoting beautiful federal civic architecture. This directive requires the Administrator, in collaboration with the Assistant to the President for Domestic Policy and relevant department heads, to submit recommendations within 60 days that support the idea that federal buildings should reflect civic identity and respect traditional and classical architectural styles. These recommendations will also consider revisions to existing architectural guidelines and emphasize community involvement in building design decisions.
+
+Furthermore, the memorandum stipulates that if a design for a new federal building does not adhere to the outlined principles, the Administrator must inform the President through the Domestic Policy Assistant at least 30 days before the design is finalized. This ensures that any deviations from the policy are thoroughly reviewed and justified before moving forward without incurring significant costs.

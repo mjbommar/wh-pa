@@ -1,0 +1,5 @@
+# Summary
+
+On January 22, 2025, President Donald J. Trump signed an Executive Order to re-designate the Yemeni group Ansar Allah, also known as the Houthis, as a Foreign Terrorist Organization (FTO). This reverses the 2021 decision by the Biden administration to remove the Houthis from the FTO list. The action underscores a shift in U.S. policy, emphasizing increased cooperation with regional partners to dismantle the Houthis' operational capacities and to halt their attacks on U.S. and allied interests.
+
+The Executive Order stipulates that the Secretary of State, with assistance, must recommend a re-designation of the Houthis within 30 days. Additionally, the Administrator of the United States Agency for International Development (USAID) and the Secretary of State are tasked to review entities in Yemen involved with the Houthis. The President could direct USAID to sever connections with organizations paying the Houthis or opposing efforts to counter them. This move aims to undermine the Houthis' resources and operations in the region.

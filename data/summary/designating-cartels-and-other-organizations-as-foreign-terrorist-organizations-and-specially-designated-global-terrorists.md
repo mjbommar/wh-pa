@@ -1,0 +1,7 @@
+### Summary
+
+On January 20, 2025, a Presidential directive was issued to classify certain international cartels and organizations as Foreign Terrorist Organizations or Specially Designated Global Terrorists. This directive utilizes the powers granted under the Immigration and Nationality Act and the International Emergency Economic Powers Act to address the national security threat posed by these entities. The order highlights the complex, violent operations of these cartels, noting their influence over illegal border activities and certain areas in Mexico where they operate almost like governing bodies. Organizations such as Tren de Aragua and MS-13, alongside the cartels, represent a significant danger to the United States' national security and regional stability.
+
+The order mandates a detailed process whereby the Secretary of State, in coordination with other key agencies, must make recommendations for the designation of such organizations under the specified legal frameworks. The directive empowers the Attorney General and the Secretary of Homeland Security to prepare for any necessary actions under the Alien Enemies Act, should a qualifying threat emerge. The order underlines the objective of eradicating these groups' influence and ensuring the security of U.S. citizens and territory.
+
+The implementation of this order is to respect existing laws and is dependent on available budgetary resources. The directive does not, however, create any enforceable rights for individuals against the U.S. government.

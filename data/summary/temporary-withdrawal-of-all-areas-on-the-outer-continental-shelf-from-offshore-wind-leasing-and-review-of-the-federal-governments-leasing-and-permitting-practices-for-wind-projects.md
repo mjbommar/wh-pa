@@ -1,0 +1,5 @@
+# Summary
+
+On January 20, 2025, a Presidential Memorandum was issued, directing the temporary withdrawal of all areas on the Outer Continental Shelf from offshore wind leasing. This directive aims to balance public stewardship with various factors, including energy needs, marine life protection, economic impacts, and support for the fishing industry. The memorandum is effective from January 21, 2025, and calls for a comprehensive review of wind energy leasing and permitting practices by federal agencies, focusing on ecological, economic, and environmental considerations.
+
+Additionally, the memorandum mandates a temporary halt on new or renewed approvals for onshore and offshore wind projects pending a thorough assessment of current practices and impacts. The Secretary of the Interior is tasked with leading this evaluation, in collaboration with other relevant agencies, and must consider the environmental and economic effects of wind projects. Concerns surrounding legal deficiencies, especially regarding the Lava Ridge Wind Project's approval, are also addressed, requiring a fresh analysis and potential moratorium on project activities.

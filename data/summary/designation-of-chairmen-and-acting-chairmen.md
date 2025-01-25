@@ -1,0 +1,3 @@
+On January 20, 2025, the White House made an announcement regarding the designation of chairmen and acting chairmen under President Trump. This action took place at the White House, where it was formally declared as part of the administrative process. Such actions are typically done to organize leadership and ensure effective governance within certain committees or federal parts of the administration.
+
+This designation is part of the routine duties of the presidency, where the President appoints individuals to lead or temporarily lead important panels or federal agencies. These designations help in maintaining functional leadership which is necessary for smooth policy execution and administrative management.

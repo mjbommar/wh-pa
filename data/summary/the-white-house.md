@@ -1,0 +1,7 @@
+### Summary
+
+The White House, the official residence of the President of the United States, was originally designed by Irish-born architect James Hoban. George Washington selected its site in 1791, and after eight years of construction, President John Adams moved in, despite the building's unfinished state. The structure was set ablaze during the War of 1812 but was later rebuilt by Hoban. Architectural developments during subsequent presidencies included the addition of the South and North Porticos. Plans for further expansion in the 19th century weren't realized.
+
+In the 20th century, President Theodore Roosevelt initiated major internal renovations, transforming the White House’s office space by creating what is known today as the West Wing. Under President Harry S. Truman, a comprehensive renovation addressed structural weaknesses, preserving only the outer walls. The White House today features 132 rooms, 35 bathrooms, and significant historical and functional spaces. Over time, it has been labeled in various terms before being officially named the White House in 1901 by President Roosevelt.
+
+Throughout its history, the White House has not only served as the residence for every president since John Adams but has also been a living museum hosting dignitaries and allies. It represents both a symbolic and functional center of the US government, reflecting the architectural, historical, and cultural evolution of the United States.
