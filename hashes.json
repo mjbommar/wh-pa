@@ -21,7 +21,7 @@
   "/about-the-white-house/": "ed1ce4c1fe7c6084838c0df2f31e39569cf52f9f69210a053ab9121a5c1036f90cfb385ef85ccb81764df7132f15fbb8e1502bce389cddc946463e78638797ac",
   "/about-the-white-house/air-force-one/": "36b4d2906b84bdc59773c4fea2aa635ac905c177ca52e7448e37d100d1658009fa1e732fe9a472a32f0833416932346a15970809293a086bf8707618a6f93640",
   "/about-the-white-house/camp-david/": "0acf9c47917f8388d97b0fdc3ac66ca9a2525b20b23ae3a5f2170702cfe1b9324a00ba92d67e5e62cabca0d82f7a1af5976ebd1335efd524b0eb81f60e0d9d8d",
-  "/presidential-actions/2025/01/enforcing-the-hyde-amendment/": "296cb5130f359108de184acbc301a616507c3261b7a310039bf28957207637da3488f1cc238d20a0964fae2ccb65a85bb8a30c55da9d2d73bb52888e02ad53ac",
+  "/presidential-actions/2025/01/enforcing-the-hyde-amendment/": "8a811b2fdd65c9c54f59baafa934be023a990288a541d600973355fc76bbd64bdbf9db49ac2457f54c54d4b515def565a343e98a3ba004944e6cba38476e5467",
   "/briefing-room/presidential-actions/2023/01/22/memorandum-on-further-efforts-to-protect-access-to-reproductive-healthcare-services/": "662f8ad8feaa9fc1c121787ffbcc083661b8eea4cec30b1bbbea8080b0de66f8dffa4eea4fbbabda94050ddee97feed5a12ff5697e62f8d8ffd5a83e0a67fb56",
   "/presidential-actions/2025/01/the-first-100-hours-historic-action-to-kick-off-americas-golden-age/": "7c0b6c368e5f1490b3230bb153bc1aa36c470dbe2ba2f50576ff89970056167d46135c078ffbdfa05743007cbbb7274ad0a0bc84dab4e1edfc47b1b73df54a1e",
   "/presidential-actions/2025/01/removing-barriers-to-american-leadership-in-artificial-intelligence/": "b1bb97308deab8699ce735c9c6e5457090982b37def3757dd43da61521b7c1473b824cd7c2938052bfc77808a3a2e3fdd83a07425b6bb9ee8d244018c6ed27cf",
@@ -52,7 +52,7 @@
   "/presidential-actions/2025/01/organization-of-the-national-security-council-and-subcommittees/": "1d5e53c2294a97bdeff21dcb67f891f0d7729e356d9c8832565b21a54252975fe10a999eac053dc58bb672f1b2c014920da203fe8463f98aafc1d90740e8d97e",
   "/presidential-actions/2025/01/reevaluating-and-realigning-united-states-foreign-aid/": "0bfc10bb5e1c13b4b1e7f4d780fac964d9ee369870b0d13e6eb2627158e84ff094000e989cc5fd60d7717a5a90011030fd9e66c9b573d76b0919d691bbb75322",
   "/presidential-actions/2025/01/temporary-withdrawal-of-all-areas-on-the-outer-continental-shelf-from-offshore-wind-leasing-and-review-of-the-federal-governments-leasing-and-permitting-practices-for-wind-projects/": "db7f193b52436d4c1dadab2db3760ee054da5f99725da74785069f97c70a5f20a64e52457ffd6241d018259c53c2fbfa282b8a23a0c325d09cecfcd573632173",
-  "/presidential-actions/2025/01/declaring-a-national-energy-emergency/": "1001bc574e19b5565246b93ee41f2005498134c3b2d3fa996ea62ae07266a6b7b0886fc7d948415ee7e36ede24782d5b2cca560bbb92dabbb372a9461b7aae24",
+  "/presidential-actions/2025/01/declaring-a-national-energy-emergency/": "ef7c07a152c4e305f221a898562f667da66362f9c84156a68135736cb491438eb50554ee50ac62e9cf5eb5d07706c6ecceffd5f9fa4293c8518dc8f88579d6d2",
   "/presidential-actions/page/4/": "984b7e4de6f7086666b45b5d8fa3b29650c96476f443fcc0c219d46a1a741ad9ab214c7477a69c6e2c28246cd44b1ade7584a59e374ab1785f2f5202890cef1f",
   "/presidential-actions/2025/01/restoring-accountability-for-career-senior-executives/": "b3684b3e0ccb2757d6a07f864d4c971d41ace36e95eee629bba012df2474d1653aee7c6c225c872252bcb529391587de971dbc10b0f4f17f1b71efebc0d6a941",
   "/presidential-actions/2025/01/promoting-beautiful-federal-civic-architecture/": "bd890747e4ce9c3cc1180828c6fcd5d5bd52bc59bceffc3739f63242c6fb2522caa477cfdef5ecfa8ad27d7a85750b25f0b03ed6162f888839ad40c86cfeb027",
@@ -96,7 +96,7 @@
   "/briefings-statements/2025/01/omb-memo-m-25-11/": "d70cd808e883cc2daf0ffbb6ea48cd320485f3cc25262ffc19d18c9fb84443d35165b5978cdd63ab60e6bc99d5af27f890cd3aeb91e88765e864abe57583c203",
   "/briefings-statements/2025/01/president-trumps-america-first-priorities/": "8b3554663d7038c5ce5353335a85ba64b4f6e7c3a37dbd1e1d3919254f38e7163dc1ea48dfabfcbfb1c1ccd6e34edc7a95c15fa4898ff1e88a40da68caeb2fb2",
   "/remarks/2025/01/remarks-by-president-trump-at-executive-order-signing/": "21fd2c74214e5cc25f6b570bdf71a0b56af674f9563f9d53669fb8755d9bfdf97ae588ef12e045c1ce63ac235d240133a4793e7fd40ad7cc01c45c105e406b50",
-  "/remarks/": "37319645f8cbde34ae55da3b5b73ca6befdf27cffc857c6f9f9d2daf64ff20ff031f541a15660b13aa4f683523d09578c609864f40f6e4514168067b4a772079",
+  "/remarks/": "0e4d38ec0284b37f658217fb0e1276e04a3cbe481e6fffb4e16cfd9b6b66d46bcc6504e5209c246bbf16292d07e104bfa47e1a7873f3c6b44f3ccb256374d281",
   "/remarks/2025/01/remarks-by-president-trump-during-hurricane-helene-briefing/": "3c45ac32e2f6568cde5623b0ec826c3b8f40f6c9907c53fbab9660d616bc0e04d4b366f9a0bbb9979f9de1ab1c6eb012701e5534d2fd6a5a19d4396894236d13",
   "/remarks/2025/01/remarks-by-president-trump-after-air-force-one-arrival-fletcher-nc/": "ced38cd65c0a52faa3a50d2c27a197d95c2934e62b77b703ef6ffc815840de1629028cae8ad4d6f13701a80369e0e76f50c33be8c296e8b1c40c39c55c7accd3",
   "/remarks/2025/01/remarks-by-president-trump-before-marine-one-departure/": "7fce763074cf20e4534cb72d6e4ec5107ec8fde71ed108a5e496c451738fe7588de217cf8159daafcb697117a80c6295335a7b59d21965b52c9cf07e5f380ecd",
@@ -104,7 +104,7 @@
   "/remarks/2025/01/remarks-by-president-trump-and-vice-president-vance-at-liberty-ball/": "846375219f6a23ef90c3c84242dbb3bec67c237ab4aa88046317d79d399402475b5f2c1cc618da6e099bbd87d07de3b026b9e13fd6cb8cebe297e2a9e3f4fc57",
   "/remarks/2025/01/remarks-by-president-trump-and-vice-president-vance-at-starlight-ball/": "d26aefc7670ec39212205a90e5d25b9d2cee39ff2272e5a40c84553bee7286e034f86a81e3d970b638d9215aa302bac806ae9500320a430e7a775c5d73a214f1",
   "/remarks/2025/01/the-inaugural-address/": "05fbfd45fffd9fe23ce367528e755e3886630610f6c60672d4e5ceb0a241576ddc8b13c66a1d9e8850fea25f0080751ee867c4f1c611c180d3d65a1b0f31c3c4",
-  "/news/page/2/": "e92bf4c970208515f1ad19f2df0fb965f4cc80dea3a3772a8006c4f8e564b50681bee0b69a25e53c63b9855c2606c332b5cdccc29d15974d02c2e6fde9ef2670",
+  "/news/page/2/": "91d560fe59361c8e59580889bc1a68e3e4361797e46193415bd8b2f0d986c41a43d90cb3e70af33fcefa4b7bd65a1a87e26608c6878bd3e0f3709a34756b8c8f",
   "/fact-sheets/2025/01/fact-sheet-president-donald-j-trump-takes-action-to-enhance-americas-ai-leadership/": "e3009b562fb42c6bd4740d6ad41c89c91c29ab259349bfbf665955fdee8b292e3c657a7c8ec88c98b458a91656db0687d91f3e3e9283889ecbf7a67eaf612274",
   "/fact-sheets/": "a2779e1ff80012b8bafe0357db238921b7dc379330aaf3f497fe3ecc2072e607757117fa5e11b69f4977cb7252ece6bada156af837929bb0c6c134b112b56c6e",
   "/fact-sheets/2025/01/fact-sheet-executive-order-to-establish-united-states-leadership-in-digital-financial-technology/": "c8af5a52d56babfa9305e3b276aec0442ccf9524288322073beac86540939ae569ea493012b62ad2b3125775449873de89a20a2718dc070a4eae873b3168e538",
@@ -254,5 +254,5 @@
   "/briefings-statements/2025/01/readout-of-president-donald-j-trumps-call-with-king-abdullah-ii-of-jordan/": "f2d7cd23932dd522c0dc07bc2afa861ec70a41d2c2e36224e44a54b63e42cdbeae0a77c777fc43ed93fb545b82033c90042f88243173c42ce243f53f3ba2f3b6",
   "/briefings-statements/2025/01/white-house-statement-on-hostage-release/": "b559c90692ea9381cb7dcfd8412ae54877637a81650d5f1370f91870788d575536087864f6376bda87a5be33a1dd0d7f9c90749bf72b892c9592bb41d4ad064b",
   "/fact-sheets/2025/01/fact-sheet-president-donald-j-trump-enforces-overwhelmingly-popular-demand-to-stop-taxpayer-funding-of-abortion/": "78d78980c13ae81f17e13248aba61b5fdcd2a1f99b72205cfc859a9684a9102540acfba66cb6c45f4781afbc50e98313b619234ed2addf5d36aa883f3b97a4c0",
-  "/remarks/2025/01/remarks-by-president-trump-before-air-force-one-departure/": "d326845796f5031e9128c86a53f68794cb476dd1f2f11f24ed2b08782d05ec8dd0ac7fa8610310a8d18543dd4215a4065b08599bca279d368481dfa5e338915c"
+  "/remarks/2025/01/remarks-by-president-trump-before-air-force-one-departure/": "02ab5b1f1df8367f7bd654efe922fc6d3a3884f34f5c5e7e76cf51f653ce5a1a8ed2560dc3c945708c69bbf6c5e49971dccde492eda89564624e145629910c79"
 }
