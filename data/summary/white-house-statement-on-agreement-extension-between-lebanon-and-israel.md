@@ -1,0 +1,3 @@
+The United States announced that the agreement between Lebanon and Israel, which it monitors, will be extended and remain in effect until February 18, 2025. This extension reflects continued cooperation among the governments of Lebanon, Israel, and the United States. The arrangement aims at fostering regional stability and peace between the two countries. 
+
+Furthermore, negotiations will commence, involving the Lebanese, Israeli, and U.S. governments, concerning the return of Lebanese prisoners who were captured after October 7, 2023. These discussions are expected to facilitate diplomatic engagement and potentially address broader issues of concern between the involved nations.
