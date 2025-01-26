@@ -10,6 +10,7 @@
 
 [Remarks](/remarks/)
 
+    -  [Remarks by President Trump Before Air Force One Departure](https://www.whitehouse.gov/remarks/2025/01/remarks-by-president-trump-before-air-force-one-departure/)[Remarks](https://www.whitehouse.gov/remarks/)January 25, 2025 
     -  [Remarks by President Trump at Executive Order Signing](https://www.whitehouse.gov/remarks/2025/01/remarks-by-president-trump-at-executive-order-signing/)[Remarks](https://www.whitehouse.gov/remarks/)January 24, 2025 
     -  [Remarks by President Trump During Hurricane Helene Briefing](https://www.whitehouse.gov/remarks/2025/01/remarks-by-president-trump-during-hurricane-helene-briefing/)[Remarks](https://www.whitehouse.gov/remarks/)January 24, 2025 
     -  [Remarks by President Trump After Air Force One Arrival Fletcher, NC](https://www.whitehouse.gov/remarks/2025/01/remarks-by-president-trump-after-air-force-one-arrival-fletcher-nc/)[Remarks](https://www.whitehouse.gov/remarks/)January 24, 2025 

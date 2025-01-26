@@ -21,7 +21,7 @@
   "/about-the-white-house/": "ed1ce4c1fe7c6084838c0df2f31e39569cf52f9f69210a053ab9121a5c1036f90cfb385ef85ccb81764df7132f15fbb8e1502bce389cddc946463e78638797ac",
   "/about-the-white-house/air-force-one/": "edb37b8ffc1f7e0299a01d01b6f0fd0ca8fc85ff45de45181c489308dfc43606fec5e78a15d455bdcd2aa2ffef052d37b47efcc73dd7804b64aa0fb0ac66ffed",
   "/about-the-white-house/camp-david/": "e33f23eb1fba82833969c84b605137459a10ccc7bb2418294c4e023419c08438fd85b2616b3f5d30b03f122d975f5e81a8ccb1855727940a77952c2f4d2bb955",
-  "/presidential-actions/2025/01/enforcing-the-hyde-amendment/": "69688ede9c74dd09733d144e57d14469b1155aa9e2d351bf33e6506d75a6fb06ffefbdea2fcd7ca24581dcdc614504d3e75da389636a8dd8708ea2b1e9c9b26a",
+  "/presidential-actions/2025/01/enforcing-the-hyde-amendment/": "296cb5130f359108de184acbc301a616507c3261b7a310039bf28957207637da3488f1cc238d20a0964fae2ccb65a85bb8a30c55da9d2d73bb52888e02ad53ac",
   "/briefing-room/presidential-actions/2023/01/22/memorandum-on-further-efforts-to-protect-access-to-reproductive-healthcare-services/": "662f8ad8feaa9fc1c121787ffbcc083661b8eea4cec30b1bbbea8080b0de66f8dffa4eea4fbbabda94050ddee97feed5a12ff5697e62f8d8ffd5a83e0a67fb56",
   "/presidential-actions/2025/01/the-first-100-hours-historic-action-to-kick-off-americas-golden-age/": "7c0b6c368e5f1490b3230bb153bc1aa36c470dbe2ba2f50576ff89970056167d46135c078ffbdfa05743007cbbb7274ad0a0bc84dab4e1edfc47b1b73df54a1e",
   "/presidential-actions/2025/01/removing-barriers-to-american-leadership-in-artificial-intelligence/": "b1bb97308deab8699ce735c9c6e5457090982b37def3757dd43da61521b7c1473b824cd7c2938052bfc77808a3a2e3fdd83a07425b6bb9ee8d244018c6ed27cf",
@@ -96,7 +96,7 @@
   "/briefings-statements/2025/01/omb-memo-m-25-11/": "d70cd808e883cc2daf0ffbb6ea48cd320485f3cc25262ffc19d18c9fb84443d35165b5978cdd63ab60e6bc99d5af27f890cd3aeb91e88765e864abe57583c203",
   "/briefings-statements/2025/01/president-trumps-america-first-priorities/": "b4777108253944841c1e746a45090223dd2e2e3d86bbe1f496d6237986006a4b75966aa623ceef9a497acba8eaf6d68364795b7cac6a64da34eb9dab4063966d",
   "/remarks/2025/01/remarks-by-president-trump-at-executive-order-signing/": "21fd2c74214e5cc25f6b570bdf71a0b56af674f9563f9d53669fb8755d9bfdf97ae588ef12e045c1ce63ac235d240133a4793e7fd40ad7cc01c45c105e406b50",
-  "/remarks/": "0e4d38ec0284b37f658217fb0e1276e04a3cbe481e6fffb4e16cfd9b6b66d46bcc6504e5209c246bbf16292d07e104bfa47e1a7873f3c6b44f3ccb256374d281",
+  "/remarks/": "37319645f8cbde34ae55da3b5b73ca6befdf27cffc857c6f9f9d2daf64ff20ff031f541a15660b13aa4f683523d09578c609864f40f6e4514168067b4a772079",
   "/remarks/2025/01/remarks-by-president-trump-during-hurricane-helene-briefing/": "3c45ac32e2f6568cde5623b0ec826c3b8f40f6c9907c53fbab9660d616bc0e04d4b366f9a0bbb9979f9de1ab1c6eb012701e5534d2fd6a5a19d4396894236d13",
   "/remarks/2025/01/remarks-by-president-trump-after-air-force-one-arrival-fletcher-nc/": "ced38cd65c0a52faa3a50d2c27a197d95c2934e62b77b703ef6ffc815840de1629028cae8ad4d6f13701a80369e0e76f50c33be8c296e8b1c40c39c55c7accd3",
   "/remarks/2025/01/remarks-by-president-trump-before-marine-one-departure/": "7fce763074cf20e4534cb72d6e4ec5107ec8fde71ed108a5e496c451738fe7588de217cf8159daafcb697117a80c6295335a7b59d21965b52c9cf07e5f380ecd",
@@ -254,5 +254,5 @@
   "/briefings-statements/2025/01/readout-of-president-donald-j-trumps-call-with-king-abdullah-ii-of-jordan/": "c2d8a176cde3f83236eb48f4c607faa51412486011c7995cf275e92a41c0f5ec1f876eb6897ade7dfded9683f13e1a057fc795bb76781b07e6a27497d0e7546e",
   "/briefings-statements/2025/01/white-house-statement-on-hostage-release/": "b559c90692ea9381cb7dcfd8412ae54877637a81650d5f1370f91870788d575536087864f6376bda87a5be33a1dd0d7f9c90749bf72b892c9592bb41d4ad064b",
   "/fact-sheets/2025/01/fact-sheet-president-donald-j-trump-enforces-overwhelmingly-popular-demand-to-stop-taxpayer-funding-of-abortion/": "78d78980c13ae81f17e13248aba61b5fdcd2a1f99b72205cfc859a9684a9102540acfba66cb6c45f4781afbc50e98313b619234ed2addf5d36aa883f3b97a4c0",
-  "/remarks/2025/01/remarks-by-president-trump-before-air-force-one-departure/": "02ab5b1f1df8367f7bd654efe922fc6d3a3884f34f5c5e7e76cf51f653ce5a1a8ed2560dc3c945708c69bbf6c5e49971dccde492eda89564624e145629910c79"
+  "/remarks/2025/01/remarks-by-president-trump-before-air-force-one-departure/": "d326845796f5031e9128c86a53f68794cb476dd1f2f11f24ed2b08782d05ec8dd0ac7fa8610310a8d18543dd4215a4065b08599bca279d368481dfa5e338915c"
 }
