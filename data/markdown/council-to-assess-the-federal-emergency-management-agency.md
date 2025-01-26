@@ -2,7 +2,7 @@
 
 # 					COUNCIL TO ASSESS THE FEDERAL EMERGENCY MANAGEMENT AGENCY				
 
-January 26, 2025
+January 24, 2025
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
 
