@@ -1,0 +1,5 @@
+# Summary
+
+On January 26, 2025, President Donald J. Trump engaged in a phone call with Prime Minister Keir Starmer of the United Kingdom. The primary purpose of the conversation was to express condolences on the loss of the Prime Minister's brother and to extend well wishes to the British Royal Family, demonstrating diplomatic respect and empathy.
+
+In addition to these expressions of sympathy, the dialogue between the two leaders also included significant international topics. They discussed the recent safe release of Emily Damari, an Israeli-British national who had been held captive by Hamas. Their conversation also covered the prospects for enhancing the bilateral economic relationship between the United States and the United Kingdom, emphasizing the importance of fair and mutually beneficial economic ties.
