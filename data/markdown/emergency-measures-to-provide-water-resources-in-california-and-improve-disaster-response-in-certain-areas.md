@@ -2,7 +2,7 @@
 
 # 					EMERGENCY MEASURES TO PROVIDE WATER RESOURCES IN CALIFORNIA AND IMPROVE DISASTER RESPONSE IN CERTAIN AREAS				
 
-January 26, 2025
+January 24, 2025
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered:
 
