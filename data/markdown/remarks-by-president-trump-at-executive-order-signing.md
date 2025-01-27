@@ -2,9 +2,7 @@
 
 # 					remarks by President Trump at Executive Order Signing				
 
-January 24, 2025
-
-For Immediate Release                                     January 24, 2025
+January 23, 2025
 
 REMARKS BY PRESIDENT TRUMP
 
