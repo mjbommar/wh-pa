@@ -4,8 +4,6 @@
 
 January 24, 2025
 
-For Immediate Release                                                                                         January 24, 2025
-
 REMARKS BY PRESIDENT TRUMPDURING HURRICANE HELENE BRIEFINGAirport Fire and Rescue FacilityFletcher, North Carolina
 
   11:34 A.M. EST     THE PRESIDENT:  Well, thank you very much.  It’s a little cold outside, but you’re getting used to the cold.And one of the things that are very important to me and one of the reasons I’m happy that we won so convincingly is to help North Carolina get fixed up.  They supported us in record numbers, and I’m supporting them in record numbers too.
