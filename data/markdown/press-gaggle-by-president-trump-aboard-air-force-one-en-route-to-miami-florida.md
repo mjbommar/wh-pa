@@ -1,6 +1,6 @@
 [Remarks](https://www.whitehouse.gov/remarks/)
 
-# 					PRESS GAGGLE BY PRESIDENT TRUMP Aboard Air Force One En Routeto Miami, Florida				
+# 					PRESS GAGGLE BY PRESIDENT TRUMP Aboard Air Force One En Route to Miami, Florida				
 
 January 25, 2025
 
