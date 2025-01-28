@@ -60,13 +60,13 @@ Sec. 8.  Directives to the Department of Justice.  The Attorney General shall:
 
 (a)  review Department of Justice enforcement of section 116 of title 18, United States Code, and prioritize enforcement of protections against female genital mutilation;
 
-(b)  convene States’ Attorneys General and other law enforcement officers to coordinate the enforcement of laws against female genital mutilation across all American States and Territories; 
+(b) convene States’ Attorneys General and other law enforcement officers to coordinate the enforcement of laws against female genital mutilation across all American States and Territories; 
 
 (c)  prioritize investigations and take appropriate action to end deception of consumers, fraud, and violations of the Food, Drug, and Cosmetic Act by any entity that may be misleading the public about long-term side effects of chemical and surgical mutilation;
 
 (d)  in consultation with the Congress, work to draft, propose, and promote legislation to enact a private right of action for children and the parents of children whose healthy body parts have been damaged by medical professionals practicing chemical and surgical mutilation, which should include a lengthy statute of limitations; and
 
-(e)  prioritize investigations and take appropriate action to end child-abusive practices by so-called sanctuary States that facilitate stripping custody from parents who support the healthy development of their own children, including by considering the application of the Parental Kidnaping Prevention Act and recognized constitutional rights.
+(e)  prioritize investigations and take appropriate action to end child-abusive practices by so-called sanctuary States that facilitate stripping custody from parents who support the healthy development of their own children, including by considering the application of the Parental Kidnapping Prevention Act and recognized constitutional rights.
 
 Sec. 9.  Enforcing Adequate Progress.  Within 60 days of the date of this order, the heads of agencies with responsibilities under this order shall submit a single, combined report to the Assistant to the President for Domestic Policy, detailing progress in implementing this order and a timeline for future action.  The Assistant to the President for Domestic Policy shall regularly convene the heads of agencies with responsibilities under this order (or their designees) to coordinate and prepare for this submission.
 
