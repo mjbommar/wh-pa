@@ -1,0 +1,5 @@
+# Summary
+
+On January 27, 2025, a new presidential order was issued by the president of the United States. This executive order mandates the elimination of Diversity, Equity, and Inclusion (DEI) programs across the Armed Forces and related departments, such as the Department of Defense and Homeland Security. The president emphasizes meritocracy and aims to remove any race- or sex-based discrimination within these establishments, asserting that such practices undermine unit cohesion and military readiness. 
+
+The policy outlined in this order calls for an abolition of all DEI offices and related programs. It mandates an internal review by the Department of Defense to identify and document prior DEI initiatives and instances of discrimination. Further, the order prohibits the teaching or promotion of divisive concepts, race, or sex stereotyping within the military and associated educational institutions. Additionally, the measure requires comprehensive guidance and progress reports from relevant departments to ensure effective implementation.
