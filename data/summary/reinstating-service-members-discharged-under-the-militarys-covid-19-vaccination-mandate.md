@@ -1,0 +1,5 @@
+**Reinstating Service Members Discharged Under the Military's COVID-19 Vaccination Mandate**
+
+On January 27, 2025, a presidential order was issued aimed at redressing the wrongful discharges of service members who were dismissed due to non-compliance with the military's COVID-19 vaccine mandate. Initially mandated by the Secretary of Defense on August 24, 2021, the COVID-19 vaccination policy was later rescinded on January 10, 2023. The mandate was characterized as an unfair burden, with the new order directing the Secretaries of Defense and Homeland Security to facilitate reinstatement for those affected.
+
+The order outlines steps that include providing reinstatement to service members discharged solely for refusing the vaccine, restoring their former rank, and ensuring they receive full back pay and benefits. Additionally, it allows those who voluntarily left service instead of getting vaccinated to return without impacting their service record. The order also specifies that nothing in its provisions affects existing legal authorities or budgetary operations and clarifies it does not create enforceable rights.
