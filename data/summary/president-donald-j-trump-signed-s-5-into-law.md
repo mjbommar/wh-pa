@@ -1,0 +1,3 @@
+On January 29, 2025, President Donald J. Trump signed into law S.5, known as the 'Laken Riley Act'. This law mandates the Secretary of Homeland Security to detain non-citizens who are charged with theft within the United States. The enactment of this law represents an effort to strengthen immigration enforcement related to criminal activities.
+
+The legislation marks a significant step in addressing crimes committed by aliens, with an emphasis on theft-related offenses. By transferring responsibility to Homeland Security, the law aims to ensure that those charged with such crimes are effectively monitored and managed. This action aligns with the administration's broader focus on enhancing national security through stricter immigration policies.
