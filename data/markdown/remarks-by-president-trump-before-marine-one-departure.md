@@ -4,8 +4,6 @@
 
 January 24, 2025
 
-For Immediate Release                          January 24, 2025
-
 REMARKS BY PRESIDENT TRUMPBEFORE MARINE ONE DEPARTURE
 
 South Lawn
