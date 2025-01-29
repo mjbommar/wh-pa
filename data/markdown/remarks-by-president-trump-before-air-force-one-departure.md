@@ -2,7 +2,7 @@
 
 # 					Remarks by President Trump Before Air Force One Departure				
 
-January 25, 2025
+January 24, 2025
 
 Los Angeles International AirportLos Angeles, California(January 24, 2025)
 
