@@ -1,0 +1,5 @@
+# National Day of Remembrance 80th Anniversary of Auschwitz Liberation, 2025
+
+On January 27, 2025, a proclamation by President Donald J. Trump marks the 80th anniversary of the Auschwitz-Birkenau camp's liberation. Auschwitz was a key site during the Holocaust, where over a million Jews and other victims were murdered by the Nazi regime. This day of remembrance aims to honor the victims and survivors and reaffirm the commitment to eradicate anti-Semitism and religious intolerance. The proclamation highlights the enduring spirit of the Jewish community and the importance of educating future generations about these historical horrors.
+
+President Trump calls on Americans to observe this day through programs, ceremonies, and prayers, thereby honoring both the victims and the liberators of the Auschwitz camp. He emphasizes the shared commitment to the Jewish people and the continued support for the State of Israel. This proclamation serves as a reminder of human dignity, resilience, and the rejection of hatred and bigotry.
