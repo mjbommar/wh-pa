@@ -1,6 +1,6 @@
 [Fact Sheets](https://www.whitehouse.gov/fact-sheets/)
 
-# **Fact Sheet: President Donald J. Trump Directs the Building of the Iron Dome Missile Defense Shield for America**
+# 					Fact Sheet: President Donald J. Trump Directs the Building of the Iron Dome Missile Defense Shield for America				
 
 January 27, 2025
 
