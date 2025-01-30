@@ -10,22 +10,24 @@
   "og:image:width": "1200",
   "og:image:height": "628",
   "og:image:type": "image/png",
-  "markdown": "# \t\t\t\t\tNews\t\t\t\t\n\n[Articles](/articles/)\n\n[Briefings &amp; Statements](/briefings-statements/)\n\n[Fact Sheets](/fact-sheets/)\n\n[Presidential Actions](/presidential-actions/)\n\n[Remarks](/remarks/)\n\n    -  [President Trump\u2019s America First Priorities](https://www.whitehouse.gov/briefings-statements/2025/01/president-trumps-america-first-priorities/)[Briefings &amp; Statements](https://www.whitehouse.gov/briefings-statements/)January 20, 2025 \n\n[Prev](https://www.whitehouse.gov/news/page/12/)\n[1](https://www.whitehouse.gov/news/)\u2026[11](https://www.whitehouse.gov/news/page/11/)[12](https://www.whitehouse.gov/news/page/12/)13\n",
-  "summary": "The webpage from the White House website provides multiple categories of information relating to government communications and activities. It includes links to different types of documents such as Articles, Briefings & Statements, Fact Sheets, Presidential Actions, and Remarks. One specific entry details President Trump's America First Priorities, which is a briefing or statement released on January 20, 2025. The page is part of a larger section of news updates from the White House, with pagination links allowing navigation through various news items.\n\nThe presence of structured categories indicates an organized effort to communicate various government updates and policy positions to the public. The entry related to President Trump's priorities suggests focus areas that were publicly articulated. Furthermore, the pagination implies a comprehensive archive of past communications, which can be accessed for detailed historical perspective and understanding of the administration's activities.",
-  "eli5": "This is a page from the White House that has links to different types of news and updates. One of the updates talks about President Trump's plans for America on January 20, 2025.",
+  "markdown": "# \t\t\t\t\tNews\t\t\t\t\n\n[Articles](/articles/)\n\n[Briefings &amp; Statements](/briefings-statements/)\n\n[Fact Sheets](/fact-sheets/)\n\n[Presidential Actions](/presidential-actions/)\n\n[Remarks](/remarks/)\n\n    -  [President Trump Announces Cabinet and Cabinet Level Appointments](https://www.whitehouse.gov/presidential-actions/2025/01/cabinet-and-cabinet-level-appointments/)[Presidential Actions](https://www.whitehouse.gov/presidential-actions/)January 20, 2025 \n    -  [President Trump\u2019s America First Priorities](https://www.whitehouse.gov/briefings-statements/2025/01/president-trumps-america-first-priorities/)[Briefings &amp; Statements](https://www.whitehouse.gov/briefings-statements/)January 20, 2025 \n\n[Prev](https://www.whitehouse.gov/news/page/12/)\n[1](https://www.whitehouse.gov/news/)\u2026[11](https://www.whitehouse.gov/news/page/11/)[12](https://www.whitehouse.gov/news/page/12/)13\n",
+  "summary": "The document is a curated list of links to various types of content available on the White House official website, specifically related to formal presidential communications. The highlighted items include sections for Articles, Briefings & Statements, Fact Sheets, Presidential Actions, and Remarks. Notable entries include President Trump's cabinet appointments and his America First priorities, both dated January 20, 2025. \n\nThe page also provides navigation options for users to browse different pages of news listings. It includes various page numbers and a 'Prev' link, suggesting that this is part of a paginated list of press-related information. Each section is linked to more detailed webpages containing full articles or statements, offering insights into the specific initiatives and decisions undertaken by the administration.",
+  "eli5": "This webpage from the White House has links to speeches and important papers by the President, including plans about how the country will be run.",
   "keywords": [
-    "News",
-    "Briefings",
-    "Presidential Actions",
-    "Trump",
-    "America First",
     "White House",
-    "Statements"
+    "Presidential Actions",
+    "Briefings",
+    "Statements",
+    "Fact Sheets",
+    "President Trump",
+    "Cabinet Appointments",
+    "America First",
+    "News"
   ],
   "issues": [
-    "The actual content of the 'President Trump\u2019s America First Priorities' is not detailed.",
-    "Potential political bias in what information is available or prioritized."
+    "Content refers to future date (January 20, 2025)",
+    "Potential inaccuracy with historical data"
   ],
   "citations": [],
-  "document_type": "Briefing"
+  "document_type": "Presidential Action"
 }
