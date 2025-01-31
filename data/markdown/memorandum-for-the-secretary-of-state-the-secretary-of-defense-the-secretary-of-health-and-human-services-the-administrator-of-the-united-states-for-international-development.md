@@ -1,6 +1,6 @@
 [Presidential Actions](https://www.whitehouse.gov/presidential-actions/)
 
-# 					MEMORANDUM FOR THE SECRETARY OF STATETHE SECRETARY OF DEFENSETHE SECRETARY OF HEALTH AND HUMAN SERVICESTHE ADMINISTRATOR OF THE UNITED STATES AGENCY FORINTERNATIONAL DEVELOPMENT				
+# 					Memorandum for the Secretary of State, the Secretary of Defense, the Secretary of Health and Human Services, the Administrator of the United States for International Development				
 
 January 24, 2025
 
