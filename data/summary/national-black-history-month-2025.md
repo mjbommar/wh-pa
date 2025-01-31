@@ -1,0 +1,5 @@
+## Summary
+
+The President of the United States of America, Donald J. Trump, has issued a proclamation recognizing February 2025 as National Black History Month. This annual observance is dedicated to celebrating and honoring the substantial contributions made by black American leaders throughout the country's history. The proclamation highlights numerous historical and contemporary figures such as Frederick Douglass, Harriet Tubman, and Tiger Woods, acknowledging their roles in shaping the cultural and political landscape of the United States.
+
+President Trump emphasizes the importance of the achievements of black Americans in advancing equality and freedom within the nation, as well as their continued influence on the country's future progress. He calls upon public officials, educators, and citizens to observe the month with relevant programs, ceremonies, and activities, underscoring the lasting gratitude America holds for the contributions of black Americans.
