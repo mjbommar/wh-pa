@@ -1,0 +1,5 @@
+# Summary
+
+On February 1, 2025, President Donald J. Trump issued an announcement detailing the imposition of a 25% tariff on Mexican products as a measure to address illegal immigration and drug trafficking concerns at the U.S. southern border. This decision was made under the authority of several U.S. laws, including the International Emergency Economic Powers Act and the National Emergencies Act. President Trump emphasized that Mexico has not taken sufficient action against drug trafficking organizations (DTOs) that have facilitated the flow of illicit drugs and human trafficking into the United States.
+
+The tariffs are set to begin on February 4, 2025, and apply to all Mexican products, with specific exclusions detailed. The action aims to incentivize the Mexican government to better cooperate with the U.S. to curb illegal activities at the border. In case of Mexican retaliation, President Trump may further increase tariffs. The Secretary of Homeland Security is tasked with assessing Mexico's response and advising on additional measures if necessary.
