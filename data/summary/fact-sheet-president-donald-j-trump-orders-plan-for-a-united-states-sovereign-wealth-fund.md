@@ -1,0 +1,7 @@
+# **Summary**
+
+On February 3, 2025, President Donald J. Trump signed an Executive Order to create a Sovereign Wealth Fund for the United States. The order directs the Secretary of the Treasury and the Secretary of Commerce to form a plan within 90 days, concerning the establishment of the fund. This plan will address funding mechanisms, investment strategies, and a governance model, developed in collaboration with the Director of the Office of Management and Budget and the Assistant to the President for Economic Policy.
+
+The intended purpose of the Sovereign Wealth Fund is to ensure long-term economic competitiveness and fiscal sustainability. The fund aims to optimize the management of national wealth, promoting fiscal balance, reducing tax burdens on citizens, and reinforcing U.S. economic leadership globally. The U.S. government holds substantial assets valued at $5.7 trillion directly, and even more when considering natural resources, which can be strategically invested through a sovereign wealth fund.
+
+President Trump’s initiative aligns with his broader economic policies aiming at fostering economic growth, including fair trade and energy dominance. The formation of a sovereign wealth fund is designed to capitalize on these policies' successes, investing in national endeavors for the benefit of Americans. Other countries like the UK, and several U.S. states, have set similar funds, highlighting the global and domestic precedent for such financial vehicles.
