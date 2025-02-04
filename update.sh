@@ -7,7 +7,7 @@ uv run python3 src/converter.py
 uv run python3 src/summarizer.py
 
 # git
-git add hashes.json data/json data/markdown data/summary
+git add data/json data/markdown data/summary
 git commit -a -m "auto-push"
 git push
 
