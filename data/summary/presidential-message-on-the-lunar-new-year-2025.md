@@ -1,0 +1,3 @@
+In a 2025 message, the President and First Lady, Melania, extend greetings to those celebrating the Lunar New Year both in the United States and globally. The message highlights the contributions of the Asian-American community in America and acknowledges the rich family traditions associated with this celebration. The President and First Lady express solidarity with those partaking in festivities such as fireworks and parades as they usher in the Year of the Snake.
+
+The message associates the snake with wisdom, spirituality, and good fortune. It emphasizes their hope for blessings of peace, happiness, and success for the nation in 2025, as they describe this period as America’s golden age. The message ends with warm wishes for a happy new year to all.
