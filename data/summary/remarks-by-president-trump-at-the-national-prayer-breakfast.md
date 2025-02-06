@@ -1,0 +1,5 @@
+At the National Prayer Breakfast on February 6, 2025, President Trump delivered a speech at the U.S. Capitol, Washington, D.C. He emphasized the importance of faith and religion in American society, highlighting how religion has played a crucial role in the country's history. Citing historical figures like Thomas Jefferson, John Winthrop, and Roger Williams, he called for a resurgence of religious values and announced an executive order for creating a new park to honor American heroes.
+
+During his address, he also discussed the importance of unity among political leaders and the need to prioritize America and its values. He recalled a personal incident and emphasized the role of faith in overcoming challenges. Additionally, he addressed recent national tragedies, elaborated on issues in aviation control safety, and advocated for modernization of air traffic control systems.
+
+The President's speech included comments on the recent improvement in army recruitment numbers and highlighted his belief in the necessity of having God and religion play a more prominent role in everyday American life, urging for national unity and collective faith.
