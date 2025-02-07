@@ -1,0 +1,5 @@
+# Presidential Action on ICC Sanctions
+
+On February 6, 2025, President Donald J. Trump issued an order imposing sanctions on the International Criminal Court (ICC). This action was guided by the International Emergency Economic Powers Act, the National Emergencies Act, the Immigration and Nationality Act, and other legal authorities. The President found the ICC had undertaken illegitimate and baseless actions by investigating and issuing arrest warrants against U.S. personnel and allies, including Israel, despite neither nation being a party to the Rome Statute that established the ICC.
+
+The sanctions aim to protect United States personnel and those from allied nations from prosecution by the ICC, which they argue lacks jurisdiction. The order considers any ICC efforts to target U.S. or allied personnel as a threat to national security. Measures include blocking assets and restricting entry of ICC officials into the U.S. unless specifically authorized by the Secretary of State. The order further mandates ongoing reporting to the President and Congress on the implementation of these sanctions.
