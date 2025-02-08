@@ -16,8 +16,6 @@ Vice President of the United States
 
 In 2024, President Donald J. Trump extended JD the incredible honor of asking him to serve as the Vice-Presidential Nominee for the Republican Party. JD looks forward to serving with President Trump over the next four years as they work diligently to Make America Great Again.
 
-[](https://www.whitehouse.gov/administration/melania-trump/)
-
 ## [Melania Trump](https://www.whitehouse.gov/administration/melania-trump/)
 
 FIRST Lady of the United States
