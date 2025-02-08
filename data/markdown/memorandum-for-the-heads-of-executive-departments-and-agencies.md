@@ -2,7 +2,7 @@
 
 # 					MEMORANDUM FOR THE HEADS OF EXECUTIVE DEPARTMENTS AND AGENCIES				
 
-February 7, 2025
+February 6, 2025
 
 SUBJECT:       Advancing United States Interests When Funding
 
