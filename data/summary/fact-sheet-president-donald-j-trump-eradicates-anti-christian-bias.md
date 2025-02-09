@@ -1,0 +1,5 @@
+**Fact Sheet: Eradicating Anti-Christian Bias Initiative**
+
+On February 6, 2025, President Donald J. Trump signed an Executive Order to establish the Task Force to Eradicate Anti-Christian Bias, composed of members of his cabinet and key government agencies. The task force aims to identify and eliminate any anti-Christian policies, practices, or conduct within government departments and agencies. It will gather input from diverse groups, including faith-based organizations and local governments, to ensure a broad range of perspectives.
+
+This initiative addresses concerns from the previous administration's handling of religious freedoms. President Trump holds that the Biden Administration targeted peaceful Christians while neglecting anti-Christian offenses, such as attacks on Catholic institutions. The new task force will examine failures in enforcing laws against anti-Christian violence and propose actions to protect religious liberties. This effort continues Trump's past work on religious freedom, including pardoning Christians penalized under Biden and signing an Executive Order against anti-Semitism.
