@@ -1,0 +1,5 @@
+***Statement from the National Security Advisor***
+
+On February 11, 2025, National Security Advisor Mike Waltz announced that President Donald J. Trump, along with his Special Envoy Steve Witkoff, successfully negotiated the release of Marc Fogel, an American previously detained in Russia. This negotiation marks a significant diplomatic achievement, reflecting improved relations and cooperation between the United States and Russia. The release is portrayed as a step towards resolving the ongoing conflict in Ukraine, showcasing the administration's commitment to freeing American citizens held abroad.
+
+President Trump has prioritized the return of detained Americans since taking office. This latest development continues a string of efforts to bring home Americans unjustly held overseas. Marc Fogel, a representative American figure in this context, is expected to be reunited with his family on American soil by the end of the day, signaling President Trump's diplomatic efficacy and dedication to national security issues.

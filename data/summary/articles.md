@@ -1,0 +1,4 @@
+### Summary
+The provided text is an excerpt from a White House website section titled **Articles**, where multiple categories such as **Briefings & Statements**, **Fact Sheets**, and **Presidential Actions** are available through clickable links. Additionally, the text mentions two specific articles published on February 11, 2025. The first article is a **Statement from the National Security Advisor**, and the second reports on industry and lawmakers’ positive reactions to President Trump's **Section 232 Tariffs**.
+
+These articles provide insights into the current administration's policies and the public reactions to them. The National Security Advisor's statement likely addresses key security concerns or updates, while the article on the tariffs reflects industry and government perspectives on trade policies designed to protect domestic industries by imposing specific duties on imports.
