@@ -1,0 +1,5 @@
+## Summary
+
+On February 10, 2025, a presidential order was issued to eliminate the Federal Executive Institute, a government program established over 50 years ago during President Lyndon B. Johnson's administration. The order cited the need for responsible use of taxpayer dollars and a focus on government initiatives that directly benefit the American people. The Federal Executive Institute was intended to provide leadership training for federal bureaucrats, but the order argues that such bureaucratic leadership has not served the interests of the American family.
+
+In accordance with this directive, the Director of the Office of Personnel Management is tasked with dismantling the Federal Executive Institute, ensuring the process adheres to existing laws. Any previous documents or executive orders related to the establishment of this institute, like the Presidential Memorandum of 1968 and certain provisions from Executive Order 11348 of 1967, are revoked. The order also clarifies that it should not affect existing legal authorities or create any legal rights enforceable by parties against the U.S. government.
