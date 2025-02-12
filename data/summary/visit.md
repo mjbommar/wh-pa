@@ -1,0 +1,5 @@
+The White House offers guided tours to the public, facilitated by Members of Congress. These tours are available at specific times during the week and on weekends, though they exclude federal holidays. Reservations must be made through a Member of Congress and can be arranged from 7 to 90 days in advance. While tours are free, schedules are subject to change due to unforeseen circumstances such as weather or scheduling conflicts.
+
+The tours cover several public spaces within the White House, such as the East Wing, the Vermeil Room, and the State Dining Room. Visitors can also view the Kennedy Garden and are accompanied by Secret Service Officers who can provide historical insights. Citizens of other countries should contact their respective embassies for arrangements.
+
+Further information and tour schedules can be accessed via the Member of Congress or the provided online resources. For additional questions, visitors are directed to consult the FAQs section on the White House's website.
