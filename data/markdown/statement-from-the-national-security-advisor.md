@@ -1,4 +1,4 @@
-[Articles](https://www.whitehouse.gov/articles/)
+[Briefings &amp; Statements](https://www.whitehouse.gov/briefings-statements/)
 
 # 					Statement from the National Security Advisor				
 
