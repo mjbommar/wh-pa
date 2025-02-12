@@ -16,5 +16,4 @@ February 10, 2025
     - The government wastes billions of dollars each year on duplicative programs and frivolous expenditures that fail to align with American values or address the needs of the American people.
     - President Trump temporarily paused foreign aid to many non-governmental organizations, international organizations, and contractors to ensure every dollar of U.S. foreign assistance supports American values.
     - President Trump established the “Department of Government Efficiency” to examine how to streamline the Federal government, eliminate unnecessary programs, and reduce bureaucratic inefficiency.
-
-President Trump launched a 10-to-1 deregulation initiative, ensuring every new rule is justified by clear benefits
+    - President Trump launched a 10-to-1 deregulation initiative, ensuring every new rule is justified by clear benefits
