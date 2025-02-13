@@ -29,5 +29,4 @@ February 11, 2025
     - According to the Economic Policy Institute, the tariffs implemented by President Trump during his first Administration “clearly show[ed] no correlation with inflation” and only had a temporary effect on overall price levels.
     - An analysis from the Atlantic Council found that “tariffs would create new incentives for US consumers to buy US-made products.”
     - Former Biden Treasury Secretary Janet Yellen affirmed last year that tariffs do not raise prices: “I don’t believe that American consumers will see any meaningful increase in the prices that they face.”
-
-A 2024 economic analysis found that a global tariff of 10% would grow the economy by $728 billion, create 2.8 million jobs, and increase real household incomes by 5.7%.
+    - A 2024 economic analysis found that a global tariff of 10% would grow the economy by $728 billion, create 2.8 million jobs, and increase real household incomes by 5.7%.
