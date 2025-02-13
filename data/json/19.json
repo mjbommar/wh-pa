@@ -10,23 +10,21 @@
   "og:image:width": "1200",
   "og:image:height": "628",
   "og:image:type": "image/png",
-  "markdown": "# \t\t\t\t\tNews\t\t\t\t\n\n[Articles](/articles/)\n\n[Briefings &amp; Statements](/briefings-statements/)\n\n[Fact Sheets](/fact-sheets/)\n\n[Presidential Actions](/presidential-actions/)\n\n[Remarks](/remarks/)\n\n    -  [President Trump\u2019s America First Priorities](https://www.whitehouse.gov/briefings-statements/2025/01/president-trumps-america-first-priorities/)[Briefings &amp; Statements](https://www.whitehouse.gov/briefings-statements/)January 20, 2025 \n\n[Prev](https://www.whitehouse.gov/news/page/18/)\n[1](https://www.whitehouse.gov/news/)\u2026[17](https://www.whitehouse.gov/news/page/17/)[18](https://www.whitehouse.gov/news/page/18/)19\n",
-  "summary": "The webpage appears to organize and link to various content sections related to news and official communications from the White House. It includes categories such as Articles, Briefings & Statements, Fact Sheets, Presidential Actions, and Remarks. These categories suggest an array of different formats of information, possibly aimed at providing transparency and detailed insights into the activities of the U.S. presidency.\n\nOne specific highlight is a mention of 'President Trump\u2019s America First Priorities' dated January 20, 2025, categorized under Briefings & Statements. This could imply a renewed or continued emphasis on Trump\u2019s policy initiatives during his term. Navigation links suggest a structured layout with pages being easily accessible, indicating a well-organized database.\n\nOverall, the page is designed to streamline access to vital documents and communications. It functions as a gateway to understanding decisions and public statements made at the highest governmental level, with attention to ongoing accountability and communication with the public.",
-  "eli5": "This page is like a big menu that shows you different things you can read about what the President and the White House are doing and saying. There's a special focus on President Trump\u2019s plans for America.",
+  "markdown": "# \t\t\t\t\tNews\t\t\t\t\n\n[Articles](/articles/)\n\n[Briefings &amp; Statements](/briefings-statements/)\n\n[Fact Sheets](/fact-sheets/)\n\n[Presidential Actions](/presidential-actions/)\n\n[Remarks](/remarks/)\n\n    -  [President Trump Announces Cabinet and Cabinet Level Appointments](https://www.whitehouse.gov/presidential-actions/2025/01/cabinet-and-cabinet-level-appointments/)[Presidential Actions](https://www.whitehouse.gov/presidential-actions/)January 20, 2025 \n    -  [President Trump\u2019s America First Priorities](https://www.whitehouse.gov/briefings-statements/2025/01/president-trumps-america-first-priorities/)[Briefings &amp; Statements](https://www.whitehouse.gov/briefings-statements/)January 20, 2025 \n\n[Prev](https://www.whitehouse.gov/news/page/18/)\n[1](https://www.whitehouse.gov/news/)\u2026[17](https://www.whitehouse.gov/news/page/17/)[18](https://www.whitehouse.gov/news/page/18/)19\n",
+  "summary": "# Summary\n\nThe page contains a navigation structure for different sections on the White House website, including Articles, Briefings & Statements, Fact Sheets, Presidential Actions, and Remarks. Each section is linked with its respective URL, allowing users to access more detailed content in those categories. This design facilitates ease of navigation for users seeking specific information on the website.\n\nIn the content highlighted for January 20, 2025, there are mentions of two significant updates: President Trump announced new Cabinet and Cabinet-level appointments, and there was a statement outlining his America First priorities. These entries provide updates on government structure and policy priorities, offering insight into executive decisions and directions.\n\nThe navigation menu also includes paginated links to previous sections of the news or content entries, helping users to navigate through historical documents. The organization on this page aims to improve user experience by giving structured access to various official documents and announcements.",
+  "eli5": "The page tells you where to find different kinds of documents on the White House website, like news or important announcements from the President. It mentions that President Trump picked some new leaders and talked about what's important for America.",
   "keywords": [
     "White House",
-    "News",
-    "Articles",
-    "Briefings",
-    "Statements",
-    "Fact Sheets",
-    "Presidential Actions",
+    "navigation",
     "President Trump",
-    "America First"
+    "Cabinet appointments",
+    "America First priorities",
+    "official documents",
+    "2025"
   ],
   "issues": [
-    "The document references future dates and events (e.g., January 20, 2025) which could indicate an error or fictional setting."
+    "The content is speculative as it refers to events in 2025, which may raise concerns about authenticity or accuracy if not corroborated with real-time data."
   ],
   "citations": [],
-  "document_type": "Briefings & Statements"
+  "document_type": "Presidential Action"
 }
