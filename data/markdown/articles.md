@@ -10,6 +10,7 @@
 
 [Remarks](/remarks/)
 
+    -  [Trump Administration: Follow the Law](https://www.whitehouse.gov/articles/2025/02/trump-administration-follow-the-law/)[Articles](https://www.whitehouse.gov/articles/)February 13, 2025 
     -  [President Donald J. Trump Secures Release of Another American Held Hostage](https://www.whitehouse.gov/articles/2025/02/president-donald-j-trump-secures-release-of-another-american-held-hostage/)[Articles](https://www.whitehouse.gov/articles/)February 12, 2025 
     -  [Memo to Press: Hundreds of Billions of Dollars are Fraudulently Spent Every Year](https://www.whitehouse.gov/articles/2025/02/memo-to-press-hundreds-of-dollars-are-fraudulently-spent-every-year/)[Articles](https://www.whitehouse.gov/articles/)February 12, 2025 
     -  [President Donald J. Trump Brings Marc Fogel Home](https://www.whitehouse.gov/articles/2025/02/president-donald-j-trump-brings-marc-fogel-home/)[Articles](https://www.whitehouse.gov/articles/)February 12, 2025 
