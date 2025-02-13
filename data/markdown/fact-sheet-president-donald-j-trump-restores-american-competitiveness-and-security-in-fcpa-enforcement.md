@@ -15,11 +15,7 @@ February 10, 2025
     - Over time, FCPA interpretation and enforcement by U.S. prosecutors has broadened, imposing a growing cost on our Nation’s economy.       - In 2024, the DOJ and SEC filed 26 FCPA-related enforcement actions, and at least 31 companies were under investigation by year end.        - Over the past decade, there has been an average of 36 FCPA-related enforcement actions per year, draining resources from both American businesses and law enforcement. 
 
 **PUTTING AMERICA FIRST:**President Trump is committed to prioritizing American economic and security interests and ensuring U.S. businesses have the tools to succeed globally.
-
-Since returning to office, President Trump has signed several executive actions aimed at enhancing American economic competitiveness, including an Executive Order to strengthen U.S. leadership in artificial intelligence (AI) and tariffs on Mexico, Canada, and China to protect the American people.  a 10-to-1 deregulation initiative, ensuring every new rule is justified by clear benefits
-
-President Trump renegotiated trade deals, including the United States-Mexico-Canada Agreement (USMCA) to secure better terms for American workers and businesses.
-
-President Trump has worked to cut burdensome regulations that hinder U.S. businesses, ensuring they can operate efficiently and competitively on the world stage.
-
-President Trump: “We have to save our country. Every policy must be geared toward that which supports the American worker, the American family, and businesses, both large and small, and allows our country to compete with other nations on a very level playing field…”
+    - Since returning to office, President Trump has signed several executive actions aimed at enhancing American economic competitiveness, including an Executive Order to strengthen U.S. leadership in artificial intelligence (AI) and tariffs on Mexico, Canada, and China to protect the American people.    a 10-to-1 deregulation initiative, ensuring every new rule is justified by clear benefits
+    - President Trump renegotiated trade deals, including the United States-Mexico-Canada Agreement (USMCA) to secure better terms for American workers and businesses.
+    - President Trump has worked to cut burdensome regulations that hinder U.S. businesses, ensuring they can operate efficiently and competitively on the world stage.
+    - President Trump: “We have to save our country. Every policy must be geared toward that which supports the American worker, the American family, and businesses, both large and small, and allows our country to compete with other nations on a very level playing field…”
