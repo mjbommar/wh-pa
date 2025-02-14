@@ -1,6 +1,6 @@
 [Articles](https://www.whitehouse.gov/articles/)
 
-# 					CFPB Isn’t a Wall Street Regulator, It’s A Main Street Regulator				
+# 					CFPB Isn’t a Wall Street Regulator, It’s a Main Street Regulator				
 
 February 10, 2025
 
