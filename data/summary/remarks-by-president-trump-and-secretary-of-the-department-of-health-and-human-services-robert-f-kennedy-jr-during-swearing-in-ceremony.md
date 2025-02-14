@@ -1,0 +1,5 @@
+### Summary
+
+On February 13, 2025, in the Oval Office, President Trump officiated the swearing-in ceremony of Robert F. Kennedy, Jr. as the Secretary of the Department of Health and Human Services. This event marks a significant moment where President Trump highlighted Kennedy's mission to improve public health and address the chronic disease crisis in the United States. The president praised Kennedy's past humanitarian efforts and his commitment to reducing harmful chemicals in the environment. An executive order will establish a presidential commission, chaired by Kennedy, to investigate and create an action plan for improving the nation's health.
+
+Justice Gorsuch administered the oath of office to Kennedy, who, in his acceptance speech, expressed gratitude to President Trump for his support and commitment. Kennedy, noted for his bipartisan campaign efforts, emphasized the importance of restoring trust in health institutions and addressing the high rates of chronic diseases among Americans. Kennedy thanked his family and key political figures for their support and expressed his intention to pursue transparency and scientific integrity within health agencies.
