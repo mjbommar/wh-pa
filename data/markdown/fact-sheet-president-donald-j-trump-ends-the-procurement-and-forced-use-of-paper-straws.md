@@ -9,7 +9,7 @@ February 10, 2025
     - The Order requires the development of a National Strategy to End the Use of Paper Straws within 45 days to alleviate the forced use of paper straws nationwide.
 
 **BRINGING BACK COMMON SENSE:** The irrational campaign against plastic straws has forced Americans to use nonfunctional paper straws. This ends under President Trump.
-    - Cities and states across America have banned paper straws, caving to pressure from woke activists who prioritize symbolism over science.
+    - Cities and states across America have banned plastic straws, caving to pressure from woke activists who prioritize symbolism over science.
     - Paper straws use chemicals that may carry risks to human health – including “forever chemical” PFAS (per- and polyfluoroalkyl substances) which are known to be highly water soluble and can bleed from the straw into a drink.       - A study found that while PFAS were found in paper straws, no measurable PFAS were found in plastic straws.  
     - Paper straws are more expensive than plastic straws, and often force users to use multiple straws.
     - Paper straws are not the eco-friendly alternative they claim to be – studies have shown that producing paper straws can have a larger carbon footprint and require more water than plastic straws.
