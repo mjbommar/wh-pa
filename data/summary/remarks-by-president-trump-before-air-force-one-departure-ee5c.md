@@ -1,5 +1,3 @@
-### Summary
+On February 14, 2025, President Trump delivered remarks before departing Joint Base Andrews in Prince George’s County, Maryland. He communicated that military recruitment numbers have reached record levels for all branches, including the Army, Navy, Air Force, and Marines. President Trump expressed satisfaction with these figures, marking them as the highest seen in many years. 
 
-On February 14, 2025, President Donald Trump delivered remarks at Joint Base Andrews in Prince George's County, Maryland, before his departure on Air Force One. During his brief address, President Trump focused on the topic of military recruitment. According to President Trump, recruitment numbers for the Army, Navy, Air Force, and Marines have reached record levels, numbers that have not been seen in many years.
-
-The President expressed satisfaction with the current state of military recruitment, emphasizing how these numbers indicate a robust resurgence in enlistment across all branches of the U.S. military. His comments were succinct, centered primarily on this notable achievement, and he concluded with brief thanks to those present.
+The President’s brief statement underscored the administration’s success in boosting military recruitment, highlighting it as a significant achievement. The announcement was made just prior to his departure from the base, emphasizing the broad gains in enlistments achieved under his leadership.
