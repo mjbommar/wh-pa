@@ -1,6 +1,6 @@
 [Presidential Actions](https://www.whitehouse.gov/presidential-actions/)
 
-# 					ONE VOICE FOR AMERICA’S FOREIGN RELATIONS				
+# 					One Voice for America’s Foreign Relations				
 
 February 12, 2025
 
