@@ -1,0 +1,5 @@
+On February 16, 2025, President Donald J. Trump declared an emergency in the Commonwealth of Kentucky due to substantial damage caused by severe weather conditions, including storms, winds, flooding, and landslides, starting on February 14, 2025. This declaration facilitates Federal assistance to bolster state and local responses, aiming to alleviate the hardship experienced by the residents of the area.
+
+The Federal Emergency Management Agency (FEMA) has been empowered to lead all disaster relief efforts aimed at mitigating the aftermath of these crises. Under the authority granted by Title V of the Stafford Act, FEMA will coordinate the provision of necessary equipment and resources to address the emergency's impacts. Assistance is restricted to direct federal aid, funded at a rate of 75 percent, with Mr. Jeremy Slinker appointed as the coordinator for Federal recovery operations in the 120 affected counties.
+
+For further details, media representatives can reach the FEMA News Desk either by phone or email.
