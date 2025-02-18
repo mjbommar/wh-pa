@@ -14,4 +14,4 @@ The positive effects of President Trump’s policies continue to be felt across 
     - San Diego migrant shelter closes after no new arrivals since Trump took office; over 100 employees laid off
     - DOGE Discovers $1.9 Billion HUD Money ‘Misplaced’ By Biden Administration
     - USDA Axes Millions in Contracts, Including $230K for ‘Brazilian Forest and Gender Consultant’
-    - Trump’s Fast Deportation Routes Deter Millions of Would-be Migrants
+    - Border Czar Tom Homan : “In the last 24 hours the US Border Patrol has encountered a total of 229 aliens across the entire southwest border. That is down from a high of over 11,000 a day under Biden.  I started as a Border Patrol Agent in 1984 and I don’t remember the numbers ever being that low.  President Trump promised a secure border and he is delivering.”
