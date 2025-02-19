@@ -1,8 +1,10 @@
 [Presidential Actions](https://www.whitehouse.gov/presidential-actions/)
 
-# 					MEMORANDUM FOR THE HEADS OF EXECUTIVE DEPARTMENTS AND AGENCIES				
+# 					Radical Transparency About Wasteful Spending				
 
 February 18, 2025
+
+MEMORANDUM FOR THE HEADS OF EXECUTIVE DEPARTMENTS AND AGENCIES
 
 SUBJECT:       Radical Transparency About Wasteful Spending
 
