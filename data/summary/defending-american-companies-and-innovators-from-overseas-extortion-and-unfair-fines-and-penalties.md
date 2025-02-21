@@ -1,0 +1,5 @@
+# Summary
+
+On February 21, 2025, a Presidential Memorandum was issued addressing unfair financial impositions on American companies by foreign governments. The memorandum expresses concern over digital services taxes (DSTs) and other regulatory measures that have been enacted by several countries since 2019. These measures, which include taxes and restrictions on data flows and streaming services, target largely U.S. technology firms and often favor local businesses, thus harming American competitiveness and economic interests.
+
+The policy outlined in the memorandum commits the U.S. administration to taking retaliatory measures such as tariffs if foreign governments continue with such discriminatory practices. Responsibilities are assigned to the United States Trade Representative, Secretary of the Treasury, Secretary of Commerce, and other officials to evaluate and counter these foreign policies. This involves potentially renewing investigations into DSTs imposed by countries like France, Austria, and Italy, and identifying any tax or regulatory practices that undermine American businesses globally.
