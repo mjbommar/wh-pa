@@ -1,4 +1,4 @@
-[Uncategorized](https://www.whitehouse.gov/uncategorized/)
+[Presidential Actions](https://www.whitehouse.gov/presidential-actions/)
 
 # 					Limiting Lame-Duck Collective Bargaining Agreements That Improperly Attempt to Constrain the New President				
 
