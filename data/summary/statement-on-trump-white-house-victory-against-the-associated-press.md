@@ -1,0 +1,3 @@
+On February 24, 2025, the Trump White House released a statement highlighting its victory against the Associated Press regarding journalism practices within the administration. The statement emphasized that questioning the President at the White House and on Air Force One is a privilege for journalists, not a legal entitlement. This position is part of their broader initiative to hold what they call 'Fake News' accountable. 
+
+The administration's intent is to provide an unprecedented level of access to the press, claiming to be the most transparent administration in history. By underscoring this victory, the statement reinforces their message of maintaining strict standards for journalistic access and integrity in reporting.
