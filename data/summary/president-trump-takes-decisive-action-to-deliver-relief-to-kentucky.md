@@ -1,0 +1,5 @@
+On February 25, 2025, President Donald J. Trump granted a Major Disaster Declaration for Kentucky in response to severe storms and flooding. This action enables federal funding to be available for individuals and communities affected by the disaster. The assistance covers temporary housing, business recovery, and support for local governments and nonprofit organizations.
+
+Acting FEMA Administrator Cameron Hamilton emphasized the importance of President Trump's early involvement, which led to an emergency response starting from February 16. Trump administration officials, including Deputy Press Secretary Kush Desai, assured commitment to providing the necessary resources to help Kentucky recover. Governor Andy Beshear and Congressman Hal Rogers expressed gratitude for the rapid federal response and assistance provided.
+
+The disaster declaration follows an earlier emergency declaration, with Governor Beshear noting the swift governmental response. This action highlights a coordinated effort by state and federal agencies to address the needs of Kentucky residents and ensure a path toward rebuilding and recovery.
