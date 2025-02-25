@@ -1,0 +1,4 @@
+# Summary
+On February 25, 2025, a presidential memorandum was issued directing several key government officials to suspend security clearances of certain individuals connected with Peter Koski and the law firm Covington & Burling LLP. This action targets those who assisted former Special Counsel Jack Smith, pending an evaluation of their involvement in potentially misusing the judicial process.
+
+The memorandum mandates a comprehensive review of government contracts with Covington & Burling LLP and requires the termination of any existing engagements with the firm to the extent permitted by law. The goal of this directive is to align these actions with the interests of the United States citizens and the current administration's priorities, as detailed in Executive Order 14147 titled "Ending the Weaponization of the Federal Government." This memorandum is clear that it does not establish any legal rights enforceable against the United States or its entities.
