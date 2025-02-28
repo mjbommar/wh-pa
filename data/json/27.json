@@ -10,23 +10,20 @@
   "og:image:width": "1200",
   "og:image:height": "628",
   "og:image:type": "image/png",
-  "markdown": "# \t\t\t\t\tNews\t\t\t\t\n\n[Articles](/articles/)\n\n[Briefings &amp; Statements](/briefings-statements/)\n\n[Fact Sheets](/fact-sheets/)\n\n[Presidential Actions](/presidential-actions/)\n\n[Remarks](/remarks/)\n\n    -  [President Trump Announces Cabinet and Cabinet Level Appointments](https://www.whitehouse.gov/presidential-actions/2025/01/cabinet-and-cabinet-level-appointments/)[Presidential Actions](https://www.whitehouse.gov/presidential-actions/)January 20, 2025 \n    -  [President Trump\u2019s America First Priorities](https://www.whitehouse.gov/briefings-statements/2025/01/president-trumps-america-first-priorities/)[Briefings &amp; Statements](https://www.whitehouse.gov/briefings-statements/)January 20, 2025 \n\n[Prev](https://www.whitehouse.gov/news/page/26/)\n[1](https://www.whitehouse.gov/news/)\u2026[25](https://www.whitehouse.gov/news/page/25/)[26](https://www.whitehouse.gov/news/page/26/)27\n",
-  "summary": "The page from the White House website includes various sections dedicated to different types of news and updates related to presidential actions and statements. It features links to articles, briefings, fact sheets, and presidential actions alongside remarks. Important updates include President Trump's announcements of Cabinet and Cabinet-level appointments, along with his America First Priorities, both dated January 20, 2025. These reflect the administration's strategic plans and decisions in their respective areas.\n\nThe content structure allows users to navigate through the White House's official communications and updates easily. It includes pagination for browsing through older documents, indicating continuous updates and documentation of presidential activities and decisions. Such platforms are essential for keeping both the public and stakeholders informed about the governance and decision-making processes of the executive office.",
-  "eli5": "The White House website has different sections where they post news about what the president is doing, like choosing helpers for important jobs and sharing his big ideas for the country. This helps everyone know what's going on.",
+  "markdown": "# \t\t\t\t\tNews\t\t\t\t\n\n[Articles](/articles/)\n\n[Briefings &amp; Statements](/briefings-statements/)\n\n[Fact Sheets](/fact-sheets/)\n\n[Presidential Actions](/presidential-actions/)\n\n[Remarks](/remarks/)\n\n    -  [President Trump Announces Sub-Cabinet Appointments](https://www.whitehouse.gov/presidential-actions/2025/01/sub-cabinet-appointments/)[Presidential Actions](https://www.whitehouse.gov/presidential-actions/)January 20, 2025 \n    -  [President Trump Announces Cabinet and Cabinet Level Appointments](https://www.whitehouse.gov/presidential-actions/2025/01/cabinet-and-cabinet-level-appointments/)[Presidential Actions](https://www.whitehouse.gov/presidential-actions/)January 20, 2025 \n    -  [President Trump\u2019s America First Priorities](https://www.whitehouse.gov/briefings-statements/2025/01/president-trumps-america-first-priorities/)[Briefings &amp; Statements](https://www.whitehouse.gov/briefings-statements/)January 20, 2025 \n\n[Prev](https://www.whitehouse.gov/news/page/26/)\n[1](https://www.whitehouse.gov/news/)\u2026[25](https://www.whitehouse.gov/news/page/25/)[26](https://www.whitehouse.gov/news/page/26/)27\n",
+  "summary": "# Summary\n\nThe page from the White House website lists recent news resources, provided in various formats such as articles, briefings, statements, fact sheets, and presidential actions, along with direct links to their respective sections. The page specifically highlights three presidential announcements dated January 20, 2025, under the leadership of President Trump.\n\nThe first announcement details sub-cabinet appointments made by President Trump. The second announcement focuses on appointments to the Cabinet and Cabinet-level positions, emphasizing key personnel decisions. The third announcement relates to President Trump\u2019s 'America First' priorities, articulated through briefings and statements. These documents fall under the categories of Presidential Actions and Briefings & Statements. Additionally, the website navigation aids in accessing previous pages of news content.",
+  "eli5": "The page talks about things President Trump did on January 20, 2025, like choosing people for important jobs and sharing his plans. It also shows where to read more about these news topics.",
+  "keywords": [
+    "Trump",
+    "appointments",
+    "cabinet",
+    "America First",
+    "presidential actions"
+  ],
   "issues": [
-    "The actual webpage may not be available for verification.",
-    "Dates mentioned are in the future at the time of the model's last update.",
-    "Link functionality and content updates could differ."
+    "Timeline accuracy with future dates",
+    "Potential context ambiguity without additional information"
   ],
   "citations": [],
-  "keywords": [
-    "White House",
-    "news",
-    "presidential actions",
-    "Cabinet appointments",
-    "America First",
-    "President Trump",
-    "2025"
-  ],
   "document_type": "Presidential Action"
 }
