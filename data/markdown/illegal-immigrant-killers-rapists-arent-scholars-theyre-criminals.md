@@ -21,3 +21,7 @@ In a strong contender for dumbest statement of the year, disgraced “filmmaker�
     - A Mexican national  convicted  of sexual exploitation of a child, apprehended in San Francisco.
     - A Turkish national who is a  known  or suspected terrorist, apprehended in New York City.
     - A Mexican national  convicted  of drug trafficking, apprehended in Texas.
+
+----
+
+**White House Deputy Press Secretary Kush Desai:**“Michael Moore is free to visit the quantum computing and particle physics labs that MS-13, TDA, and the cartels are now going to have to set up back home in El Salvador, Venezuela, and Mexico. The Trump Administration will remain focused on putting our own citizens first by mass deporting illegal migrant rapists, murderers, and other criminals out of American communities.”
