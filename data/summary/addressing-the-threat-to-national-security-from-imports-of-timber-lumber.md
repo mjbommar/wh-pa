@@ -1,0 +1,5 @@
+### Summary
+
+On March 1, 2025, the President of the United States issued an executive order to address the challenges posed by imported timber, lumber, and their derivative products on national security. The wood products industry is critical to both economic strength and industrial resilience in the United States, supporting vital civilian and military construction efforts. Despite having the capacity to meet domestic demand, the US has been a net importer of lumber since 2016, largely due to foreign subsidies and import dumping, which threaten the domestic market.
+
+The executive order mandates the Secretary of Commerce to investigate the impact of foreign imports on national security, focusing on aspects such as domestic production capacity, foreign supply chain roles, and trade practices. It requires consultation with various departments, including Defense, and the submission of a report within 270 days detailing security threats and recommended measures to strengthen domestic production. This may include tariffs, export controls, and strategic investments, underscoring the importance of a resilient domestic timber and lumber supply chain.
