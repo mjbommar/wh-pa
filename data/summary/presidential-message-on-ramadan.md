@@ -1,0 +1,3 @@
+On March 3, 2025, the President of the United States issued a message in recognition of the holy month of Ramadan. This message is aimed at Muslim Americans and highlights the importance of Ramadan as a time for fasting, prayer, and community gathering. The President emphasizes the administration's commitment to upholding religious liberty, which is a fundamental aspect of American life.
+
+In the message, the President expresses hope that Ramadan will inspire people to lead lives filled with holiness and virtue. The message also reinforces the administration's commitment to peace and dignity for all individuals. The President extends best wishes for a season of reflection on divine grace and love, underscoring a commitment to religious harmony and respect.
