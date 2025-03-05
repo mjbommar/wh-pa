@@ -1,0 +1,5 @@
+# Summary
+
+President Donald J. Trump issued an Executive Order on March 4, 2025, renaming the Anahuac National Wildlife Refuge to honor Jocelyn Nungaray, a twelve-year-old girl tragically killed in Houston, Texas, in 2024. Jocelyn's murder is linked to two Venezuelan illegal aliens, allegedly gang members, who were released into the U.S. due to the immigration policies of the previous administration. The renaming aims to pay tribute to Jocelyn’s love of animals.
+
+The document also critiques the immigration policies during President Biden's administration, blaming them for allowing numerous illegal entries into the U.S. and linking these policies to increased criminal activity. President Trump’s administration has since intensified border security measures, significantly reducing illegal crossings and apprehensions. These measures include resuming border wall construction, enacting stricter immigration policies, and reversing many of Biden's immigration initiatives.
